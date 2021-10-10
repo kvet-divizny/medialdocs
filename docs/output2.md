@@ -5,16 +5,16 @@ Organizace obsahu
 Své nahrávky v Medialu můžete podrobněji třídit pomocí systému kategorií
 a tagů. Jejich používání u[možňuje obsah v knihovně efektivněji
 organizovat a napomáhá uživatelům snáze dohledat konkrétní
-nahrávky. ]{style="background-color:transparent"}[Kategorie a tagy lze
+nahrávky. ][Kategorie a tagy lze
 nastavit
-při]{style="background-color:transparent"}[ ]{style="background-color:transparent"}[vkládání
+při][vkládání
 videa do knihovny](/home/jak-nahrat-do-medialu-soubor-z-pocitace)[.
 Změnit je můžete
-pomocí]{style="background-color:transparent"}[ ]{style="background-color:transparent"}[dodatečných
+pomocí][dodatečných
 úprav](/home/jak-muazu-dodatecne-upravit-metadata)[, přičemž kategorie
 lze rychle měnit také na
-stránce]{style="background-color:transparent"}[ ]{style="background-color:transparent"}[Můj
-obsah](/home/kde-najdu-vsechna-svoje-videa)[.]{style="background-color:transparent"}
+stránce][Můj
+obsah](/home/kde-najdu-vsechna-svoje-videa)[.]
 
 \
 
@@ -36,35 +36,35 @@ Obsah
 
 
 
-#### []{#TOC-Kategorie-vide-}Kategorie videí
+#### []Kategorie videí
 
 [**Kategorie videí** je možné si představit jako adresáře, ve kterých
 jsou videa uložena -- u každé kategorie je zároveň jasně určeno, kteří
 uživatelé do ní mohou videa vkládat a kterým uživatelům se bude na webu
-Medialu ]{style="background-color:transparent"}[[zobrazovat její
-obsah](/home/kdo-muaze-videt-muaj-obsah)]{style="background-color:rgb(255,255,255)"}[.
+Medialu ][[zobrazovat její
+obsah](/home/kdo-muaze-videt-muaj-obsah)][.
 Pro efektivní práci s videi a pro využití možností, které Medial nabízí,
 je proto důležité pochopit účel a způsob využití jednotlivých
-kategorií.]{style="background-color:transparent"}
+kategorií.]
 
 [Každý přihlášený uživatel má v systému připravenou osobní kategorii
 **Personal (private)**, která není nikdy jako taková dostupná dalším
 uživatelům. Videa v této kategorii slouží primárně pro osobní použití
 daného uživatele a ostatním uživatelům Medialu se bez dalšího nastavení
 nezobrazují. V případě potřeby je ale možné konkrétní video z osobní
-kategorie sdílet s ostatními]{style="background-color:transparent"}[,
+kategorie sdílet s ostatními][,
 např. [vložením videa do e-kurzu v
 Moodlu](/home/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) nebo
 [posláním neveřejného
 odkazu](/home/jak-muazu-sva-videa-sirit#TOC-Dal-mo-nosti-sd-len-) do
 mailu (podrobný návod [zde](/home/jak-muazu-sva-videa-sirit)), pro tento
 případ slouží kategorie **Personal
-(public)**.]{style="background-color:transparent"}
+(public)**.]
 
 [Do kategorie Personal (private) budou také odeslána videa pořízená
 pomocí automatizovaného záznamového zařízení v nově rekonstruovaných
 učebnách a pomoci nástroje [Techsmith
-Relay](https://sites.google.com/a/phil.muni.cz/elearning-relay/).]{style="background-color:transparent"}
+Relay](https://sites.google.com/a/phil.muni.cz/elearning-relay/).]
 
 [Kromě osobních kategorií jednotlivých uživatelů jsou v Medialu k
 dispozici kategorie pro potřeby jednotlivých **pracovišť FF MU**, díky
@@ -72,7 +72,7 @@ kterým je možné sdílet videa s kolegy z daného ústavu, se
 studenty/zaměstnanci fakulty, nebo s širokou veřejností. Nastavení
 přístupu k prohlížení a správě videí v rámci kategorií pracovišť se liší
 v závislosti na typu pracoviště
-(]{style="background-color:transparent"}[akademické/neakademické).]{style="background-color:transparent"}
+(]
 
 \
 
@@ -80,16 +80,16 @@ v závislosti na typu pracoviště
 kterých máte právo přidávat obsah -- kromě kategorie Personal to obvykle
 budou kategorie Vašeho pracoviště (zaměstnanecké/veřejné).
 
-#### []{#TOC-Kategorie-kde-bude-video-ulo-eno-}Kategorie (kde bude video uloženo)
+#### []Kategorie (kde bude video uloženo)
 
 [Každé pracoviště, které Medial využívá, má v knihovně dvě či více
 kategorií s rozličnými přístupovými právy (pro přístup a správu
-videí).]{style="background-color:transparent"}
+videí).]
 
 [Každá z těchto hlavních kategorií obsahuje několik podkategorií, které
 se zobrazí po rozkliknutí názvu kategorie v levém sloupci v knihovně
 videí. Podkategorie přitom přejímají způsob zápisu od hlavní
-kategorie.]{style="background-color:transparent"}
+kategorie.]
 
 -   **x Filozofická fakulta** -- kategorie pro veřejná videa určená k
     propagaci celé FF MU, videa spadající do celofakultní agendy
@@ -135,48 +135,48 @@ kategorie.]{style="background-color:transparent"}
 podkategorie, **k jejichž obsahu máte v danou chvíli přístup**. V
 seznamu kategorií tedy neuvidíte kategorie bez Vámi přístupného obsahu
 či zaměstnanecká videa cizích
-pracovišť. ]{style="background-color:transparent"}
+pracovišť. ]
 
 **Do jaké kategorie tedy své video umístit?**[ V závislosti na jeho
-určení máte obvykle tři možnosti:]{style="background-color:transparent"}
+určení máte obvykle tři možnosti:]
 
 1.  pokud má být video volně přístupné všem návštěvníkům Medialu, zvolte
     veřejnou kategorii svého pracoviště
 2.  [pokud jde o video určené pro vnitřní potřeby Vašeho pracoviště,
     umístěte jej do zaměstnanecké
-    kategorie]{style="background-color:transparent"}
+    kategorie]
 3.  [pokud nechcete, aby bylo video pro ostatní uživatele Medialu
     přístupné, zvolte kategorii
-    Personal]{style="background-color:transparent"}
+    Personal]
 
-#### []{#TOC-Tagy-jak-bude-video-ozna-eno-}Tagy (jak bude video označeno)
+#### []Tagy (jak bude video označeno)
 
 Zatímco kategorie určuje pracoviště, v rámci jehož agendy je nahrávka
 využívána, tagy nesou další informace o tematickém zaměření videa. 
 
 Tagy lze ke každé nahrávce připojit v průběhu jejího vkládání do
 knihovny. Můžete přitom
-použít [tagy ]{style="background-color:transparent"}[již existující,
+použít [tagy ][již existující,
 nebo vytvořit nové. Tagy by měly nahrávky blíže charakterizovat a pomoci
 v knihovně objevit zajímavý obsah i uživatelům, kteří nehledají žádnou
 konkrétní nahrávku. Na druhou stranu mohou díky vhodně zvoleným tagům
 Vaši nahrávku nalézt a zhlédnout i případní zájemci mimo okruh Vašich
-studentů.]{style="background-color:transparent"}
+studentů.]
 
 [Jako vhodné tagy se proto nabízí například **tematické určení
 nahrávky** (typu \"barokní literatura\", \"fenomenologie\" nebo
 \"štípaná industrie\") nebo **jméno pozvaného přednášejícího**. Vzhledem
 ke specifickému charakteru nahrávek naopak
-nedoporučujeme ]{style="background-color:transparent"}[používat jako
+nedoporučujeme ][používat jako
 tagy obecné pojmy typu \"přednáška\" či \"konference\", které k popisu
-nahrávek přispívají jen málo.]{style="background-color:transparent"}
+nahrávek přispívají jen málo.]
 
 [K nahrávce lze samozřejmě připojit i více tagů, nezapomeňte však, že je
 nelze při [filtrování
 obsahu](/home/zakladni-orientace-v-medialu#TOC-Filtrov-n-obsahu)
-kombinovat.]{style="background-color:transparent"}
+kombinovat.]
 
-#### []{#TOC-Popisky}[Popisky]{style="background-color:transparent"}
+#### []
 
 [Další podrobnosti o nahrávce, například akci nebo kód předmětu, k němuž
 se vztahuje, nebo datum, kdy byla pořízena, doporučujeme uvádět do
@@ -184,7 +184,7 @@ popisku nahrávky. Díky popiskům mohou ostatní uživatelé snadno zjistit,
 čeho se Vaše video týká, navíc lze pomocí textů v popiscích videa také
 vyhledávat. Aby byly popisky v mediální knihovně přehledné a jednotné,
 doporučujeme užívat následující
-šablonu:]{style="background-color:transparent"}
+šablonu:]
 
 \
 
@@ -208,7 +208,7 @@ cultural event / interview / reportage / promo video\
 **Date:** semestr a rok (např. Autumn 2019/Spring 2020)
 
 
-#### []{#TOC-ast-dotazy-FAQ-}Časté dotazy (FAQ)
+#### []Časté dotazy (FAQ)
 
 **Proč v knihovně videí nevidím všechny kategorie?**
 
