@@ -1,2 +1,5 @@
 site_name: Prdelnidira
 site_url: https://example.com/
+theme:
+  name: readthedocs
+  include_sidebar: true
