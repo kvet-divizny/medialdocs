@@ -55,7 +55,7 @@ editovat](/home/jak-muazu-dodatecne-upravit-metadata).
 
 <div style="display:block;text-align:left">
 
-[![](/home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky%20GS.png)](/home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky%20GS.png?attredirects=0)
+![](/home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky%20GS.png)[](/home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky%20GS.png?attredirects=0)
 
 </div>
 
