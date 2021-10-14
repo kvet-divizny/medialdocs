@@ -11,7 +11,7 @@ můžete pomocí [dodatečných
 lze rychle měnit také na stránce [Můj
 obsah](/home/kde-najdu-vsechna-svoje-videa).
 
-
+[TOC]
 
 Obsah
 
