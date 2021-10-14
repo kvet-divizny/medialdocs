@@ -11,7 +11,7 @@ můžete pomocí [dodatečných
 lze rychle měnit také na stránce [Můj
 obsah](/home/kde-najdu-vsechna-svoje-videa).
 
-[TOC]
+
 
 Obsah
 
@@ -203,4 +203,5 @@ ostatní zaměstnanci pracoviště upravovat či smazat?**
 Nikoliv, nahrávku může vždy spravovat pouze její vlastník (Contributor)
 bez ohledu na to, v jaké kategorii se právě nachází.
 
-> 
+Ukázka obrázku:
+![charming screenshot](/home/sprava_obsahu.png)
