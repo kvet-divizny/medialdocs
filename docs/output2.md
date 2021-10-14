@@ -205,4 +205,4 @@ bez ohledu na to, v jaké kategorii se právě nachází.
 
 Ukázka obrázku:
 
-![charming screenshot](/home/sprava_obsahu.png)
+![charming_screenshot](home/sprava_obsahu.png)
