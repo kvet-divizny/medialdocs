@@ -3,3 +3,6 @@ site_url: https://example.com/
 theme:
   name: readthedocs
   include_sidebar: true
+markdown_extensions:
+  - toc:
+      toc_depth: 3
