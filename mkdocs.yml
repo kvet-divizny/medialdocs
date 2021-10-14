@@ -5,4 +5,4 @@ theme:
   include_sidebar: true
 markdown_extensions:
   - toc:
-      toc_depth: 3
+      toc_depth: 4
