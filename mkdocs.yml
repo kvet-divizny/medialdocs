@@ -1,7 +1,7 @@
 site_name: Prdelnidira
 site_url: https://example.com/
 theme:
-  name: readthedocs
+  name: material
   include_sidebar: true
 markdown_extensions:
   - toc:
