@@ -1,7 +1,7 @@
 Dotykové panely
 ===============
 
-[TOC]
+
 
 1.  [**1** Zapnutí systému a popis ovládacího
     panelu](#TOC-Zapnut-syst-mu-a-popis-ovl-dac-ho-panelu)
@@ -9,19 +9,19 @@ Dotykové panely
         panelu](#TOC-Popis-tla-tkov-ho-panelu)
 2.  [**2** Ovládání záznamového
     zařízení](#TOC-Ovl-d-n-z-znamov-ho-za-zen-)
-3.  [**3** Volba vstupu](#TOC-Volba-vstupu)
-    1.  [**3.1** PC -- projekce z počítače v
+
+    1.  [**3.1** PC – projekce z počítače v
         učebně](#TOC-PC-projekce-z-po-ta-e-v-u-ebn-)
-    2.  [**3.2** VGA + HDMI -- projekce z vlastního
+    2.  [**3.2** VGA + HDMI – projekce z vlastního
         notebooku](#TOC-VGA-HDMI-projekce-z-vlastn-ho-notebooku)
-    3.  [**3.3** Apple TV -- projekce ze zařízení
+    3.  [**3.3** Apple TV – projekce ze zařízení
         Apple](#TOC-Apple-TV-projekce-ze-za-zen-Apple)
-    4.  [**3.4** Vizualizér -- projekce z
+    4.  [**3.4** Vizualizér – projekce z
         vizualizéru](#TOC-Vizualiz-r-projekce-z-vizualiz-ru)
     5.  [**3.5** Nastavení vizualizéru](#TOC-Nastaven-vizualiz-ru)
 4.  [**4** Kontrola funkčnosti zařízení v
     učebně](#TOC-Kontrola-funk-nosti-za-zen-v-u-ebn-)
-5.  [**5** FAQ](#TOC-FAQ)
+
 
 
 
@@ -43,26 +43,26 @@ dotykovými panely.
 
 
 
-### [] 
+### 
 
-### [] 
+### 
 
-### [] 
+### 
 
-### [] 
+### 
 
-### [] 
+### 
 
-### [] 
+### 
 
-### []Zapnutí systému a popis ovládacího panelu
+### Zapnutí systému a popis ovládacího panelu
 
 **Dotykový panel** je umístěn na katedře. Pokud je systém projektorů
 vypnutý, uvidíte na něm tuto hlášku:
 
 ![](dotykove-panely/uvodni_obrazovka_0.png)
 
-Obr. 1: Zapnutí systému
+> Obr. 1: Zapnutí systému
 
 
 
@@ -75,7 +75,7 @@ nepřetržitě a není třeba jej zapínat a vypínat. 
 
 
 V některých větších učebnách, jako je např. B2.13, je k dispozici výběr
-ze dvou modů -- jednoduchá projekce (tzv. kino projekce) a dvojitá
+ze dvou modů – jednoduchá projekce (tzv. kino projekce) a dvojitá
 projekce, viz obrázek 2. V těchto učebnách jsou tři projektory, v
 případě jednoduché projekce je spuštěn jeden uprostřed a zabírá celý
 promítací prostor. V případě dvojité projekce jsou pak spuštěny dva
@@ -83,7 +83,7 @@ krajní a plocha je pak rozdělena a na každé z nich může být jiný zdroj.
 
 
 
-[![](/_/rsrc/1489751939198/dotykove-panely/vyber_projekce_0.png)](/dotykove-panely/vyber_projekce_0.png?attredirects=0)
+![](dotykove-panely/vyber_projekce_0.png)
 
 > Obr. 2: Výběr z jednoduché nebo dvojité projekce
 > 
@@ -91,17 +91,16 @@ krajní a plocha je pak rozdělena a na každé z nich může být jiný zdroj.
 **Pozor!** Při dvojité projekci se nahrává pouze jeden vstup, a to ten,
 pod kterým je na panelu umístěno tlačítko "Spustit záznam".
 
-#### []Popis tlačítkového panelu
+#### Popis tlačítkového panelu
 
 Na dotykovém panelu můžete vidět tyto volby (obrázek je z dvojité
 projekce, jednoduchá projekce je pak prosta pravé strany).
 
 
 
-[![](/_/rsrc/1489751466233/dotykove-panely/dvojita_projekce_0.png)](/dotykove-panely/dvojita_projekce_0.png?attredirects=0)
+![](dotykove-panely/dvojita_projekce_0.png)
 
 > Obr. 3: Dotykový panel a jeho komponenty
->
 > 
 
 1.  Tlačítko k vypnutí promítacího systému.
@@ -114,10 +113,10 @@ projekce, jednoduchá projekce je pak prosta pravé strany).
     ostatní neviděli, co právě děláte (např. při vyplňování
     přihlašovacích údajů).
 
--   Zmrazit -- promítaný obraz se zmrazí v daný moment, kdy stisknete
+-   Zmrazit – promítaný obraz se zmrazí v daný moment, kdy stisknete
     tlačítko.
--   Ztmavit -- promítaný obraz se ztmaví.
--   Vypnout -- promítaný obraz se vypne (ale nevypne se promítací
+-   Ztmavit – promítaný obraz se ztmaví.
+-   Vypnout – promítaný obraz se vypne (ale nevypne se promítací
     systém).
 
 Zde si vybíráte vstup, ze kterého budou do promítací plochy proudit
@@ -127,7 +126,7 @@ Zde spustíte nahrávání záznamu.
 
 Zde můžete vypnout světla, aniž byste museli odbíhat od katedry.
 
-### []Ovládání záznamového zařízení
+### Ovládání záznamového zařízení
 
 Při používání zařízení pro automatizovaný záznam postupujte následujícím
 způsobem:
@@ -136,8 +135,8 @@ způsobem:
     aktivuje.
 2.  Zapněte projektor a zvolte zdroj obrazu ([viz
     níže](/dotykove-panely#TOC-Volba-vstupu)).
-3.  Stiskněte "Spustit záznam". Tlačítko se rozsvítí červeně na
-    znamení, že probíhá nahrávání.
+3.  Stiskněte "Spustit záznam". Tlačítko se rozsvítí červeně na znamení,
+    že probíhá nahrávání.
     **Pozor!** Zpracovány jsou pouze nahrávky, které trvají déle než
     jednu minutu. Kratší záznamy systém automaticky maže.
 4.  Pro ukončení nahrávání stiskněte tlačítko "Ukončit záznam".
@@ -159,10 +158,9 @@ v knihovně médií rozpoznat a dohledat.
 
 
 
-[![](/_/rsrc/1489751388753/dotykove-panely/zaznam_0.png)](/dotykove-panely/zaznam_0.png?attredirects=0)
+![](dotykove-panely/zaznam_0.png)
 
 > Obr. 4: Právě probíhající záznam
->
 > 
 
 **Poznámka.** Aby byl přednášející dobře slyšet, doporučujeme použít
@@ -175,30 +173,30 @@ přímo do videa, aby byla zajištěna dobrá čitelnost prezentací a jiných
 výukových materiálů (obr. 2). Nahrávat lze i bez zapnutého projektoru,
 video pak bude obsahovat jen obraz z učebny.
 
-[![](/_/rsrc/1489680322255/dotykove-panely/vzhled%202.0%20GS.png)](/dotykove-panely/vzhled%202.0%20GS.png?attredirects=0)
+![](dotykove-panely/vzhled%202.0%20GS.png)
 
 > Obr. 5: Vzhled výsledného videa
 > 
 
-### []Volba vstupu
+### Volba vstupu
 
 Můžete si vybrat, z jakého zdroje budete promítat na plátno. Na
 dotykovém panelu máte několik možností: PC, VGA, HDMI, Apple TV a
 vizualizér. Můžete si tak vybrat podle toho, co Vám nejvíce vyhovuje a
 co nejvíce podporuje Vaše metody výuky.
 
-#### []PC -- projekce z počítače v učebně
+#### PC – projekce z počítače v učebně
 
 Projekci z počítače umístěného na katedře aktivujete stisknutím
 tlačítka **"PC"**.
 
-#### []VGA + HDMI -- projekce z vlastního notebooku
+#### VGA + HDMI – projekce z vlastního notebooku
 
 Vlastní notebook můžete připojit pomocí rozhraní VGA či HDMI. Potřebné
 konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
-[![](/_/rsrc/1489680298745/dotykove-panely/konektory%202.0%20GS.png)](/dotykove-panely/konektory%202.0%20GS.png?attredirects=0)
+![](dotykove-panely/konektory%202.0%20GS.png)
 
 > Obr. 6: Konektory pro připojení vlastního notebooku
 > 
@@ -211,7 +209,7 @@ Rozhraní **VGA **je starší analogový standard, který slouží pouze k
 přenosu obrazu. Pro přenos zvuku je nutné zapojit zvlášť
 konektor **audio jack**. Kvalita obrazu může být nižší než u HDMI.
 
-#### []Apple TV -- projekce ze zařízení Apple
+#### Apple TV – projekce ze zařízení Apple
 
 Učebny v budovách A a B2 jsou vybaveny zařízením Apple TV, které
 umožňuje umožňuje bezdrátový přenos obrazu ze zařízení Apple. Snadno tak
@@ -219,11 +217,10 @@ můžete promítat obraz například z vlastního iPadu nebo MacBooku. Pro
 připojení k Apple TV postupujte následujícím způsobem:
 
 1.  Stiskněte tlačítko "Apple TV" na ovládacím panelu.
-
 2.  V ovládacím centru svého zařízení Apple stiskněte tlačítko
     "AirPlay".
 
-    [![](/_/rsrc/1489680301826/dotykove-panely/ovl_centrum%202.0%20GS.png)](/dotykove-panely/ovl_centrum%202.0%20GS.png?attredirects=0)
+    ![](dotykove-panely/ovl_centrum%202.0%20GS.png)
 
     > Obr. 7: Tlačítko AirPlay v ovládacím centru
     > 
@@ -232,7 +229,7 @@ připojení k Apple TV postupujte následujícím způsobem:
     učebny, ve které se nacházejí. Zvolte to, na které chcete obraz
     přenášet.
 
-    [![](/_/rsrc/1489680304827/dotykove-panely/seznam_zarizeni%20GS.png)](/dotykove-panely/seznam_zarizeni%20GS.png?attredirects=0)
+    ![](dotykove-panely/seznam_zarizeni%20GS.png)
 
     > Obr. 8: Seznam dostupných Apple TV
     > 
@@ -240,33 +237,32 @@ připojení k Apple TV postupujte následujícím způsobem:
 4.  Zadejte kód, který se Vám zobrazí na promítací ploše, a potvrďte
     stisknutím "Ok". Obě zařízení se následně spárují.
 
-    [![](/_/rsrc/1489680291063/dotykove-panely/code%20GS.png)](/dotykove-panely/code%20GS.png?attredirects=0)
+    ![](dotykove-panely/code%20GS.png)
 
     > Obr. 9: Pole pro zadání kódu k Apple TV
 
-#### []Vizualizér -- projekce z vizualizéru
+#### Vizualizér – projekce z vizualizéru
 
 Učebny v budovách A a B2 jsou vybaveny vizualizérem, který funguje jako
 kamera snímající určité místo na katedře a umožňuje tak promítat
 například materiály vytištěné na papíře. Vstup z vizualizéru zvolíte
-tlačítkem **"Vizualizér**". Vizualizér je buď umístěný na kraji
-katedry, nebo zavěšený přímo nad katedrou. Ovládat jej lze pomocí
-dotykového panelu.
+tlačítkem **"Vizualizér**". Vizualizér je buď umístěný na kraji katedry,
+nebo zavěšený přímo nad katedrou. Ovládat jej lze pomocí dotykového
+panelu.
 
-#### []Nastavení vizualizéru
+#### Nastavení vizualizéru
 
 Ovládací rozhraní vizualizéru otevřete stisknutím tlačítka "Nastavení
-vizualizéru" (viz obr. 3). Upravovat můžete přiblížení (Zoom),
-zaostření a jas obrazu. Tlačítkem "Zmrazit" lze promítaný obraz
-zafixovat.
+vizualizéru" (viz obr. 3). Upravovat můžete přiblížení (Zoom), zaostření
+a jas obrazu. Tlačítkem "Zmrazit" lze promítaný obraz zafixovat.
 
 
-[![](/_/rsrc/1489751639891/dotykove-panely/vizualizer_0.png)](/dotykove-panely/vizualizer_0.png?attredirects=0)
+![](dotykove-panely/vizualizer_0.png)
 
 > Obr. 10: Nastavení vizualizéru
 > 
 
-### []Kontrola funkčnosti zařízení v učebně
+### Kontrola funkčnosti zařízení v učebně
 
 Správnou funkčnost záznamového zařízení si můžete ověřit přímo v učebně.
 Na ploše učitelského PC je umístěna ikona "OBS Studio", po jejím
@@ -276,12 +272,12 @@ projektoru vložený do záznamu a také zda je zaznamenáván zvuk. Úroveň
 snímaného zvuku je indikována vizuálně pomocí svítícího ukazatele pod
 obrazem z učebny.
 
-Pokud náhled není v pořádku, [kontaktuje](/kontakty) techniky CIT.
+Pokud náhled není v pořádku, [kontaktuje](/kontakty)techniky CIT.
 
 Náhled streamu můžete na učitelském PC otevřít kdykoliv i bez toho,
 abyste spouštěli samotný záznam.
 
-### []FAQ
+### FAQ
 
 **Co dělat, když záznam spustím nedopatřením?**
 
@@ -309,8 +305,8 @@ Propojení s účtem zřejmě nefunguje správně a Vaše video by mohlo být
 přiřazeno někomu jinému. Pokud můžete, kontaktujte techniky CIT
 (klapka **1542**). Pokud nezbývá čas a záznam nutně potřebujete, zkuste
 se nejprve přihlásit a znovu odhlásit a po ukončení záznamu nám
-[napište](https://it.muni.cz/phil/ke/kontakty#main) -- ověříme, že
-záznam skončil ve správné kategorii.
+[napište](https://it.muni.cz/phil/ke/kontakty#main) – ověříme, že záznam
+skončil ve správné kategorii.
 
 
 **Nepřišel mi mail s informací o zpracování záznamu.**
@@ -326,3 +322,4 @@ ve výsledném záznamu?**
 
 Ano, v záznamu se vždy objeví právě ten vstup, který jste v dané chvíli
 v učebně používali.
+

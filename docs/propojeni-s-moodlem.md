@@ -1,22 +1,22 @@
 Propojení s Moodlem
 ===================
 
-[TOC]
 
-1.  [**1** Přístup do Medialu](#TOC-P-stup-do-Medialu)
+
+
 2.  [**2** První přihlášení a propojení
     účtů](#TOC-Prvn-p-ihl-en-a-propojen-t-)
 3.  [**3** Medial vs. vložit
     multimédia](#TOC-Medial-vs.-vlo-it-multim-dia)
-4.  [**4** Časté dotazy (FAQ)](#TOC-ast-dotazy-FAQ-)
+
 
 Jednou z předností Medialu je jeho propojení s prostředím pro
 e-learningové kurzy [Moodle](http://elf.phil.muni.cz). Díky němu můžete
 využít všech výhod mediální knihovny, aniž byste opustili svůj kurz.
 
-[![](/_/rsrc/1478444065077/home/propojeni-s-moodlem/grafik.png)](/home/propojeni-s-moodlem/grafik.png?attredirects=0)
+![](home/propojeni-s-moodlem/grafik.png)
 
-#### []Přístup do Medialu
+#### Přístup do Medialu
 
 Přístup do Medialu je zajištěn dvojím způsobem: jednak prostřednictvím
 zeleného **tlačítka Medial** (obr. 1), které je součástí HTML editoru a
@@ -29,7 +29,7 @@ procházet jej a vkládat do Moodlu.
 
 
 
-[![](/_/rsrc/1583927058502/home/propojeni-s-moodlem/Tla%C4%8D%C3%ADtko%20Medial%20v%20HTML%20editoru.png)](/home/propojeni-s-moodlem/Tla%C4%8D%C3%ADtko%20Medial%20v%20HTML%20editoru.png?attredirects=0)
+![](home/propojeni-s-moodlem/Tla%C4%8D%C3%ADtko%20Medial%20v%20HTML%20editoru.png)
 
 > Obr. 1: Tlačítko Medial v HTML editoru
 > 
@@ -40,7 +40,7 @@ kurzu [vložit již existující
 nahrávku](/home/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) z
 Medialu.
 
-#### []
+#### 
 
 Při prvním přístupu z Moodlu do Medialu budete muset zadat své
 přihlašovací údaje v podobě UČO a sekundárního hesla (obr. 2). Po tomto
@@ -48,11 +48,11 @@ prvním přihlášení se Vaše účty v obou systémech spárují a při dalš�
 přístupech tak již přihlášení nebude nutné.
 
 **Poznámka:** Propojení účtů je nutné i pro zobrazení videí vložených do
-Moodlu -- i studenti se tedy budou muset napoprvé přihlásit.
+Moodlu – i studenti se tedy budou muset napoprvé přihlásit.
 
 
 
-[![](/_/rsrc/1583932980055/home/propojeni-s-moodlem/Uvodni%20prihlaseni%20do%20medialu.png)](/home/propojeni-s-moodlem/Uvodni%20prihlaseni%20do%20medialu.png?attredirects=0)
+![](home/propojeni-s-moodlem/Uvodni%20prihlaseni%20do%20medialu.png)
 
 > Obr. 2: Úvodní přihlášení do Medialu
 > 
@@ -63,7 +63,7 @@ práva, takže vložíte-li do kurzu své soukromé video, studenti si jej
 v rámci kurzu budou moci přehrát, aniž byste jej museli zveřejňovat.
 Mimo kurz přitom bude nahrávka nadále nedostupná.
 
-#### []Medial vs. vložit multimédia
+#### Medial vs. vložit multimédia
 
 Oproti [klasickému vkládání
 multimédií](http://moodledocs.phil.muni.cz/editace-textu/vkladani-medii/vkladani-zvukovych-nahravek-a-videi)
@@ -80,7 +80,7 @@ neposlední řadě pak lze v Medialu uchovávat mnohem větší soubory (až do
 10 GB), což zejména oceníte, pokud chcete do kurzů vkládat delší videa
 ve vysoké kvalitě.
 
-#### []Časté dotazy (FAQ)
+#### Časté dotazy (FAQ)
 
 **K jakým videím se z Moodlu dostanu?**
 

@@ -13,20 +13,20 @@ obsah](/home/kde-najdu-vsechna-svoje-videa).
 
 
 
-[TOC]
 
-1.  [**1** Kategorie videí](#TOC-Kategorie-vide-)
+
+
 2.  [**2** Kategorie (kde bude video
     uloženo)](#TOC-Kategorie-kde-bude-video-ulo-eno-)
 3.  [**3** Tagy (jak bude video
     označeno)](#TOC-Tagy-jak-bude-video-ozna-eno-)
-4.  [**4** Popisky](#TOC-Popisky)
-5.  [**5** Časté dotazy (FAQ)](#TOC-ast-dotazy-FAQ-)
 
-#### []Kategorie videí
+
+
+#### Kategorie videí
 
 **Kategorie videí** je možné si představit jako adresáře, ve kterých
-jsou videa uložena -- u každé kategorie je zároveň jasně určeno, kteří
+jsou videa uložena – u každé kategorie je zároveň jasně určeno, kteří
 uživatelé do ní mohou videa vkládat a kterým uživatelům se bude na webu
 Medialu [zobrazovat její obsah](/home/kdo-muaze-videt-muaj-obsah). Pro
 efektivní práci s videi a pro využití možností, které Medial nabízí, je
@@ -59,10 +59,10 @@ v závislosti na typu pracoviště (akademické/neakademické).
 
 
 **Pozor!** Vlastní videa můžete umisťovat pouze do těch kategorií, ve
-kterých máte právo přidávat obsah -- kromě kategorie Personal to obvykle
+kterých máte právo přidávat obsah – kromě kategorie Personal to obvykle
 budou kategorie Vašeho pracoviště (zaměstnanecké/veřejné).
 
-#### []Kategorie (kde bude video uloženo)
+#### Kategorie (kde bude video uloženo)
 
 Každé pracoviště, které Medial využívá, má v knihovně dvě či více
 kategorií s rozličnými přístupovými právy (pro přístup a správu videí).
@@ -71,33 +71,33 @@ Každá z těchto hlavních kategorií obsahuje několik podkategorií, které
 se zobrazí po rozkliknutí názvu kategorie v levém sloupci v knihovně
 videí. Podkategorie přitom přejímají způsob zápisu od hlavní kategorie.
 
--   **x Filozofická fakulta** -- kategorie pro veřejná videa určená k
+-   **x Filozofická fakulta** – kategorie pro veřejná videa určená k
     propagaci celé FF MU, videa spadající do celofakultní agendy
     (nikoliv agend jednotlivých pracovišť), včetně kategorií vytvořených
     podle potřeb děkanátu FF MU (jednotlivé kategorie mohou být dostupné
     veřejnosti, pouze uživatelům FF MU, pouze zaměstnancům nebo pouze
     studentům, a to podle účelu vložených videí)
--   **xx Ústavy a katedry** -- kategorie pro veřejná videa akademických
+-   **xx Ústavy a katedry** – kategorie pro veřejná videa akademických
     pracovišť, tj. ústavů a kateder, obsahuje podkategorie pro každé
     akademické pracoviště FF MU (např. *xx Ústav anglistiky a
     amerikanistiky*, *xx Katedra divadelních studií* apod.), videa
     vložená do těchto kategorií budou vždy volně přístupná veřejnosti
     (tj. bez nutnosti přihlášení do Medialu)
--   **kategorie jednotlivých neakademických pracovišť FF MU** -- každé
+-   **kategorie jednotlivých neakademických pracovišť FF MU** – každé
     neakademické pracoviště může v Medialu využívat vlastní kategorii
     začínající zkratkou pracoviště (např. *CIT Centrum informačních
     technologií*, *UK Ústřední knihovna* apod.), obsahují vlastní
     podkategorie podle potřeb pracoviště (jednotlivé podkategorie mohou
     být dostupné veřejnosti, pouze uživatelům FF MU, pouze zaměstnancům
     nebo pouze studentům, a to podle účelu vložených videí)
--   **z Zaměstnanecká videa** -- kategorie pro zaměstnanecká videa,
+-   **z Zaměstnanecká videa** – kategorie pro zaměstnanecká videa,
     obsahuje podkategorie pro každé pracoviště (akademické i
     neakademické) FF MU (např. *z Ústav anglistiky a amerikanistiky*, *z
     Centrum informačních technologií* apod.). Obsah v těchto
     podkategoriích bude viditelný pouze pro zaměstnance toho kterého
     pracoviště, přičemž právo spravovat jednotlivé nahrávky má vždy
     pouze jejich vlastník.
--   **kategorie pracovišť mimo FF MU** -- spolupracující pracoviště mimo
+-   **kategorie pracovišť mimo FF MU** – spolupracující pracoviště mimo
     FF MU mají kategorie označené zkratkou MU (např. *MU
     Teiresiás* apod.), obsahují vlastní podkategorie podle potřeb
     kontrétního pracoviště
@@ -106,7 +106,7 @@ videí. Podkategorie přitom přejímají způsob zápisu od hlavní kategorie.
     [domluvě](http://e-learning.phil.muni.cz/kontakty#main) je však
     možné zřídit přístup a kategorie i pro ostatní pracoviště v rámci
     celé MU.
--   **Mimofakultní uživatelé** -- kategorie pro obsah jednotlivých
+-   **Mimofakultní uživatelé** – kategorie pro obsah jednotlivých
     mimofakultních uživatelů (bez návaznosti na pracoviště).
 
 
@@ -126,7 +126,7 @@ určení máte obvykle tři možnosti:
 3.  pokud nechcete, aby bylo video pro ostatní uživatele Medialu
     přístupné, zvolte kategorii Personal
 
-#### []Tagy (jak bude video označeno)
+#### Tagy (jak bude video označeno)
 
 Zatímco kategorie určuje pracoviště, v rámci jehož agendy je nahrávka
 využívána, tagy nesou další informace o tematickém zaměření videa. 
@@ -139,18 +139,18 @@ Na druhou stranu mohou díky vhodně zvoleným tagům Vaši nahrávku nalézt a
 zhlédnout i případní zájemci mimo okruh Vašich studentů.
 
 Jako vhodné tagy se proto nabízí například **tematické určení nahrávky**
-(typu "barokní literatura", "fenomenologie" nebo "štípaná
-industrie") nebo **jméno pozvaného přednášejícího**. Vzhledem ke
-specifickému charakteru nahrávek naopak nedoporučujeme používat jako
-tagy obecné pojmy typu "přednáška" či "konference", které k popisu
-nahrávek přispívají jen málo.
+(typu "barokní literatura", "fenomenologie" nebo "štípaná industrie")
+nebo **jméno pozvaného přednášejícího**. Vzhledem ke specifickému
+charakteru nahrávek naopak nedoporučujeme používat jako tagy obecné
+pojmy typu "přednáška" či "konference", které k popisu nahrávek
+přispívají jen málo.
 
 K nahrávce lze samozřejmě připojit i více tagů, nezapomeňte však, že je
 nelze při [filtrování
 obsahu](/home/zakladni-orientace-v-medialu#TOC-Filtrov-n-obsahu)
 kombinovat.
 
-#### []Popisky
+#### Popisky
 
 Další podrobnosti o nahrávce, například akci nebo kód předmětu, k němuž
 se vztahuje, nebo datum, kdy byla pořízena, doporučujeme uvádět do
@@ -179,7 +179,7 @@ konference, cyklu workshopů apod.
 cultural event / interview / reportage / promo video
 **Date:** semestr a rok (např. Autumn 2019/Spring 2020)
 
-#### []Časté dotazy (FAQ)
+#### Časté dotazy (FAQ)
 
 **Proč v knihovně videí nevidím všechny kategorie?**
 
@@ -194,7 +194,7 @@ videa.
 Ano, pokud chcete, aby do Vaší kategorie směli přidávat obsah i
 doktorandi či vybraní studenti bakalářského a magisterského studia, lze
 to po domluvě zařídit. V takovém případě nás prosím kontaktujte na
-adrese <elf@phil.muni.cz>.
+adrese<elf@phil.muni.cz>.
 
 
 **Pokud nahrávku přesunu do zaměstnanecké kategorie, budou ji moci
@@ -204,3 +204,4 @@ Nikoliv, nahrávku může vždy spravovat pouze její vlastník (Contributor)
 bez ohledu na to, v jaké kategorii se právě nachází.
 
 > 
+

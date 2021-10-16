@@ -1,7 +1,7 @@
 Jak získat odkazy
 =================
 
-#### []Sdílení kategorií, tagů a autorů
+#### Sdílení kategorií, tagů a autorů
 
 V Medialu se můžete dostat i ke specifickým URL adresám, které odkazují
 např. k daným kategoriím, tagům, případně přímo k autorům. URL adresy se
@@ -10,8 +10,8 @@ v Medialu. Tyto URL adresy můžete sdílet s dalšími lidmi, a pokud
 nepatří k videím pod private kategorii, mohou si je prohlédnout i lidé,
 kteří v Medialu nemají účet, nebo nejsou přihlášení. Tímto způsobem
 můžete tedy např. poslat odkaz na všechna Vaše videa. URL adresa
-většinou začíná řetězcem https://hml.ucn.muni.cz/Browse/..., a
-následují další položky. Při odkazu k Vašim videím by pokračoval dále
+většinou začíná řetězcem https://hml.ucn.muni.cz/Browse/..., a následují
+další položky. Při odkazu k Vašim videím by pokračoval dále
 /Contributor/VašeJméno. (Je to třeba, není to zmatečné?)
 
 Mám přidat další příklady?
@@ -29,7 +29,7 @@ ale nechám rozhodnutí na tobě.
 
 
 
-[![](/_/rsrc/1478730963415/home/jak-muazu-sva-videa-sirit/sovi_zpev_url_.png)](/home/jak-muazu-sva-videa-sirit/sovi_zpev_url_.png?attredirects=0)
+![](home/jak-muazu-sva-videa-sirit/sovi_zpev_url_.png)
 
 > Obr. 8: URL adresa je shodná s tou, kterou kopírujete a šíříte, stejná
 > Vám také dojde do e-mailu.

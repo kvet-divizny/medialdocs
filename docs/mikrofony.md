@@ -1,7 +1,7 @@
 Mikrofony
 =========
 
-[TOC]
+
 
 1.  [**1** Kde jsou mikrofony
     umístěny ](#TOC-Kde-jsou-mikrofony-um-st-ny-)
@@ -29,17 +29,17 @@ v učebnách, jejichž název začíná na A a B2). 
 
 V učebnách můžete najít čtyři typy mikrofonů:
 
--   **Ruchový mikrofon** -- jeho umístění se liší, nejčastěji se nachází
+-   **Ruchový mikrofon** – jeho umístění se liší, nejčastěji se nachází
     na katedře nebo u kamery. Zapíná se automaticky, pokud pokud není
     aktivní žádný jiný mikrofon. Musíte mít však na paměti, že je
     nejméně kvalitní a pokud nestojíte přímo u něj, nelze zaručit
     srozumitelnost zvukové části nahrávky.
--   **Ruční mikrofon** -- je nutné jej neustále držet v ruce, výsledný
+-   **Ruční mikrofon** – je nutné jej neustále držet v ruce, výsledný
     záznam je však kvalitnější.
--   **Klopový mikrofon** -- připíná se na oblečení, zvukový záznam je
+-   **Klopový mikrofon** – připíná se na oblečení, zvukový záznam je
     kvalitnější než u ruchového mikrofonu, může však být slyšet rušivé
     tření o textil.
--   **Náhlavní mikrofon** -- nasazuje se za uši, je lehký a dá se
+-   **Náhlavní mikrofon** – nasazuje se za uši, je lehký a dá se
     nastavit na velikost hlavy; k jeho přednostem patří vedle vysoké
     kvality zvuku i to, že přednášející může zapomenout, že jej má.
 
@@ -64,7 +64,7 @@ mikrofony uloženy přímo na katedře (B2.13) nebo v samostatné skříňce
 []Jak mikrofony vypadají a jak se používají?
 ------------------------------------------------------------------------------------------
 
-### []Ruční mikrofon
+### Ruční mikrofon
 
 Ruční mikrofon (neboli handka) se skládá z hlavy mikrofonu (1), tlačítka
 na ztišení mikrofonu s nápisem (2), dále pak z těla mikrofonu (3),
@@ -73,7 +73,7 @@ mikrofonu (5). Mikrofon držte tak, abyste nepřekrývali anténu a displej.
 
 
 
-[![](/_/rsrc/1489681322876/mikrofony/mikrofon01_spravnaverze.jpg)
+[![](mikrofony/mikrofon01_spravnaverze.jpg)
 ](/mikrofony/mikrofon01_spravnaverze.jpg?attredirects=0)
 
 > Obr. 1: Handka, zdroj: oficiální manuál firmy
@@ -81,24 +81,24 @@ mikrofonu (5). Mikrofon držte tak, abyste nepřekrývali anténu a displej.
 >
 > 
 
-#### []Budovy A a B 
+#### Budovy A a B
 
 Ruční mikrofon se zapíná dlouhým podržením červeného tlačítka na spodní
 straně těla mikrofonu (viz obr. 2). Jakmile je zapnut, rozsvítí se jeho
 displej oranžově. Důležité je, aby tlačítko s nápisem MIC svítilo
-červeně -- pokud nesvítí, mikrofon je ztišen (MUTE). Ztišený mikrofon
+červeně – pokud nesvítí, mikrofon je ztišen (MUTE). Ztišený mikrofon
 nepřenáší žádný signál, tudíž nebude na nahrávce slyšet.
 
-![](/_/rsrc/1489681326128/mikrofony/mikrofon02.jpg?height=312&width=400){width="400"
+![](mikrofony/mikrofon02.jpg?height=312&width=400){width="400"
 height="312"}
 
 > Obr. 2: Zapínání a vypínání mikrofonu, zvětšenina antény. Zdroj:
 > oficiální manuál
 > firmy [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/6403/SKM_300_EN_INT.pdf).
 
-#### [] 
+#### 
 
-#### []Budovy C, D, G, J, M a N
+#### Budovy C, D, G, J, M a N
 
 Ruční mikrofon se zpravidla aktivuje sám po vytažení z nabíjecí stanice.
 Vyčkejte několik vteřin, než dioda pod displejem mikrofonu zezelená.
@@ -113,11 +113,11 @@ mikrofon ztišit v průběhu přednášky.
 Pro vypnutí mikrofonu přidržte dlouze tlačítko ON/OFF na spodní straně
 těla mikrofonu.
 
-[![](/_/rsrc/1628068319599/mikrofony/mic_hand_2.png)](/mikrofony/mic_hand_2.png?attredirects=0)
+![](mikrofony/mic_hand_2.png)
 Obr. 3: Ovládací prvky mikrofonu v učebnách C, D, G, J, M a N. Zdroj:
 oficiální manuál firmy Sennheiser.
 
-### []Náhlavní a klopový mikrofon
+### Náhlavní a klopový mikrofon
 
 Oba tyto mikrofony, které můžete vidět na obrázku 3, jsou připojeny k
 [přijímači](/mikrofony#TOC-P-ij-ma-ke-klopov-mu-a-n-hlavn-mu-mikrofonu),
@@ -128,9 +128,9 @@ od úst.
 Klopový mikrofon (2) klipsou přichytíte k oblečení (nejlépe k lemu
 košile nebo trička), v ideálním případě by neměl třít o látku. 
 
-[![](/_/rsrc/1489681329184/mikrofony/mikrofony_.png)](/mikrofony/mikrofony_.png?attredirects=0)
+![](mikrofony/mikrofony_.png)
 
-> Obr. 4: Mikrofony -- náhlavní (1) a klopový (2). Zdroj: oficiální
+> Obr. 4: Mikrofony – náhlavní (1) a klopový (2). Zdroj: oficiální
 > manuál firmy
 > [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/1909/SK100G3_Instructionsforuse.pdf).
 > 
@@ -140,25 +140,24 @@ košile nebo trička), v ideálním případě by neměl třít o látku. 
 Ovládací prvky náhlavního a klopového mikrofonu jsou umístěny na
 přijímači. Typ přijímače se liší podle budovy.
 
-#### []Budovy A a B 
+#### Budovy A a B
 
 Přijímač otevřete pomocí dvou tlačítek (1), která zmáčknete zároveň.
 Tímto se uvolní kryt na baterii (2), který odhalí zapínání a vypínání
-(4). Tlačítko "ON" / "OFF" stačí chvíli podržet a zařízení se zapne
-(a vice versa). Rozsvítí se display (5), na kterém vidíte informace o
-mikrofonu. Pro Vás jako uživatele jsou důležité dva údaje -- je-li
+(4). Tlačítko "ON" / "OFF" stačí chvíli podržet a zařízení se zapne (a
+vice versa). Rozsvítí se display (5), na kterém vidíte informace o
+mikrofonu. Pro Vás jako uživatele jsou důležité dva údaje – je-li
 mikrofon ztišen (pokud je mikrofon ztišen, svítí na displayi nápis MUTE,
 hlasitost upravíte páčkou na horní části přijímače v bodě 3), a jaký je
 stav nabití baterie (klasická ikona baterie s ubývajícími články). Pokud
 je baterie slabá, bude blikat červená dioda (6) a je nutné zavolat
 technika, aby Vám dal jiný přijímač.
 
-> [![](/_/rsrc/1489681334901/mikrofony/oprava_3.png)](/mikrofony/oprava_3.png?attredirects=0)
->
+> ![](mikrofony/oprava_3.png)
 > Obr. 5: Schéma přijímače. Zdroj: oficiální manuál firmy
 > [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/1909/SK100G3_Instructionsforuse.pdf).
 
-#### []Budovy C, D, G, J, M a N
+#### Budovy C, D, G, J, M a N
 
 Mikrofon se zpravidla aktivuje sám po vytažení z nabíjecí stanice.
 Vyčkejte několik vteřin, než dioda na vrchní straně přijímače (2)
@@ -173,10 +172,10 @@ tlačítkem můžete mikrofon ztišit v průběhu přednášky.
 
 Pro vypnutí mikrofonu dlouze přidržte tlačítko ON/OFF (1).
 
-[![](/_/rsrc/1628069802258/mikrofony/Obr%C3%A1zek1.png)](/mikrofony/Obr%C3%A1zek1.png?attredirects=0)
+![](mikrofony/Obr%C3%A1zek1.png)
 Obr. 6: Ovládací prvky přijímače v budovách C, D, G, J, M a N.
 
-#### []Budovy K a L
+#### Budovy K a L
 
 Některé učebny v budovách K a L jsou vybaveny bezdrátovým klopovým
 mikrofonem. Mikrofon je zapojený do katederního PC a lze jej použít v
@@ -191,10 +190,10 @@ boku přijímače (obr. 7, bod 1).
 
 
 
-[![](/_/rsrc/1628070389690/mikrofony/Obr%C3%A1zek2.png)](/mikrofony/Obr%C3%A1zek2.png?attredirects=0)
+![](mikrofony/Obr%C3%A1zek2.png)
 Obr. 7: Tlačítko pro zapnutí/vypnutí mikrofonů v budovách K a L.
 
-### []Jak mikrofony správně umístit do adaptéru
+### Jak mikrofony správně umístit do adaptéru
 
 Mikrofony je třeba umístit do nabíječky tak, aby diody na nabíječce
 svítily (viz červené diody na obr. 5). Pokud dioda nesvítí,
@@ -205,7 +204,7 @@ nabíječky, aby se dobil a byl připraven pro další použití.
 Červená dioda znamená, že mikrofon se dobíjí, naopak zelená ukazuje, že
 mikrofon je zcela nabitý a jeho baterie vydrží celou přednášku.
 
-[![](/_/rsrc/1489681338391/mikrofony/sennheiser-charging.jpg?height=320&width=320){width="320"
+[![](mikrofony/sennheiser-charging.jpg?height=320&width=320){width="320"
 height="320"}](/mikrofony/sennheiser-charging.jpg?attredirects=0)
 
 > Obr. 8: Nabíječka s mikrofony. Zdroj: [dm
@@ -213,7 +212,7 @@ height="320"}](/mikrofony/sennheiser-charging.jpg?attredirects=0)
 
 
 
-### []FAQ
+### FAQ
 
 **Co dělat, když je mikrofon vybitý, svítí červeně nebo nefunguje
 vůbec?**
