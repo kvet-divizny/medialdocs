@@ -55,9 +55,8 @@ poskytli jako zcela veřejný. K dostupnému obsahu mohou hosté přistupovat
 pomocí kategorií (rozbalíte šipkou uprostřed), nebo pomocí vyhledávacího
 pole (vpravo nahoře). 
 
-[![Obr. 1: Navigační prvky pro procházení
-obsahu](/_/rsrc/1579802935805/co-je-to-medial/1_zakladni%20navigace.png)](/co-je-to-medial/1_zakladni%20navigace.png?attredirects=0)Obr.
-1: Navigační prvky pro procházení obsahu
+![Obr. 1: Navigační prvky pro procházení obsahu](/co-je-to-medial/1_zakladni%20navigace.png)
+Obr. 1: Navigační prvky pro procházení obsahu
 
 
 Prohlížení dalšího obsahu, stejně jako možnost vkládat, spravovat a
