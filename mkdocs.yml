@@ -4,6 +4,8 @@ theme:
   name: material
   language: cs
   include_sidebar: true
+  palette:
+    primary: deep purple
 markdown_extensions:
   - toc:
       toc_depth: 4
