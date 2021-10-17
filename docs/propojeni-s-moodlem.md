@@ -48,7 +48,7 @@ prvním přihlášení se Vaše účty v obou systémech spárují a při dalš�
 přístupech tak již přihlášení nebude nutné.
 
 **Poznámka:** Propojení účtů je nutné i pro zobrazení videí vložených do
-Moodlu – i studenti se tedy budou muset napoprvé přihlásit.
+Moodlu -- i studenti se tedy budou muset napoprvé přihlásit.
 
 
 

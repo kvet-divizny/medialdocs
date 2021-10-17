@@ -9,7 +9,7 @@
 
 
 
-#### 
+####  
 
 #### Co je to streamování a jak funguje?
 
@@ -114,12 +114,12 @@ currently available to you."**
 
 Ke sledování přenosu nemáte dostatečná oprávnění. Zkuste se přihlásit do
 Medialu, případně
-[kontaktujte](http://e-learning.phil.muni.cz/jak-nas-kontaktovat)správce
-Elfu.
+[kontaktujte](http://e-learning.phil.muni.cz/jak-nas-kontaktovat)
+správce Elfu.
 
 
-**Místo streamu se mi zobrazuje nápis "Error loading player: No playable
-sources found."**
+**Místo streamu se mi zobrazuje nápis "Error loading player: No
+playable sources found."**
 
 Pravděpodobně máte neaktuální zásuvný modul Flash. Nejnovější verzi
 získáte na [stránkách společnosti

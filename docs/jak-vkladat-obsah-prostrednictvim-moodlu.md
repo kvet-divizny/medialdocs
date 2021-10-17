@@ -22,9 +22,9 @@ svého UČO a sekundárního hesla. 
 #### Tlačítko Medialu v editoru
 
 Jako učitelé můžete do Moodlu vložit videa na většině míst, kde se
-používá HTML editor (tedy např. do poznámky, knihy, testu...). Stačí jen
-kliknout na zelenou ikonku Medialu (obr. 1), pomocí níž se dostanete se
-do zjednodušeného rozhraní Medialu. Další krok pak naleznete níže v
+používá HTML editor (tedy např. do poznámky, knihy, testu...). Stačí
+jen kliknout na zelenou ikonku Medialu (obr. 1), pomocí níž se dostanete
+se do zjednodušeného rozhraní Medialu. Další krok pak naleznete níže v
 tomto návodu.
 
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/Tla%C4%8D%C3%ADtko%20Medial%20v%20HTML%20editoru.png)
@@ -35,7 +35,7 @@ tomto návodu.
 #### Odevzdání úkolu ve formě videa
 
 Studentům můžete zadat, aby odevzdali nahrávku z Medialu coby řešení
-úkolu – stačí v nastavení typu úkolu zaškrtnout možnost **Odevzdat
+úkolu -- stačí v nastavení typu úkolu zaškrtnout možnost **Odevzdat
 video.**
 
 **![](home/jak-vkladat-obsah-prostrednictvim-moodlu/Odevzdavani%20videa%20jako%20ukolu.png)
@@ -44,9 +44,9 @@ video.**
 
 
 
-Po kliknutí na "Odevzdat řešení úkolu" se pak studentům zobrazí tlačítko
-"Add Media" (obr. 2), pomocí kterého se dostanou do zjednodušeného
-rozhraní Medialu, popsaného níže.
+Po kliknutí na "Odevzdat řešení úkolu" se pak studentům zobrazí
+tlačítko "Add Media" (obr. 2), pomocí kterého se dostanou do
+zjednodušeného rozhraní Medialu, popsaného níže.
 
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/Tlacitko%20pro%20odevzdani%20videa.png)
 
@@ -62,16 +62,17 @@ Moodlu.
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/vyber%20nahrani%20videa.png)
 
 > Obr. 4: Možnosti vložení videomateriálu.
+>
 > 
 
 První dvě volby umožňují nahrát do Medialu (a zároveň s tím i do Vašeho
 kurzu) nový obsah. Postup je v obou případech stejný jako při vkládání z
 webového rozhraní mediální knihovny:
 
--   **Upload** – umožňuje vložit audio- či videosoubor z počítače,
+-   **Upload** -- umožňuje vložit audio- či videosoubor z počítače,
     podrobný návod [naleznete
     zde](/home/jak-nahrat-do-medialu-soubor-z-pocitace).
--   **Webcam** – umožňuje vytvořit obsah na místě pomocí webkamery nebo
+-   **Webcam** -- umožňuje vytvořit obsah na místě pomocí webkamery nebo
     mikrofonu (tedy jak audio, tak i video), podrobný návod [naleznete
     na tomto odkazu](/home/jan-nahrat-video-pomoci-webkamery).
 

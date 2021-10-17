@@ -29,12 +29,12 @@ jste vyplňovali při vkládání nahrávky, a umožní Vám veškeré údaje
 změnit. Mezi jednotlivými položkami formuláře (podrobně jsou popsány
 v [tomto návodu](/home/jak-nahrat-do-medialu-soubor-z-pocitace)) se
 můžete volně pohybovat pomocí záložek a navigačních tlačítek "Back"
-(Zpět) a "Next" (Další). Editaci ukončíte kliknutím na tlačítko "Finish"
-na záložce "Confirm".
+(Zpět) a "Next" (Další). Editaci ukončíte kliknutím na tlačítko
+"Finish" na záložce "Confirm".
 
 **Pozor!** Pro uložení změn provedených na jednotlivých záložkách je
-třeba kliknout na tlačítko "Next". Pouhým přepnutím na záložku "Confirm"
-a stisknutím tlačítka "Finish" se změny neuloží.
+třeba kliknout na tlačítko "Next". Pouhým přepnutím na záložku
+"Confirm" a stisknutím tlačítka "Finish" se změny neuloží.
 
 ![](home/jak-muazu-dodatecne-upravit-metadata/ar_bro_chop_navigace_GS.png)
 
@@ -42,14 +42,14 @@ Obr. 2: Rozhraní pro editaci
 
 
 
-V rámci úprav můžete nahradit i soubor s nahrávkou – například pokud
+V rámci úprav můžete nahradit i soubor s nahrávkou -- například pokud
 jste do Medialu vložili nesprávnou nahrávku nebo máte k dispozici její
 novější verzi. Stačí na záložce "File" kliknout na tlačítko "Browse"
-(pro výběr nového souboru z počítače) nebo "Record webcam" (pro pořízení
-nového záznamu pomocí webkamery). Pomocí ikony nůžek vedle názvu videa
-lze nahrávku ořezat, vyjmout některé části nebo exportovat. Všechna
-vyplněná metadata zůstanou zachována. Nezapomeňte, že systém bude muset
-nový soubor znovu zpracovat.
+(pro výběr nového souboru z počítače) nebo "Record webcam" (pro
+pořízení nového záznamu pomocí webkamery). Pomocí ikony nůžek vedle
+názvu videa lze nahrávku ořezat, vyjmout některé části nebo exportovat.
+Všechna vyplněná metadata zůstanou zachována. Nezapomeňte, že systém
+bude muset nový soubor znovu zpracovat.
 
 #### Editace nahrávky
 
@@ -88,12 +88,12 @@ a "Export" (uložení nahrávky).
 
 Po kliknutí na tlačítko pro uložení "Save", vyskočí okno, kde máte
 možnost upravit název editované nahrávky (Title on new version). Při
-zakliknutí kolonky "Keep original video" se původní video, ve stavu před
-editací, uloží jako nová nahrávka a zároveň lze upravit její název
+zakliknutí kolonky "Keep original video" se původní video, ve stavu
+před editací, uloží jako nová nahrávka a zároveň lze upravit její název
 (Title on original version) i kategorii, komu bude video přístupné
 (Category for original version).
 
-#### Jak u nahrávek nastavit kapitoly
+#### Jak u nahrávek nastavit kapitoly 
 
 U nahrávek, které již byly zpracovány a zpřístupněny v knihovně médií,
 můžete nastavit také kapitoly umožňující divákům při přehrávání
@@ -107,8 +107,8 @@ přehrávání videa:
 3.  Zastavte video v čase, pro který chcete nastavit začátek kapitoly, a
     stiskněte tlačítko "Start chapter".
 4.  Nyní nahrávku zastavte v čase, kdy by měla kapitola končit, a
-    stiskněte tlačítko "End chapter" případně "End/start chapter" pokud
-    chcete navázat další kapitolou.
+    stiskněte tlačítko "End chapter" případně "End/start chapter"
+    pokud chcete navázat další kapitolou.
 5.  Tlačítkem "Cancel" ukončíte editaci upravované kapitoly.
     ![](home/jak-muazu-dodatecne-upravit-metadata/03-set_time%202.5%20GS.png)
 6.  Pokud chcete kapitoly přenastavit nebo odstranit klikněte na
@@ -118,7 +118,5 @@ přehrávání videa:
     Obr. 5: Finální nastavení kapitoly.
     
 7.  Další kapitoly můžete přidávat stejným způsobem.
-
-
 
 

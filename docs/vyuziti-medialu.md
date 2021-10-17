@@ -28,7 +28,7 @@ tento obsah zprostředkovat ostatním.
     [zde](/home/jak-nahrat-do-medialu-soubor-z-pocitace).
 -   **Webkamera, mikrofon:** díky Medialu můžete snadno vytvářet vlastní
     nahrávky pomocí webkamery nebo mikrofonu. Použít můžete třeba i
-    kameru ve svém notebooku nebo – přes mobilní verzi stránek –
+    kameru ve svém notebooku nebo -- přes mobilní verzi stránek --
     fotoaparát svého tabletu či telefonu. Podrobný návod najdete
     [zde](/home/jan-nahrat-video-pomoci-webkamery).
 -   **Záznamy z učeben:** záznamy pořízené automatizovaným nahrávacím
@@ -70,8 +70,8 @@ Jak můžete obsah Medialu zveřejnit?
 
 Nenapadá Vás, jak byste mohli Medial (a video nahrávky obecně) využít?
 Pro inspiraci nabízíme alespoň několik obvyklých scénářů užití. Seznam
-by samozřejmě mohl pokračovat – nezapomeňte, že díky propojení Medialu s
-dalšími součástmi e-learningového prostředí FF MU (ELF) se Vám nabízí
+by samozřejmě mohl pokračovat -- nezapomeňte, že díky propojení Medialu
+s dalšími součástmi e-learningového prostředí FF MU (ELF) se Vám nabízí
 poměrně pestrá škála možností, jak audiovizuální materiály vytvářet,
 zveřejňovat a používat ve vlastní výuce nebo třeba k propagačním
 účelům.
@@ -81,9 +81,9 @@ zveřejňovat a používat ve vlastní výuce nebo třeba k propagačním
 jednom místě tak, abych k nim měl kdykoliv přístup.**
 
 Toto je nejzákladnější způsob využití Medialu. Jednoduše
-[nahrajte](/home/jak-nahrat-do-medialu-soubor-z-pocitace)svá videa do
+[nahrajte](/home/jak-nahrat-do-medialu-soubor-z-pocitace) svá videa do
 Medialu a zařaďte je do
-[kategorie](/home/jak-je-obsah-v-medialu-organizovan)podle toho, kdo by
+[kategorie](/home/jak-je-obsah-v-medialu-organizovan) podle toho, kdo by
 k nim měl mít přístup. Videa pak budete moci zhlédnout přímo v Medialu,
 dále je sdílet nebo si je z Medialu zase stáhnout.
 
@@ -117,7 +117,7 @@ Medialu zůstane Vaše video nepřístupné.
 **Chci nahrát výukový materiál s ukázkou správné výslovnosti a
 zprostředkovat jej studentům.**
 
-Medial nejsou jenom videa – pracovat můžete i se zvukovými nahrávkami,
+Medial nejsou jenom videa -- pracovat můžete i se zvukovými nahrávkami,
 které můžete také [pořizovat pomocí vlastního
 mikrofonu](/home/jan-nahrat-video-pomoci-webkamery).
 
@@ -143,8 +143,8 @@ svého kurzu.
 pouze svým kolegům a záznam rozdělit do kapitol podle probíraných bodů.
 ** Umístíte-li nahrávku do [zaměstnanecké
 kategorie](/home/kdo-muaze-videt-muaj-obsah) svého pracoviště, uvidí ji
-v Medialu pouze zaměstnanci tohoto pracoviště. U svých videí také
-můžete[nastavit
+v Medialu pouze zaměstnanci tohoto pracoviště. U svých videí také můžete
+[nastavit
 kapitoly](/home/jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly),
 které umožní přeskočit rovnou na konkrétní čas nahrávky.
 
@@ -152,7 +152,7 @@ které umožní přeskočit rovnou na konkrétní čas nahrávky.
 je případným zájemcům živě a poté záznam zveřejnit v kurzu v Moodlu.
 ** Při použití automatizovaného nahrávacího systému v učebnách fakulty
 můžete povolit, aby nahrávanou přednášku mohli uživatelé Medialu
-sledovat v přímém přenosu – třeba i ze svého domova. Po ukončení a
+sledovat v přímém přenosu -- třeba i ze svého domova. Po ukončení a
 zpracování záznamu se nahrávka objeví ve Vaší kategorii v Medialu.
 
 #### Rozcestník rychlé nápovědy
@@ -160,6 +160,5 @@ zpracování záznamu se nahrávka objeví ve Vaší kategorii v Medialu.
 
 
 medial-rozcestnik
-
 
 

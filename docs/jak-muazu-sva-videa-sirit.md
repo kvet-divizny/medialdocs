@@ -8,8 +8,8 @@ Sdílení obsahu
 
 
 Obsah Medialu není vázaný jen na mediální knihovnu jako takovou.
-Nahrávky, ke kterým máte přístup – tedy nejen své vlastní, ale i další
-veřejné – můžete několika různými způsoby šířit i mimo Medial. Při tom
+Nahrávky, ke kterým máte přístup -- tedy nejen své vlastní, ale i další
+veřejné -- můžete několika různými způsoby šířit i mimo Medial. Při tom
 je však třeba brát v potaz i další faktory, např. jste-li autorem
 nahrávky, při jaké příležitosti jste záznam pořídili atd. 
 
@@ -17,7 +17,7 @@ nahrávky, při jaké příležitosti jste záznam pořídili atd. 
 
 Nahrávky z Medialu můžete snadno zveřejnit ve svých kurzech v Moodlu.
 Díky propojení obou systémů mohou vkládat obsah do Moodlu jak učitelé,
-tak studenti. Učitelé do Medialu vstupují pomocí[tlačítka v HTML
+tak studenti. Učitelé do Medialu vstupují pomocí [tlačítka v HTML
 editoru](/home/propojeni-s-moodlem#TOC-P-stup-do-Medialu), studenti pak
 při odevzdávání videa coby řešení úkolu. V obou případech se nejprve
 zobrazí nabídka tří možností pro nahrání audiovizuálních materiálů do
@@ -47,12 +47,12 @@ filtrů a vyhledávání.
 
 V rozhraní pro výběr videa lze využít tyto prvky:
 
-1.  **Keyword search** (vyhledávání) – umožňuje vyhledat zadaný řetězec
+1.  **Keyword search** (vyhledávání) -- umožňuje vyhledat zadaný řetězec
     v názvech a popiscích nahrávek, ve jménech autorů a tazích. Pro
     vyhledávání pomocí částečného řetězce je třeba použít zástupný
     symbol * (např. řetězec "*středověk**" vyhledá i videa se slovem
     *středověký*, *středověku* apod. v názvu).
-2.  **Filter by** (filtry) – můžete vybrat všechna média (**All
+2.  **Filter by** (filtry) -- můžete vybrat všechna média (**All
     media**), nebo moje média (**My media**), dále pak můžete filtrovat
     podle kategorií (nabídka **Category**) a autorů (nabídka
     **Contributor**). 
@@ -69,7 +69,9 @@ V rozhraní pro výběr videa lze využít tyto prvky:
     informací](/home/jak-muazu-dodatecne-upravit-metadata#TOC-Editace-metadat)
     o nahrávce.
 
+```
 <!-- -->
+```
 
 **Pozor!** Po zvolení konkrétního videa tlačítkem "Select" se zobrazí
 možnost "Include Download Link", jejíž zaškrtnutí zpřístupní studentům
@@ -104,6 +106,7 @@ stránky **My content**. V druhém případě klikněte u daného videa na
 
 > Obr. 5: Kliknutím na "Yes" se dostanete na stránku pro přehrávání
 > videa
+>
 > 
 
 Aby Vaše video mohl vidět někdo jiný než vy, musíte nejprve povolit
@@ -130,17 +133,17 @@ přístup dodatečně zrušit volbou "Disable public access".
 
 Poté máte možnost vybrané video sdílet dále různými způsoby:
 
-> -   **Odkaz **– odkaz je nejjednodušší variantou. Můžete jej jednoduše
->     zkopírovat a poslat dále např. emailem, vložit na stránky, dokonce
->     i do Moodlu. 
+> -   **Odkaz **-- odkaz je nejjednodušší variantou. Můžete jej
+>     jednoduše zkopírovat a poslat dále např. emailem, vložit na
+>     stránky, dokonce i do Moodlu. 
 
 ![](home/jak-muazu-sva-videa-sirit/sovi_zpev2.png)
 
 > Obr. 7: Sdílení odkazu
 > 
 
-> -   **Embedovací kód** – Medial automaticky vygeneruje embedovací kód,
->     díky kterému pak můžete vložit dané video na vlastní webové
+> -   **Embedovací kód** -- Medial automaticky vygeneruje embedovací
+>     kód, díky kterému pak můžete vložit dané video na vlastní webové
 >     stránky. Stačí kliknout na "Embed" a kód se automaticky
 >     vygeneruje. V roletce "Video Size" si můžete vybrat velikost
 >     vloženého videa..
@@ -149,15 +152,17 @@ Poté máte možnost vybrané video sdílet dále různými způsoby:
 
 > Obr. 8: Cesta k embedovacímu kódu
 
-> -   **Download** – své video si můžete stáhnout do vlastního počítače
->     – stačí kliknout levým tlačítkem myši na kód příslušného videa ve
->     sloupci Filename a zvolit možnost "Uložit soubor" / "Save file".
+> -   **Download** -- své video si můžete stáhnout do vlastního počítače
+>     -- stačí kliknout levým tlačítkem myši na kód příslušného videa ve
+>     sloupci Filename a zvolit možnost "Uložit soubor" / "Save
+>     file".
 
 [](/home/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)
 
 [](/home/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)![](home/jak-muazu-sva-videa-sirit/B%205.png)
 
 > 
+>
 > Obr. 9: Stažení souboru.
 
 

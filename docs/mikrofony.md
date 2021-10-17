@@ -29,17 +29,17 @@ v učebnách, jejichž název začíná na A a B2). 
 
 V učebnách můžete najít čtyři typy mikrofonů:
 
--   **Ruchový mikrofon** – jeho umístění se liší, nejčastěji se nachází
+-   **Ruchový mikrofon** -- jeho umístění se liší, nejčastěji se nachází
     na katedře nebo u kamery. Zapíná se automaticky, pokud pokud není
     aktivní žádný jiný mikrofon. Musíte mít však na paměti, že je
     nejméně kvalitní a pokud nestojíte přímo u něj, nelze zaručit
     srozumitelnost zvukové části nahrávky.
--   **Ruční mikrofon** – je nutné jej neustále držet v ruce, výsledný
+-   **Ruční mikrofon** -- je nutné jej neustále držet v ruce, výsledný
     záznam je však kvalitnější.
--   **Klopový mikrofon** – připíná se na oblečení, zvukový záznam je
+-   **Klopový mikrofon** -- připíná se na oblečení, zvukový záznam je
     kvalitnější než u ruchového mikrofonu, může však být slyšet rušivé
     tření o textil.
--   **Náhlavní mikrofon** – nasazuje se za uši, je lehký a dá se
+-   **Náhlavní mikrofon** -- nasazuje se za uši, je lehký a dá se
     nastavit na velikost hlavy; k jeho přednostem patří vedle vysoké
     kvality zvuku i to, že přednášející může zapomenout, že jej má.
 
@@ -81,12 +81,12 @@ mikrofonu (5). Mikrofon držte tak, abyste nepřekrývali anténu a displej.
 >
 > 
 
-#### Budovy A a B
+#### Budovy A a B 
 
 Ruční mikrofon se zapíná dlouhým podržením červeného tlačítka na spodní
 straně těla mikrofonu (viz obr. 2). Jakmile je zapnut, rozsvítí se jeho
 displej oranžově. Důležité je, aby tlačítko s nápisem MIC svítilo
-červeně – pokud nesvítí, mikrofon je ztišen (MUTE). Ztišený mikrofon
+červeně -- pokud nesvítí, mikrofon je ztišen (MUTE). Ztišený mikrofon
 nepřenáší žádný signál, tudíž nebude na nahrávce slyšet.
 
 ![](mikrofony/mikrofon02.jpg?height=312&width=400){width="400"
@@ -96,7 +96,7 @@ height="312"}
 > oficiální manuál
 > firmy [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/6403/SKM_300_EN_INT.pdf).
 
-#### 
+####  
 
 #### Budovy C, D, G, J, M a N
 
@@ -130,7 +130,7 @@ košile nebo trička), v ideálním případě by neměl třít o látku. 
 
 ![](mikrofony/mikrofony_.png)
 
-> Obr. 4: Mikrofony – náhlavní (1) a klopový (2). Zdroj: oficiální
+> Obr. 4: Mikrofony -- náhlavní (1) a klopový (2). Zdroj: oficiální
 > manuál firmy
 > [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/1909/SK100G3_Instructionsforuse.pdf).
 > 
@@ -140,13 +140,13 @@ košile nebo trička), v ideálním případě by neměl třít o látku. 
 Ovládací prvky náhlavního a klopového mikrofonu jsou umístěny na
 přijímači. Typ přijímače se liší podle budovy.
 
-#### Budovy A a B
+#### Budovy A a B 
 
 Přijímač otevřete pomocí dvou tlačítek (1), která zmáčknete zároveň.
 Tímto se uvolní kryt na baterii (2), který odhalí zapínání a vypínání
-(4). Tlačítko "ON" / "OFF" stačí chvíli podržet a zařízení se zapne (a
-vice versa). Rozsvítí se display (5), na kterém vidíte informace o
-mikrofonu. Pro Vás jako uživatele jsou důležité dva údaje – je-li
+(4). Tlačítko "ON" / "OFF" stačí chvíli podržet a zařízení se zapne
+(a vice versa). Rozsvítí se display (5), na kterém vidíte informace o
+mikrofonu. Pro Vás jako uživatele jsou důležité dva údaje -- je-li
 mikrofon ztišen (pokud je mikrofon ztišen, svítí na displayi nápis MUTE,
 hlasitost upravíte páčkou na horní části přijímače v bodě 3), a jaký je
 stav nabití baterie (klasická ikona baterie s ubývajícími články). Pokud
@@ -154,6 +154,7 @@ je baterie slabá, bude blikat červená dioda (6) a je nutné zavolat
 technika, aby Vám dal jiný přijímač.
 
 > ![](mikrofony/oprava_3.png)
+>
 > Obr. 5: Schéma přijímače. Zdroj: oficiální manuál firmy
 > [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/1909/SK100G3_Instructionsforuse.pdf).
 

@@ -71,6 +71,7 @@ umožní přehrát nahrávku a případně změnit její počáteční a konco
 ![](home/jan-nahrat-video-pomoci-webkamery/webka%20orez%20videa.png)
 
 > Obr. 5:Úprava začátku a konce videa
+>
 > 
 
 Záznam přehrajete pomocí tlačítka play. Začátek a konec videa můžete

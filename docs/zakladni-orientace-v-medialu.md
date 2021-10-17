@@ -14,7 +14,7 @@ Základní orientace
 #### Přihlášení do Medialu
 
 Pro přihlášení klikněte na tlačítko "Sign in" v pravém horním rohu
-domovské stránky Medialu. Načte se Vám přihlašovací formulář – jako
+domovské stránky Medialu. Načte se Vám přihlašovací formulář -- jako
 přihlašovací údaje použijte své UČO (kolonka "Username") a sekundární
 heslo (kolonka "Password"). Přihlášení potvrdíte tlačítkem "Login".
 
@@ -97,11 +97,11 @@ Pro vyhledání konkrétní nahrávky použijte vyhledávací pole v navigační
 liště. Zadaný text bude vyhledán v názvech a popiscích nahrávek, v
 klíčových slovech, názvech
 [kapitol](/home/jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly)
-a také ve jménech autorů. Vyhledávání pracuje s **funkcí našeptávání** –
-již při zadávání dotazu Vám tedy Medial ukáže návrhy odpovídající Vašemu
-dotazu. Pro vyhledávání pomocí neúplných slov je třeba použít zástupný
-znak * (např. "středově*" dohledá výrazy "středověk", "středověcí"
-apod.).
+a také ve jménech autorů. Vyhledávání pracuje s **funkcí našeptávání**
+-- již při zadávání dotazu Vám tedy Medial ukáže návrhy odpovídající
+Vašemu dotazu. Pro vyhledávání pomocí neúplných slov je třeba použít
+zástupný znak * (např. "středově*" dohledá výrazy "středověk",
+"středověcí" apod.).
 
 #### Filtrování obsahu
 

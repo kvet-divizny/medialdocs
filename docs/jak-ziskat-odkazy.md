@@ -10,8 +10,8 @@ v Medialu. Tyto URL adresy můžete sdílet s dalšími lidmi, a pokud
 nepatří k videím pod private kategorii, mohou si je prohlédnout i lidé,
 kteří v Medialu nemají účet, nebo nejsou přihlášení. Tímto způsobem
 můžete tedy např. poslat odkaz na všechna Vaše videa. URL adresa
-většinou začíná řetězcem https://hml.ucn.muni.cz/Browse/..., a následují
-další položky. Při odkazu k Vašim videím by pokračoval dále
+většinou začíná řetězcem https://hml.ucn.muni.cz/Browse/..., a
+následují další položky. Při odkazu k Vašim videím by pokračoval dále
 /Contributor/VašeJméno. (Je to třeba, není to zmatečné?)
 
 Mám přidat další příklady?

@@ -58,15 +58,16 @@ Obr. 1: Učebny jsou vybaveny tlačítkovými panely v různých variantách.
 Při používání zařízení pro automatizovaný záznam postupujte následujícím
 způsobem:
 
-1.  Přihlaste se k počítači v učebně. Tlačítko **"Záznam"/"Record"** na
-    ovládacím panelu se bíle rozsvítí.
+1.  Přihlaste se k počítači v učebně. Tlačítko **"Záznam"/"Record"**
+    na ovládacím panelu se bíle rozsvítí.
 2.  Zapněte projektor a zvolte zdroj obrazu ([viz
     níže](/tlacitkove-panely#TOC-Zapnut-projektoru-a-volba-vstupu)).
 3.  Stiskněte tlačítko "Záznam". Tlačítko se rozsvítí červeně na
     znamení, že probíhá nahrávání.
     **Pozor!** Zpracovány jsou pouze nahrávky, které trvají déle než
     jednu minutu. Kratší záznamy systém automaticky maže.
-4.  Pro ukončení nahrávání znovu stiskněte tlačítko "Záznam"/"Record".
+4.  Pro ukončení nahrávání znovu stiskněte tlačítko
+    "Záznam"/"Record".
 5.  Nahrávka se automaticky zpracuje a odešle do Vaší [osobní
     kategorie](/home/kdo-muaze-videt-muaj-obsah) ve fakultní knihovně
     médií [Medial](http://medial.phil.muni.cz). Jakmile bude video
@@ -98,10 +99,11 @@ výukových materiálů (obr. 2).
 
 #### Zapnutí projektoru a volba vstupu
 
-Pro zapnutí projektoru stiskněte tlačítko **"On**" nebo **"Audio Only"**
-(zapne techniku v učebně, ale ponechá vypnutý projektor) na ovládacím
-panelu. V učebnách lze promítat obraz z několika různých zdrojů, pro
-výběr konkrétního vstupu přitom stačí stisknout příslušné tlačítko.
+Pro zapnutí projektoru stiskněte tlačítko **"On**" nebo **"Audio
+Only"** (zapne techniku v učebně, ale ponechá vypnutý projektor) na
+ovládacím panelu. V učebnách lze promítat obraz z několika různých
+zdrojů, pro výběr konkrétního vstupu přitom stačí stisknout příslušné
+tlačítko.
 
 Hlasitost lze ovládat pomocí otočného kolečka. Úroveň hlasitosti značí
 svítící kontrolky.
@@ -142,6 +144,7 @@ promítat obraz například z vlastního iPadu nebo MacBooku. Pro připojení
 k Apple TV postupujte následujícím způsobem:
 
 1.  Stiskněte tlačítko "Apple TV" na ovládacím panelu.
+
 2.  V ovládacím centru svého zařízení Apple stiskněte tlačítko
     "AirPlay".
 
@@ -188,7 +191,7 @@ vložený do záznamu a také zda je zaznamenáván zvuk. Úroveň snímaného
 zvuku je indikována vizuálně pomocí svítícího ukazatele pod obrazem z
 učebny.
 
-Pokud náhled není v pořádku, [kontaktuje](/kontakty)techniky CIT.
+Pokud náhled není v pořádku, [kontaktuje](/kontakty) techniky CIT.
 
 Náhled streamu můžete na učitelském PC otevřít kdykoliv i bez toho,
 abyste spouštěli samotný záznam.
@@ -222,15 +225,15 @@ přiřazeno někomu jinému. Pokud můžete, kontaktujte techniky CIT (klapka
 **1542**). Pokud nezbývá čas a záznam nutně potřebujete, zkuste se
 nejprve přihlásit a znovu odhlásit a poté záznam spustit. V podobných
 případech nám po ukončení záznamu
-[napište](https://it.muni.cz/phil/ke/kontakty#main)– ověříme, že záznam
-skončil ve správné kategorii.
+[napište](https://it.muni.cz/phil/ke/kontakty#main) -- ověříme, že
+záznam skončil ve správné kategorii.
 
 
 **Nepřišel mi mail s informací o zpracování záznamu.**
 
 Zkuste ještě chvíli počkat, zpracování záznamu může trvat i několik
 hodin. Pokud mail nepřijde do druhého dne,
-[napište](https://it.muni.cz/phil/ke/kontakty#main)nám mail a uveďte v
+[napište](https://it.muni.cz/phil/ke/kontakty#main) nám mail a uveďte v
 něm, kdy a v jaké učebně jste nahrávku pořizovali.
 
 

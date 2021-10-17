@@ -124,4 +124,3 @@ telefon: 549 49 **1542**
 -   [**Koho kontaktovat v případě potíží.**](/kontakty) Podrobnější
     rozpis kontaktů, na které se můžete obracet, pokud potřebujete
     pomoci s technikou v učebnách.
-

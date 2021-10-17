@@ -48,4 +48,3 @@ Obracejte se na něj, pokud:
     zvuk jsou nekvalitní)
 
 
-

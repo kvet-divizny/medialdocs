@@ -18,8 +18,8 @@ konferencí, výuková videa pro online kurzy apod. Zaměstnanci a studenti
 FF mohou do Medialu přidávat vlastní obsah, spravovat jej a
 zprostředkovat jej sobě navzájem i širší veřejnosti. Medial zároveň
 funguje jako součást [e-learningového prostředí FF
-MU](https://elf.phil.muni.cz/){:target="_blank"} (ELF) a je díky tomu úzce provázán
-se systémem pro správu e-kurzů [Moodle](https://moodle.org/){:target="_blank"}.
+MU](https://elf.phil.muni.cz/elf3/) (ELF) a je díky tomu úzce provázán
+se systémem pro správu e-kurzů [Moodle](https://moodle.org/).
 
 Základní funkce Medialu jsou stručně shrnuty v následujícím videu (EN):
 
@@ -63,10 +63,10 @@ obsahu](co-je-to-medial/1_zakladni%20navigace.png)](/co-je-to-medial/1_zakladni%
 Prohlížení dalšího obsahu, stejně jako možnost vkládat, spravovat a
 sdílet videa, je umožněno pouze přihlášeným uživatelům. Do Medialu se
 může automaticky
-[přihlásit](/home/zakladni-orientace-v-medialu#TOC-P-ihl-en-do-Medialu)jakýkoli
-zaměstnanec nebo student Filozofické fakulty. Zaměstnanci a studenti
-dalších fakult a pracovišť MU mohou získat přístup k Medialu po domluvě
-se správci systému.
+[přihlásit](/home/zakladni-orientace-v-medialu#TOC-P-ihl-en-do-Medialu)
+jakýkoli zaměstnanec nebo student Filozofické fakulty. Zaměstnanci a
+studenti dalších fakult a pracovišť MU mohou získat přístup k Medialu po
+domluvě se správci systému.
 
 #### Kdo zajišťuje podporu Medialu?
 
