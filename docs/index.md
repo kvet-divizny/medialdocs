@@ -3,7 +3,7 @@ Návody pro tvůrce kurzů: Medial
 
 Vítejte v nápovědě pro Medial, knihovnu médií provozovanou a spravovanou
 Filozofickou fakultou MU. Naleznete jej na adrese
-**[medial.phil.muni.cz](http://medial.phil.muni.cz/)**. Na těchto
+**[medial.phil.muni.cz](http://medial.phil.muni.cz/){:target="_blank"}**. Na těchto
 stránkách se dozvíte, co přesně Medial je, co umožňuje a jak s ním
 pracovat.
 
@@ -15,8 +15,8 @@ Medial si můžete představit jako fakultní verzi portálu Youtube zřízenou
 pro potřeby Filozofcké fakulty MU. Medial slouží jako archiv audio- a
 videonahrávek souvisejících s činností jednotlivých fakultních
 pracovišť, zároveň funguje jako součást [e-learningového prostředí FF
-MU](http://elf.phil.muni.cz) (ELF) a je díky tomu úzce provázán se
-systémem pro správu e-kurzů [Moodle](https://moodle.org/) a technikou v
+MU](http://elf.phil.muni.cz){:target="_blank"} (ELF) a je díky tomu úzce provázán se
+systémem pro správu e-kurzů [Moodle](https://moodle.org/){:target="_blank"} a technikou v
 nově vybavených učebnách komplexu CARLA.
 
 -   [**Co je to Medial.**](/co-je-to-medial) Základní představení
