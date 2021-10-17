@@ -6,6 +6,7 @@ theme:
   include_sidebar: true
   palette:
     primary: deep purple
+  logo: assets/logo-cit-barva.svg
 markdown_extensions:
   - toc:
       toc_depth: 4
