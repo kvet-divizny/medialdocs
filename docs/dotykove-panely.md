@@ -60,17 +60,10 @@ dotykovými panely.
 **Dotykový panel** je umístěn na katedře. Pokud je systém projektorů
 vypnutý, uvidíte na něm tuto hlášku:
 
-![](dotykove-panely/uvodni_obrazovka_0.png)
-
 <figure markdown> 
   ![](dotykove-panely/uvodni_obrazovka_0.png)
   <figcaption>Obr. 1: Zapnutí systému</figcaption>
 </figure>
-
-
-> Obr. 1: Zapnutí systému
-
-
 
 
 
