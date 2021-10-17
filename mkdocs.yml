@@ -6,7 +6,7 @@ theme:
   include_sidebar: true
   palette:
     primary: deep purple
-  logo: assets/arts-cit-lg-rgb-01.png
+  logo: assets/elf-inverze.svg
 markdown_extensions:
   - toc:
       toc_depth: 4
