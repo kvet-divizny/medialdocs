@@ -59,7 +59,7 @@ Ať už vstupujete do Medialu pomocí HTML editoru nebo pomocí modulu Úkol,
 zobrazí se Vám nejprve nabídka tří možností pro nahrání materiálů do
 Moodlu.
 
-![](home/jak-vkladat-obsah-prostrednictvim-moodlu/vyber%20nahrani%20videa.png)
+![](home/jak-vkladat-obsah-prostrednictvim-moodlu/kolon)
 
 Obr. 4: Možnosti vložení videomateriálu.
 
