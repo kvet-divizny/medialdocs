@@ -19,7 +19,7 @@ Z knihovny videí se na stránku My Content dostanete kliknutím na
 tlačítko "My Account" (v pravo nahoře) a výběrem možnosti "My
 Content" z rozbalovací nabídky.
 
-![](home/kde-najdu-vsechna-svoje-videa/Odkaz%20na%20My%20content.png)
+![](home/kde-najdu-vsechna-svoje-videa/Odkaz-na-My-content.png)
 
 Obr. 1: Odkaz na stánku My Content v knihovně videí
 
@@ -54,7 +54,7 @@ pouze ty, které odpovídají nastaveným parametrům.
 
 #### Prohlížení a správa obsahu
 
-![](home/kde-najdu-vsechna-svoje-videa/medial%20listing%20done.png)
+![](home/kde-najdu-vsechna-svoje-videa/medial-listing-done.png)
 
         Obr. 4: Seznam nahrávek
 
@@ -103,7 +103,7 @@ Medial Vás ještě požádá o potvrzení, zda skutečně chcete provedené zm�
 aplikovat. Kliknutím na tlačítko "Yes" změny potvrdíte, kliknutím na
 tlačítko "Cancel" zrušíte.
 
-![](home/kde-najdu-vsechna-svoje-videa/04-confirm%20GS.png)
+![](home/kde-najdu-vsechna-svoje-videa/04-confirm-GS.png)
 
 > Obr. 5: Dialogové okno pro potvrzení provedených změn
 > 

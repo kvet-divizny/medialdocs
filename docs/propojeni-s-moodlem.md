@@ -29,7 +29,7 @@ procházet jej a vkládat do Moodlu.
 
 
 
-![](home/propojeni-s-moodlem/Tla%C4%8D%C3%ADtko%20Medial%20v%20HTML%20editoru.png)
+![](home/propojeni-s-moodlem/Tla%C4%8D%C3%ADtko-Medial-v-HTML-editoru.png)
 
 > Obr. 1: Tlačítko Medial v HTML editoru
 > 
@@ -52,7 +52,7 @@ Moodlu -- i studenti se tedy budou muset napoprvé přihlásit.
 
 
 
-![](home/propojeni-s-moodlem/Uvodni%20prihlaseni%20do%20medialu.png)
+![](home/propojeni-s-moodlem/Uvodni-prihlaseni-do-medialu.png)
 
 > Obr. 2: Úvodní přihlášení do Medialu
 > 

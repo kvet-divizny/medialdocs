@@ -18,7 +18,7 @@ video ořezat nebo u nahrávky nastavit kapitoly.
 
 #### Editace metadat
 
-![](home/jak-muazu-dodatecne-upravit-metadata/01-button%202.0%20GS.png)
+![](home/jak-muazu-dodatecne-upravit-metadata/01-button-2.0-GS.png)
 
 Obr. 1: Tlačítko pro editaci metadat
 
@@ -110,11 +110,11 @@ přehrávání videa:
     stiskněte tlačítko "End chapter" případně "End/start chapter"
     pokud chcete navázat další kapitolou.
 5.  Tlačítkem "Cancel" ukončíte editaci upravované kapitoly.
-    ![](home/jak-muazu-dodatecne-upravit-metadata/03-set_time%202.5%20GS.png)
+    ![](home/jak-muazu-dodatecne-upravit-metadata/03-set_time-2.5-GS.png)
 6.  Pokud chcete kapitoly přenastavit nebo odstranit klikněte na
     popelnici pod kapitolou. Pokud jste s nastavením kapitoly spokojeni,
     můžete přidat *Název* kapitoly a *Popis*.
-    ![](home/jak-muazu-dodatecne-upravit-metadata/04-info%202.5%20GS.png)
+    ![](home/jak-muazu-dodatecne-upravit-metadata/04-info-2.5-GS.png)
     Obr. 5: Finální nastavení kapitoly.
     
 7.  Další kapitoly můžete přidávat stejným způsobem.

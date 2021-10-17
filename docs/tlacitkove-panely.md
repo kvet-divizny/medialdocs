@@ -92,7 +92,7 @@ učebně. Je-li zapnutý projektor, vloží se obraz promítaný na plátno
 přímo do videa, aby byla zajištěna dobrá čitelnost prezentací a jiných
 výukových materiálů (obr. 2).
 
-![](tlacitkove-panely/2-vzhled%202.0%20GS.png)
+![](tlacitkove-panely/2-vzhled-2.0-GS.png)
 
 > Obr. 2: Vzhled výsledného videa
 > 
@@ -123,7 +123,7 @@ Vlastní notebook můžete připojit pomocí rozhraní VGA či HDMI. Potřebné
 konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
-![](tlacitkove-panely/3-konektory%202.0%20GS.png)
+![](tlacitkove-panely/3-konektory-2.0-GS.png)
 
 > Obr. 3: Konektory pro připojení vlastního notebooku
 > 
@@ -148,7 +148,7 @@ k Apple TV postupujte následujícím způsobem:
 2.  V ovládacím centru svého zařízení Apple stiskněte tlačítko
     "AirPlay".
 
-    ![](tlacitkove-panely/4-ovl_centrum%202.0%20GS.png)
+    ![](tlacitkove-panely/4-ovl_centrum-2.0-GS.png)
 
     > Obr. 4: Tlačítko AirPlay v ovládacím centru
     > 
@@ -157,7 +157,7 @@ k Apple TV postupujte následujícím způsobem:
     učebny, ve které se nacházejí. Zvolte to, na které chcete obraz
     přenášet.
 
-    ![](tlacitkove-panely/5-seznam_zarizeni%20GS.png)
+    ![](tlacitkove-panely/5-seznam_zarizeni-GS.png)
 
     > Obr. 5: Seznam dostupných Apple TV
     > 
@@ -165,7 +165,7 @@ k Apple TV postupujte následujícím způsobem:
 4.  Zadejte kód, který se Vám zobrazí na promítací ploše, a potvrďte
     stisknutím "Ok". Obě zařízení se následně spárují.
 
-    ![](tlacitkove-panely/code%20GS.png)
+    ![](tlacitkove-panely/code-GS.png)
 
     > Obr. 6: Pole pro zadání kódu k Apple TV
 

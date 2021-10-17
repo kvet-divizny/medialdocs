@@ -56,7 +56,7 @@ pomocí kategorií (rozbalíte šipkou uprostřed), nebo pomocí vyhledávacího
 pole (vpravo nahoře). 
 
 [![Obr. 1: Navigační prvky pro procházení
-obsahu](co-je-to-medial/1_zakladni%20navigace.png)](/co-je-to-medial/1_zakladni%20navigace.png?attredirects=0)Obr.
+obsahu](co-je-to-medial/1_zakladni-navigace.png)](/co-je-to-medial/1_zakladni-navigace.png?attredirects=0)Obr.
 1: Navigační prvky pro procházení obsahu
 
 

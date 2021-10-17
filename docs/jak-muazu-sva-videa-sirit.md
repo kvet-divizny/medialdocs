@@ -27,7 +27,7 @@ dokumentace](/home/jak-vkladat-obsah-prostrednictvim-moodlu). Pokud
 chcete do Moodlu vložit nahrávku, která již je v Medialu umístěná,
 použijete tlačítko "Search".
 
-![](home/jak-muazu-sva-videa-sirit/A%201.png)
+![](home/jak-muazu-sva-videa-sirit/A-1.png)
 
 
 
@@ -79,7 +79,7 @@ možnost stahování videa. Pokud si nepřejete, aby studenti Vaše video
 mohli dále šířit (nahrávat na různé servery, YouTube apod.),
 nedoporučujeme tuto možnost zaškrtávat.
 
-![](home/jak-muazu-sva-videa-sirit/A%203%20druh%C3%A1%20verze.png)
+![](home/jak-muazu-sva-videa-sirit/A-3-druh%C3%A1-verze.png)
 
 Obr. 3: Tlačítko umožňující stažení videa studenty
 
@@ -88,7 +88,7 @@ Obr. 3: Tlačítko umožňující stažení videa studenty
 V posledním kroku Vás Medial informuje o tom, že Vaše video je
 připravené.
 
-![](home/jak-muazu-sva-videa-sirit/A%204.png)
+![](home/jak-muazu-sva-videa-sirit/A-4.png)
 
 
 
@@ -159,7 +159,7 @@ Poté máte možnost vybrané video sdílet dále různými způsoby:
 
 [](/home/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)
 
-[](/home/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)![](home/jak-muazu-sva-videa-sirit/B%205.png)
+[](/home/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)![](home/jak-muazu-sva-videa-sirit/B-5.png)
 
 > 
 >

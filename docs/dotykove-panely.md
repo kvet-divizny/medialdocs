@@ -175,7 +175,7 @@ přímo do videa, aby byla zajištěna dobrá čitelnost prezentací a jiných
 výukových materiálů (obr. 2). Nahrávat lze i bez zapnutého projektoru,
 video pak bude obsahovat jen obraz z učebny.
 
-![](dotykove-panely/vzhled%202.0%20GS.png)
+![](dotykove-panely/vzhled-2.0-GS.png)
 
 > Obr. 5: Vzhled výsledného videa
 > 
@@ -198,7 +198,7 @@ Vlastní notebook můžete připojit pomocí rozhraní VGA či HDMI. Potřebné
 konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
-![](dotykove-panely/konektory%202.0%20GS.png)
+![](dotykove-panely/konektory-2.0-GS.png)
 
 > Obr. 6: Konektory pro připojení vlastního notebooku
 > 
@@ -223,7 +223,7 @@ připojení k Apple TV postupujte následujícím způsobem:
 2.  V ovládacím centru svého zařízení Apple stiskněte tlačítko
     "AirPlay".
 
-    ![](dotykove-panely/ovl_centrum%202.0%20GS.png)
+    ![](dotykove-panely/ovl_centrum-2.0-GS.png)
 
     > Obr. 7: Tlačítko AirPlay v ovládacím centru
     > 
@@ -232,7 +232,7 @@ připojení k Apple TV postupujte následujícím způsobem:
     učebny, ve které se nacházejí. Zvolte to, na které chcete obraz
     přenášet.
 
-    ![](dotykove-panely/seznam_zarizeni%20GS.png)
+    ![](dotykove-panely/seznam_zarizeni-GS.png)
 
     > Obr. 8: Seznam dostupných Apple TV
     > 
@@ -240,7 +240,7 @@ připojení k Apple TV postupujte následujícím způsobem:
 4.  Zadejte kód, který se Vám zobrazí na promítací ploše, a potvrďte
     stisknutím "Ok". Obě zařízení se následně spárují.
 
-    ![](dotykove-panely/code%20GS.png)
+    ![](dotykove-panely/code-GS.png)
 
     > Obr. 9: Pole pro zadání kódu k Apple TV
 
