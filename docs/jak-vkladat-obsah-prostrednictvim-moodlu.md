@@ -61,9 +61,8 @@ Moodlu.
 
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/vyber%20nahrani%20videa.png)
 
-> Obr. 4: Možnosti vložení videomateriálu.
->
-> 
+Obr. 4: Možnosti vložení videomateriálu.
+
 
 První dvě volby umožňují nahrát do Medialu (a zároveň s tím i do Vašeho
 kurzu) nový obsah. Postup je v obou případech stejný jako při vkládání z
