@@ -6,8 +6,7 @@ Co je to Medial
 
 
 
-4.  [**4** Kdo zajišťuje podporu
-    Medialu?](#TOC-Kdo-zaji-uje-podporu-Medialu-)
+
 
 #### Co je to Medial?
 
