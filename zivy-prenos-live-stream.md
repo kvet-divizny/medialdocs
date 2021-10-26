@@ -1,22 +1,22 @@
 Živý přenos (Live Stream)
 =========================
 
-
+Obsah
 
 1.  [**1** Co je to streamování a jak
     funguje?](#TOC-Co-je-to-streamov-n-a-jak-funguje-)
+2.  [**2** Co je třeba zařídit?](#TOC-Co-je-t-eba-za-dit-)
+3.  [**3** Jak stream sledovat?](#TOC-Jak-stream-sledovat-)
+4.  [**4** Časté dotazy (FAQ) ](#TOC-ast-dotazy-FAQ-)
 
+#### []{#TOC-1} 
 
+#### []{#TOC-Co-je-to-streamov-n-a-jak-funguje-}Co je to streamování a jak funguje?
 
+[![](zivy-prenos-live-stream/schema_stream_2%20bl_scale_GS.png)](/zivy-prenos-live-stream/schema_stream_2%20bl_scale_GS.png?attredirects=0)
 
-####  
-
-#### Co je to streamování a jak funguje?
-
-![](zivy-prenos-live-stream/schema_stream_2-bl_scale_GS.png)
-
-Obr. 1: Schéma streamování: z učebny na elektronická zařízení
-
+Obr. 1: Schéma streamování: z učebny na elektronická zařízení\
+\
 
 V učebnách vybavených automatizovaným nahrávacím systémem můžete své
 přednášky nejen zaznamenávat, ale také streamovat přes internet.
@@ -35,12 +35,12 @@ dobrá čitelnost prezentací a dalších podpůrných materiálů. Aby byl
 přednášející dobře slyšet, doporučujeme použít některý z
 [mikrofonů](/mikrofony) umístěných v katedře.
 
-![](zivy-prenos-live-stream/stream-2.0-GS.png)
+[![](zivy-prenos-live-stream/stream%202.0%20GS.png)](/zivy-prenos-live-stream/stream%202.0%20GS.png?attredirects=0)
 
-Obr. 2: Video s živým přenosem
+Obr. 2: Video s živým přenosem\
+\
 
-
-#### Co je třeba zařídit?
+#### []{#TOC-Co-je-t-eba-za-dit-}Co je třeba zařídit?
 
 Na rozdíl od záznamu, který mohou obsloužit sami vyučující, nastavují
 streamování z učeben pracovníci Kanceláře e-learningu FF MU. Pokud
@@ -52,37 +52,37 @@ stream k dispozici. 
 
 Pokud budete chtít, můžete nám poslat i krátký doprovodný text a
 náhledový obrázek, který ke streamu připojíme a který případným divákům
-usnadní orientaci..
+usnadní orientaci..\
 
-#### Jak stream sledovat?
+#### []{#TOC-Jak-stream-sledovat-}Jak stream sledovat?
 
 Živé přenosy z učeben lze sledovat v rámci fakultní knihovny médií
-[Medial](http://medial.phil.muni.cz){:target="_blank"}. Jsou-li nějaké streamy
-k dispozici, objeví se v navigační liště Medialu tlačítko "Live Now!",
+[Medial](http://medial.phil.muni.cz). Jsou-li nějaké streamy
+k dispozici, objeví se v navigační liště Medialu tlačítko \"Live Now!\",
 pomocí nějž se dostanete na seznam dostupných přenosů.
 
-**Poznámka.** Pokud je v navigační liště místo tlačítka "Live Now!"
-pouze "Live", znamená to, že jsou některé přenosy naplánované, ale
+**Poznámka.** Pokud je v navigační liště místo tlačítka \"Live Now!\"
+pouze \"Live\", znamená to, že jsou některé přenosy naplánované, ale
 momentálně žádný neprobíhá.
 
-![](zivy-prenos-live-stream/live-now-2.0-GS.png)
+[![](zivy-prenos-live-stream/live%20now%202.0%20GS.png)](/zivy-prenos-live-stream/live%20now%202.0%20GS.png?attredirects=0)
 
-Obr. 3: Tlačítko "Live Now!" zobrazí seznam dostupných streamů
-
+Obr. 3: Tlačítko \"Live Now!\" zobrazí seznam dostupných streamů\
+\
 
 Jednotlivé přenosy jsou pojmenovány podle učebny, ze které jsou
 vysílány. Orientovat se můžete také podle času, na který je streamování
 naplánováno, nebo podle náhledového obrázku, pokud je připojen. Výběrem
 konkrétního streamu spustíte jeho přehrávání.
 
-Sekce "Scheduled This Month" ("Naplánováno na tento měsíc") obsahuje
+Sekce \"Scheduled This Month\" (\"Naplánováno na tento měsíc\") obsahuje
 přenosy, které jsou naplánované, ale zatím nedostupné. U každého z nich
 najdete informaci o tom, od kdy do kdy bude přístupný.
 
-![](zivy-prenos-live-stream/seznam-2.0-GS.png)
+[![](zivy-prenos-live-stream/seznam%202.0%20GS.png)](/zivy-prenos-live-stream/seznam%202.0%20GS.png?attredirects=0)
 
-Obr. 4: Seznam dostupných a naplánovaných streamů
-
+Obr. 4: Seznam dostupných a naplánovaných streamů\
+\
 
 1.  Právě probíhající stream
 2.  Označení učebny, ze které je přenos vysílán
@@ -93,44 +93,44 @@ Obr. 4: Seznam dostupných a naplánovaných streamů
 Stream je přístupný všem návštěvníkům Medialu, tedy i nepřihlášeným
 hostům.
 
+\
 
-
-#### Časté dotazy (FAQ) 
+#### []{#TOC-ast-dotazy-FAQ-}Časté dotazy (FAQ) 
 
 **V navigačním panelu není tlačítko Live ani Live Now!**
 
-Přenos zřejmě ještě není nastavený.
+Přenos zřejmě ještě není nastavený.\
+\
 
-
-**Místo streamu se mi zobrazuje nápis "This live channel is not
-currently available."**
+**Místo streamu se mi zobrazuje nápis \"This live channel is not
+currently available.\"**
 
 Stream v této chvíli není přístupný. Přesný čas přenosu zjistíte na
-stránce se seznamem přenosů.
+stránce se seznamem přenosů.\
+\
 
-
-**Místo streamu se mi zobrazuje nápis "This video is secured and not
-currently available to you."**
+**Místo streamu se mi zobrazuje nápis \"This video is secured and not
+currently available to you.\"**
 
 Ke sledování přenosu nemáte dostatečná oprávnění. Zkuste se přihlásit do
 Medialu, případně
-[kontaktujte](http://e-learning.phil.muni.cz/jak-nas-kontaktovat){:target="_blank"}
-správce Elfu.
+[kontaktujte](http://e-learning.phil.muni.cz/jak-nas-kontaktovat)
+správce Elfu.\
+\
 
-
-**Místo streamu se mi zobrazuje nápis "Error loading player: No
-playable sources found."**
+**Místo streamu se mi zobrazuje nápis \"Error loading player: No
+playable sources found.\"**
 
 Pravděpodobně máte neaktuální zásuvný modul Flash. Nejnovější verzi
 získáte na [stránkách společnosti
-Adobe](https://get.adobe.com/cz/flashplayer/){:target="_blank"}.
-
+Adobe](https://get.adobe.com/cz/flashplayer/).\
+\
 
 **Vytváří se při streamování automaticky záznam?**
 
 Ne, pokud chcete streamovanou přednášku také nahrávat, je nutné ručně
-spustit záznamové zařízení.
-
+spustit záznamové zařízení.\
+\
 
 **Je možné streamovat přednášku z jedné učebny do druhé?**
 

@@ -10,11 +10,11 @@ pracoviště, nebo zcela soukromé.
 
  
 
-![](home/kdo-muaze-videt-muaj-obsah/categories.png)
+[![](home/kdo-muaze-videt-muaj-obsah/categories.png)](/kdo-muaze-videt-muaj-obsah/categories.png?attredirects=0)
 
      Obr. 1: Seznam kategorií
 
-
+\
 
 Z hlediska viditelnosti obsahu pracuje Medial s kategoriemi trojího
 druhu:
@@ -38,13 +38,13 @@ druhu:
     [tomto návodu](/jak-muazu-sva-videa-sirit). Do této kategorie budou
     také odeslána videa pořízená pomocí automatizovaného záznamového
     zařízení v učebnách a pomoci nástroje [Techsmith
-    Relay](https://sites.google.com/a/phil.muni.cz/elearning-relay/){:target="_blank"}.
+    Relay](https://sites.google.com/a/phil.muni.cz/elearning-relay/).
 
-
+\
 Kategorii můžete svému videu nastavit již při vkládání do Medialu v
 rámci vyplňování podrobností o nahrávce. Celý tento proces je podrobně
 [popsán zde](/jak-nahrat-do-medialu-soubor-z-pocitace). Dodatečně pak
-můžete každému videu kategorii změnit na stránce "My Content" -- jak
+můžete každému videu kategorii změnit na stránce \"My Content\" -- jak
 postupovat se dozvíte v [tomto návodu](/kde-najdu-vsechna-svoje-videa).
 
 Celý systém kategorií je pak podrobněji popsán na [stránce o organizaci

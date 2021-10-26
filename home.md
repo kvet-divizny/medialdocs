@@ -7,7 +7,7 @@ Filozofickou fakultou MU. Naleznete jej na adrese
 stránkách se dozvíte, co přesně Medial je, co umožňuje a jak s ním
 pracovat.
 
-
+\
 
 ![](home/zakladni_prehled.png)
 
@@ -21,17 +21,16 @@ nově vybavených učebnách komplexu CARLA.
 
 -   [**Co je to Medial.**](/co-je-to-medial) Základní představení
     knihovny médií a jejího účelu.
--   **[Jak lze Medial využívat.](/home/vyuziti-medialu)** Stručný
-    přehled možností využití Medialu a jeho propojení s ostatními
-    systémy.
--   [**Základní orientace.**](/home/zakladni-orientace-v-medialu) Návod
-    pro přihlášení do Medialu, základní orientaci v něm a možnosti
+-   **[Jak lze Medial využívat.](/vyuziti-medialu)** Stručný přehled
+    možností využití Medialu a jeho propojení s ostatními systémy.\
+-   [**Základní orientace.**](/zakladni-orientace-v-medialu) Návod pro
+    přihlášení do Medialu, základní orientaci v něm a možnosti
     vyhledávání konkrétních nahrávek.
--   **[Organizace
-    obsahu.](/home/jak-je-obsah-v-medialu-organizovan) **Návod popisuje
-    systém kategorií a tagů sloužící k organizaci obsahu Medialu.
--   **[Propojení s Moodlem.](/home/propojeni-s-moodlem) **Základní popis
-    propojení Medialu s e-kurzy v Moodlu.
+-   **[Organizace obsahu.](/jak-je-obsah-v-medialu-organizovan) **Návod
+    popisuje systém kategorií a tagů sloužící k organizaci obsahu
+    Medialu.
+-   **[Propojení s Moodlem.](/propojeni-s-moodlem) **Základní popis
+    propojení Medialu s e-kurzy v Moodlu.\
 
 ![](home/vkladani_obsahu-01.png)
 
@@ -40,18 +39,18 @@ nové, a to jak z [webu Medialu](http://medial.phil.muni.cz), tak z
 [e-kurzů v Moodlu](http://elf.phil.muni.cz/). Celý systém je
 navíc propojený s nahrávací technikou v nově vybavených budovách fakulty
 (Carla): záznamy, které zde pořídíte, budou automaticky odeslány a
-uloženy do Medialu.
+uloženy do Medialu.\
 
 -   **[Jak nahrát soubor z
-    počítače.](/home/jak-nahrat-do-medialu-soubor-z-pocitace) **Návod
-    pro vložení souboru z počítače a vyplnění doplňujících informací o
+    počítače.](/jak-nahrat-do-medialu-soubor-z-pocitace) **Návod pro
+    vložení souboru z počítače a vyplnění doplňujících informací o
     nahrávce.
 -   [Jak pořídit nahrávku pomocí
-    webkamery.](/home/jan-nahrat-video-pomoci-webkamery) Návod pro
-    vytvoření vlastního audio- či videozáznamu v prostředí Medialu.
+    webkamery.](/jan-nahrat-video-pomoci-webkamery) Návod pro vytvoření
+    vlastního audio- či videozáznamu v prostředí Medialu.
 -   [Jak nahrát obsah prostřednictvím
-    Moodlu.](/home/jak-vkladat-obsah-prostrednictvim-moodlu) Popisuje
-    možnosti vložení nového obsahu do Medialu přímo z e-kurzů v Moodlu.
+    Moodlu.](/jak-vkladat-obsah-prostrednictvim-moodlu) Popisuje
+    možnosti vložení nového obsahu do Medialu přímo z e-kurzů v Moodlu.\
 
 ![](home/sprava_obsahu.png)
 
@@ -61,13 +60,13 @@ knihovny odstranit. Dodatečně můžete také upravit informace o nahrávce
 nebo k ní nastavit kapitoly.
 
 -   [Kde najdu všechna svoje
-    videa.](/home/kde-najdu-vsechna-svoje-videa) Návod pro zpřístupnění
+    videa.](/kde-najdu-vsechna-svoje-videa) Návod pro zpřístupnění
     soupisu všech nahrávek uživatele a pro základní úpravy a mazání
     videí.
 -   [Jak můžu dodatečně upravit
-    metadata.](/home/jak-muazu-dodatecne-upravit-metadata) Návod pro
+    metadata.](/jak-muazu-dodatecne-upravit-metadata) Návod pro
     nahrazení souboru s nahrávkou, dodatečnou úpravu doplňujících
-    informací o ní a vytváření kapitol.
+    informací o ní a vytváření kapitol.\
 
 ![](home/sdileni_obsahu.png)
 
@@ -79,15 +78,15 @@ webové stránky. V neposlední řadě můžete nahrávky rychle a pohodlně
 vkládat do svých kurzů v [Moodlu](http://elf.phil.muni.cz).
 
 -   [Kdo může vidět moje
-    videa.](/home/kdo-muaze-videt-muaj-obsah) Vysvětlení, jak lze
-    ovlivnit viditelnost nahrávek v rámci Medialu.
--   [Jak můžu svá videa šířit.](/home/jak-muazu-sva-videa-sirit) Popis
+    videa.](/kdo-muaze-videt-muaj-obsah) Vysvětlení, jak lze ovlivnit
+    viditelnost nahrávek v rámci Medialu.
+-   [Jak můžu svá videa šířit.](/jak-muazu-sva-videa-sirit) Popis
     možností šíření videí mimo Medial, včetně rychlého vkládání videí do
-    e-kurzů v Moodlu.
+    e-kurzů v Moodlu.\
 
-#### 
+#### []{#TOC-Ucebny}Ucebny {#ucebny style="display:none"}
 
-[] ![](home/propojeni_carla_qq.png)
+[]{#ucebny} ![](home/propojeni_carla_qq.png)
 
 Medial je propojený s nově vybavenými učebnami v komplexu CARLA (budovy
 A a B2). V těchto učebnách můžete pomocí zařízení pro automatizovaný
@@ -97,22 +96,22 @@ Vaší kategorii v Medialu. Prostřednictvím Medialu můžete přednášky tak�
 
 **Chcete ukázat, jak připravit mikrofony a/nebo spustit záznam?**
 
-Obracejte se na Kancelář e-learningu
-e-mail: elf@phil.muni.cz
-telefon: 549 49 **1592**
+Obracejte se na Kancelář e-learningu\
+e-mail: elf\@phil.muni.cz\
+telefon: 549 49 **1592**\
 
 ------------------------------------------------------------------------
 
 **Technika nefunguje, jak má?**
 
-Obracejte se na techniky CIT
+Obracejte se na techniky CIT\
 telefon: 549 49 **1542**
 
-
+\
 
 -   **[Jak pracovat s tlačítkovými ovládacími
     panely.](/tlacitkove-panely)** Návod pro nahrávání přednášek a
-    ovládání techniky v učebnách s tlačítkovými panely.
+    ovládání techniky v učebnách s tlačítkovými panely.\
 -   [**Jak pracovat s dotykovými ovládacími panely.**](/dotykove-panely)
     Návod pro nahrávání přednášek a ovládání techniky v učebnách s
     dotykovými panely.
