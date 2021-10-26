@@ -10,5 +10,6 @@ theme:
 markdown_extensions:
   - toc:
       toc_depth: 4
+      permalink: true
   - attr_list
   - md_in_html
