@@ -3,20 +3,20 @@ Návody pro tvůrce kurzů: Medial
 
 Vítejte v nápovědě pro Medial, knihovnu médií provozovanou a spravovanou
 Filozofickou fakultou MU. Naleznete jej na adrese
-**[medial.phil.muni.cz](http://medial.phil.muni.cz/)**. Na těchto
+**[medial.phil.muni.cz](http://medial.phil.muni.cz/){:target="_blank"}**. Na těchto
 stránkách se dozvíte, co přesně Medial je, co umožňuje a jak s ním
 pracovat.
 
 
 
-![](home/zakladni_prehled.png)
+<figure markdown>![](home/zakladni_prehled.png)<figcaption>Popisek</figcaption></figure>
 
 Medial si můžete představit jako fakultní verzi portálu Youtube zřízenou
 pro potřeby Filozofcké fakulty MU. Medial slouží jako archiv audio- a
 videonahrávek souvisejících s činností jednotlivých fakultních
 pracovišť, zároveň funguje jako součást [e-learningového prostředí FF
-MU](http://elf.phil.muni.cz) (ELF) a je díky tomu úzce provázán se
-systémem pro správu e-kurzů [Moodle](https://moodle.org/) a technikou v
+MU](http://elf.phil.muni.cz){:target="_blank"} (ELF) a je díky tomu úzce provázán se
+systémem pro správu e-kurzů [Moodle](https://moodle.org/){:target="_blank"} a technikou v
 nově vybavených učebnách komplexu CARLA.
 
 -   [**Co je to Medial.**](/co-je-to-medial) Základní představení
@@ -33,11 +33,11 @@ nově vybavených učebnách komplexu CARLA.
 -   **[Propojení s Moodlem.](/home/propojeni-s-moodlem) **Základní popis
     propojení Medialu s e-kurzy v Moodlu.
 
-![](home/vkladani_obsahu-01.png)
+<figure markdown>![](home/vkladani_obsahu-01.png)<figcaption>Popisek</figcaption></figure>
 
 Do Medialu můžete vložit již existující nahrávky nebo vytvořit zcela
-nové, a to jak z [webu Medialu](http://medial.phil.muni.cz), tak z
-[e-kurzů v Moodlu](http://elf.phil.muni.cz/). Celý systém je
+nové, a to jak z [webu Medialu](http://medial.phil.muni.cz){:target="_blank"}, tak z
+[e-kurzů v Moodlu](http://elf.phil.muni.cz/){:target="_blank"}. Celý systém je
 navíc propojený s nahrávací technikou v nově vybavených budovách fakulty
 (Carla): záznamy, které zde pořídíte, budou automaticky odeslány a
 uloženy do Medialu.
@@ -53,7 +53,7 @@ uloženy do Medialu.
     Moodlu.](/home/jak-vkladat-obsah-prostrednictvim-moodlu) Popisuje
     možnosti vložení nového obsahu do Medialu přímo z e-kurzů v Moodlu.
 
-![](home/sprava_obsahu.png)
+<figure markdown>![](home/sprava_obsahu.png)<figcaption>Popisek</figcaption></figure>
 
 Se svými nahrávkami můžete poměrně volně manipulovat: přejmenovávat je,
 přesouvat mezi kategoriemi, nahradit je za jinou nahrávku nebo je z
@@ -69,14 +69,14 @@ nebo k ní nastavit kapitoly.
     nahrazení souboru s nahrávkou, dodatečnou úpravu doplňujících
     informací o ní a vytváření kapitol.
 
-![](home/sdileni_obsahu.png)
+<figure markdown>![](home/sdileni_obsahu.png)<figcaption>Popisek</figcaption></figure>
 
 Své nahrávky můžete sdílet přímo v knihovně médií i mimo ni. V rámci
-[webového portálu Medialu](http://medial.phil.muni.cz) můžete
+[webového portálu Medialu](http://medial.phil.muni.cz){:target="_blank"} můžete
 rozhodnout, kdo všechno Vaši nahrávku uvidí, mimo Medial lze nahrávku
 zprostředkovat pomocí odkazu, stáhnout si ji nebo ji umístit na vlastní
 webové stránky. V neposlední řadě můžete nahrávky rychle a pohodlně
-vkládat do svých kurzů v [Moodlu](http://elf.phil.muni.cz).
+vkládat do svých kurzů v [Moodlu](http://elf.phil.muni.cz){:target="_blank"}.
 
 -   [Kdo může vidět moje
     videa.](/home/kdo-muaze-videt-muaj-obsah) Vysvětlení, jak lze
@@ -87,7 +87,7 @@ vkládat do svých kurzů v [Moodlu](http://elf.phil.muni.cz).
 
 #### 
 
-[] ![](home/propojeni_carla_qq.png)
+[] <figure markdown>![](home/propojeni_carla_qq.png)<figcaption>Popisek</figcaption></figure>
 
 Medial je propojený s nově vybavenými učebnami v komplexu CARLA (budovy
 A a B2). V těchto učebnách můžete pomocí zařízení pro automatizovaný

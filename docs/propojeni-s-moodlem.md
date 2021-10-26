@@ -14,7 +14,7 @@ Jednou z předností Medialu je jeho propojení s prostředím pro
 e-learningové kurzy [Moodle](http://elf.phil.muni.cz){:target="_blank"}. Díky němu můžete
 využít všech výhod mediální knihovny, aniž byste opustili svůj kurz.
 
-![](home/propojeni-s-moodlem/grafik.png)
+<figure markdown>![](home/propojeni-s-moodlem/grafik.png)<figcaption>Popisek</figcaption></figure>
 
 #### Přístup do Medialu
 
@@ -29,7 +29,7 @@ procházet jej a vkládat do Moodlu.
 
 
 
-![](home/propojeni-s-moodlem/Tla%C4%8D%C3%ADtko-Medial-v-HTML-editoru.png)
+<figure markdown>![](home/propojeni-s-moodlem/TlaC48DC3ADtko-Medial-v-HTML-editoru.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 1: Tlačítko Medial v HTML editoru
 
@@ -52,7 +52,7 @@ Moodlu -- i studenti se tedy budou muset napoprvé přihlásit.
 
 
 
-![](home/propojeni-s-moodlem/Uvodni-prihlaseni-do-medialu.png)
+<figure markdown>![](home/propojeni-s-moodlem/Uvodni-prihlaseni-do-medialu.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 2: Úvodní přihlášení do Medialu
 

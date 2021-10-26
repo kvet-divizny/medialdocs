@@ -9,7 +9,7 @@ Využití Medialu
 
 #### 
 
-![](home/vyuziti-medialu/760blz_4.0.png)
+<figure markdown>![](home/vyuziti-medialu/760blz_4.0.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 1: Znázornění využití Medialu.
 

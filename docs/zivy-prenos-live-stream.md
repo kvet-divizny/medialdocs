@@ -13,7 +13,7 @@
 
 #### Co je to streamování a jak funguje?
 
-![](zivy-prenos-live-stream/schema_stream_2-bl_scale_GS.png)
+<figure markdown>![](zivy-prenos-live-stream/schema_stream_2-bl_scale_GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 1: Schéma streamování: z učebny na elektronická zařízení
 
@@ -35,7 +35,7 @@ dobrá čitelnost prezentací a dalších podpůrných materiálů. Aby byl
 přednášející dobře slyšet, doporučujeme použít některý z
 [mikrofonů](/mikrofony) umístěných v katedře.
 
-![](zivy-prenos-live-stream/stream-2.0-GS.png)
+<figure markdown>![](zivy-prenos-live-stream/stream-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 2: Video s živým přenosem
 
@@ -65,7 +65,7 @@ pomocí nějž se dostanete na seznam dostupných přenosů.
 pouze "Live", znamená to, že jsou některé přenosy naplánované, ale
 momentálně žádný neprobíhá.
 
-![](zivy-prenos-live-stream/live-now-2.0-GS.png)
+<figure markdown>![](zivy-prenos-live-stream/live-now-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 3: Tlačítko "Live Now!" zobrazí seznam dostupných streamů
 
@@ -79,7 +79,7 @@ Sekce "Scheduled This Month" ("Naplánováno na tento měsíc") obsahuje
 přenosy, které jsou naplánované, ale zatím nedostupné. U každého z nich
 najdete informaci o tom, od kdy do kdy bude přístupný.
 
-![](zivy-prenos-live-stream/seznam-2.0-GS.png)
+<figure markdown>![](zivy-prenos-live-stream/seznam-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 4: Seznam dostupných a naplánovaných streamů
 

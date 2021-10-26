@@ -18,7 +18,7 @@ video ořezat nebo u nahrávky nastavit kapitoly.
 
 #### Editace metadat
 
-![](home/jak-muazu-dodatecne-upravit-metadata/01-button-2.0-GS.png)
+<figure markdown>![](home/jak-muazu-dodatecne-upravit-metadata/01-button-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 1: Tlačítko pro editaci metadat
 
@@ -36,7 +36,7 @@ můžete volně pohybovat pomocí záložek a navigačních tlačítek "Back"
 třeba kliknout na tlačítko "Next". Pouhým přepnutím na záložku
 "Confirm" a stisknutím tlačítka "Finish" se změny neuloží.
 
-![](home/jak-muazu-dodatecne-upravit-metadata/ar_bro_chop_navigace_GS.png)
+<figure markdown>![](home/jak-muazu-dodatecne-upravit-metadata/ar_bro_chop_navigace_GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 2: Rozhraní pro editaci
 
@@ -58,7 +58,7 @@ editaci nahrávky. Zde můžete přepínat
 mezi "Trim" (ořez), "Chop" (výřez), "Preview" (náhled)
 a "Export" (uložení nahrávky).
 
-![](home/jak-muazu-dodatecne-upravit-metadata/edit.png)
+<figure markdown>![](home/jak-muazu-dodatecne-upravit-metadata/edit.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 3: Editace nahrávky
 
@@ -110,11 +110,11 @@ přehrávání videa:
     stiskněte tlačítko "End chapter" případně "End/start chapter"
     pokud chcete navázat další kapitolou.
 5.  Tlačítkem "Cancel" ukončíte editaci upravované kapitoly.
-    ![](home/jak-muazu-dodatecne-upravit-metadata/03-set_time-2.5-GS.png)
+    <figure markdown>![](home/jak-muazu-dodatecne-upravit-metadata/03-set_time-2.5-GS.png)<figcaption>Popisek</figcaption></figure>
 6.  Pokud chcete kapitoly přenastavit nebo odstranit klikněte na
     popelnici pod kapitolou. Pokud jste s nastavením kapitoly spokojeni,
     můžete přidat *Název* kapitoly a *Popis*.
-    ![](home/jak-muazu-dodatecne-upravit-metadata/04-info-2.5-GS.png)
+    <figure markdown>![](home/jak-muazu-dodatecne-upravit-metadata/04-info-2.5-GS.png)<figcaption>Popisek</figcaption></figure>
     Obr. 5: Finální nastavení kapitoly.
     
 7.  Další kapitoly můžete přidávat stejným způsobem.

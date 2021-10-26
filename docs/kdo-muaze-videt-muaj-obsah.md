@@ -10,7 +10,7 @@ pracoviště, nebo zcela soukromé.
 
  
 
-![](home/kdo-muaze-videt-muaj-obsah/categories.png)
+<figure markdown>![](home/kdo-muaze-videt-muaj-obsah/categories.png)<figcaption>Popisek</figcaption></figure>
 
      Obr. 1: Seznam kategorií
 

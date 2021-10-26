@@ -60,7 +60,7 @@ dotykovými panely.
 **Dotykový panel** je umístěn na katedře. Pokud je systém projektorů
 vypnutý, uvidíte na něm tuto hlášku:
 
-![](dotykove-panely/uvodni_obrazovka_0.png)
+<figure markdown>![](dotykove-panely/uvodni_obrazovka_0.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 1: Zapnutí systému
 
@@ -83,7 +83,7 @@ krajní a plocha je pak rozdělena a na každé z nich může být jiný zdroj.
 
 
 
-![](dotykove-panely/vyber_projekce_0.png)
+<figure markdown>![](dotykove-panely/vyber_projekce_0.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 2: Výběr z jednoduché nebo dvojité projekce
 
@@ -98,7 +98,7 @@ projekce, jednoduchá projekce je pak prosta pravé strany).
 
 
 
-![](dotykove-panely/dvojita_projekce_0.png)
+<figure markdown>![](dotykove-panely/dvojita_projekce_0.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 3: Dotykový panel a jeho komponenty
 
@@ -159,7 +159,7 @@ v knihovně médií rozpoznat a dohledat.
 
 
 
-![](dotykove-panely/zaznam_0.png)
+<figure markdown>![](dotykove-panely/zaznam_0.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 4: Právě probíhající záznam
 
@@ -175,7 +175,7 @@ přímo do videa, aby byla zajištěna dobrá čitelnost prezentací a jiných
 výukových materiálů (obr. 2). Nahrávat lze i bez zapnutého projektoru,
 video pak bude obsahovat jen obraz z učebny.
 
-![](dotykove-panely/vzhled-2.0-GS.png)
+<figure markdown>![](dotykove-panely/vzhled-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 5: Vzhled výsledného videa
 
@@ -198,7 +198,7 @@ Vlastní notebook můžete připojit pomocí rozhraní VGA či HDMI. Potřebné
 konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
-![](dotykove-panely/konektory-2.0-GS.png)
+<figure markdown>![](dotykove-panely/konektory-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 6: Konektory pro připojení vlastního notebooku
 
@@ -223,7 +223,7 @@ připojení k Apple TV postupujte následujícím způsobem:
 2.  V ovládacím centru svého zařízení Apple stiskněte tlačítko
     "AirPlay".
 
-    ![](dotykove-panely/ovl_centrum-2.0-GS.png)
+    <figure markdown>![](dotykove-panely/ovl_centrum-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
 
     Obr. 7: Tlačítko AirPlay v ovládacím centru
     
@@ -232,7 +232,7 @@ připojení k Apple TV postupujte následujícím způsobem:
     učebny, ve které se nacházejí. Zvolte to, na které chcete obraz
     přenášet.
 
-    ![](dotykove-panely/seznam_zarizeni-GS.png)
+    <figure markdown>![](dotykove-panely/seznam_zarizeni-GS.png)<figcaption>Popisek</figcaption></figure>
 
     Obr. 8: Seznam dostupných Apple TV
     
@@ -240,7 +240,7 @@ připojení k Apple TV postupujte následujícím způsobem:
 4.  Zadejte kód, který se Vám zobrazí na promítací ploše, a potvrďte
     stisknutím "Ok". Obě zařízení se následně spárují.
 
-    ![](dotykove-panely/code-GS.png)
+    <figure markdown>![](dotykove-panely/code-GS.png)<figcaption>Popisek</figcaption></figure>
 
     Obr. 9: Pole pro zadání kódu k Apple TV
 
@@ -261,7 +261,7 @@ zaostření a jas obrazu. Tlačítkem "Zmrazit" lze promítaný obraz
 zafixovat.
 
 
-![](dotykove-panely/vizualizer_0.png)
+<figure markdown>![](dotykove-panely/vizualizer_0.png)<figcaption>Popisek</figcaption></figure>
 
 Obr. 10: Nastavení vizualizéru
 
