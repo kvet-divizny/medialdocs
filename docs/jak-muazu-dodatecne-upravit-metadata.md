@@ -23,14 +23,14 @@ video ořezat nebo u nahrávky nastavit kapitoly.
 Obr. 1: Tlačítko pro editaci metadat
 
 Do rozhraní pro editaci metadat se dostanete ze stránky "[My
-Content](/kde-najdu-vsechna-svoje-videa)" pomocí ikonky tužky v pravém
-krajním sloupci. Editace Vám znovu zpřístupní formulář, který jste
-vyplňovali při vkládání nahrávky, a umožní Vám veškeré údaje změnit.
-Mezi jednotlivými položkami formuláře (podrobně jsou popsány v [tomto
-návodu](/jak-nahrat-do-medialu-soubor-z-pocitace)) se můžete volně
-pohybovat pomocí záložek a navigačních tlačítek "Back" (Zpět) a
-"Next" (Další). Editaci ukončíte kliknutím na tlačítko "Finish" na
-záložce "Confirm".
+Content](/home/kde-najdu-vsechna-svoje-videa)" pomocí ikonky tužky v
+pravém krajním sloupci. Editace Vám znovu zpřístupní formulář, který
+jste vyplňovali při vkládání nahrávky, a umožní Vám veškeré údaje
+změnit. Mezi jednotlivými položkami formuláře (podrobně jsou popsány
+v [tomto návodu](/home/jak-nahrat-do-medialu-soubor-z-pocitace)) se
+můžete volně pohybovat pomocí záložek a navigačních tlačítek "Back"
+(Zpět) a "Next" (Další). Editaci ukončíte kliknutím na tlačítko
+"Finish" na záložce "Confirm".
 
 **Pozor!** Pro uložení změn provedených na jednotlivých záložkách je
 třeba kliknout na tlačítko "Next". Pouhým přepnutím na záložku
@@ -59,6 +59,8 @@ mezi "Trim" (ořez), "Chop" (výřez), "Preview" (náhled)
 a "Export" (uložení nahrávky).
 
 ![](home/jak-muazu-dodatecne-upravit-metadata/edit.png)
+
+Obr. 3: Editace nahrávky
 
 1.  **Oříznutí videa** (Trim): Umožňuje odstranit část nahrávky z jejího
     začátku nebo konce. Zelené pole značí část nahrávky, která zůstane

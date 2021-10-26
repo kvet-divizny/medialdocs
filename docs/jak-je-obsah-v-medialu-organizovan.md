@@ -5,10 +5,11 @@ Své nahrávky v Medialu můžete podrobněji třídit pomocí systému kategori
 a tagů. Jejich používání umožňuje obsah v knihovně efektivněji
 organizovat a napomáhá uživatelům snáze dohledat konkrétní
 nahrávky. Kategorie a tagy lze nastavit při [vkládání videa do
-knihovny](/jak-nahrat-do-medialu-soubor-z-pocitace). Změnit je můžete
-pomocí [dodatečných úprav](/jak-muazu-dodatecne-upravit-metadata),
-přičemž kategorie lze rychle měnit také na stránce [Můj
-obsah](/kde-najdu-vsechna-svoje-videa).
+knihovny](/home/jak-nahrat-do-medialu-soubor-z-pocitace). Změnit je
+můžete pomocí [dodatečných
+úprav](/home/jak-muazu-dodatecne-upravit-metadata), přičemž kategorie
+lze rychle měnit také na stránce [Můj
+obsah](/home/kde-najdu-vsechna-svoje-videa).
 
 
 
@@ -27,7 +28,7 @@ obsah](/kde-najdu-vsechna-svoje-videa).
 **Kategorie videí** je možné si představit jako adresáře, ve kterých
 jsou videa uložena -- u každé kategorie je zároveň jasně určeno, kteří
 uživatelé do ní mohou videa vkládat a kterým uživatelům se bude na webu
-Medialu [zobrazovat její obsah](/kdo-muaze-videt-muaj-obsah). Pro
+Medialu [zobrazovat její obsah](/home/kdo-muaze-videt-muaj-obsah). Pro
 efektivní práci s videi a pro využití možností, které Medial nabízí, je
 proto důležité pochopit účel a způsob využití jednotlivých kategorií.
 
@@ -37,11 +38,11 @@ uživatelům. Videa v této kategorii slouží primárně pro osobní použití
 daného uživatele a ostatním uživatelům Medialu se bez dalšího nastavení
 nezobrazují. V případě potřeby je ale možné konkrétní video z osobní
 kategorie sdílet s ostatními, např. [vložením videa do e-kurzu v
-Moodlu](/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) nebo
+Moodlu](/home/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) nebo
 [posláním neveřejného
-odkazu](/jak-muazu-sva-videa-sirit#TOC-Dal-mo-nosti-sd-len-) do mailu
-(podrobný návod [zde](/jak-muazu-sva-videa-sirit)), pro tento případ
-slouží kategorie **Personal (public)**.
+odkazu](/home/jak-muazu-sva-videa-sirit#TOC-Dal-mo-nosti-sd-len-) do
+mailu (podrobný návod [zde](/home/jak-muazu-sva-videa-sirit)), pro tento
+případ slouží kategorie **Personal (public)**.
 
 Do kategorie Personal (private) budou také odeslána videa pořízená
 pomocí automatizovaného záznamového zařízení v nově rekonstruovaných
@@ -146,7 +147,8 @@ nahrávek přispívají jen málo.
 
 K nahrávce lze samozřejmě připojit i více tagů, nezapomeňte však, že je
 nelze při [filtrování
-obsahu](/zakladni-orientace-v-medialu#TOC-Filtrov-n-obsahu) kombinovat.
+obsahu](/home/zakladni-orientace-v-medialu#TOC-Filtrov-n-obsahu)
+kombinovat.
 
 #### Popisky
 

@@ -142,7 +142,7 @@ způsobem:
     jednu minutu. Kratší záznamy systém automaticky maže.
 4.  Pro ukončení nahrávání stiskněte tlačítko "Ukončit záznam".
 5.  Nahrávka se automaticky zpracuje a odešle do Vaší [osobní
-    kategorie](/kdo-muaze-videt-muaj-obsah) ve fakultní knihovně
+    kategorie](/home/kdo-muaze-videt-muaj-obsah) ve fakultní knihovně
     médií [Medial](http://medial.phil.muni.cz/){:target="_blank"}. Jakmile bude video
     dostupné, obdržíte e-mail s odkazem.
 
@@ -154,8 +154,8 @@ uživateli, který je během záznamu přihlášený na PC.
 
 Videa z učeben v Medialu nemají vyplněné doplňující informace,
 doporučujeme je proto [dodatečně
-editovat](/jak-muazu-dodatecne-upravit-metadata), aby je bylo možné v
-knihovně médií rozpoznat a dohledat.
+editovat](/home/jak-muazu-dodatecne-upravit-metadata), aby je bylo možné
+v knihovně médií rozpoznat a dohledat.
 
 
 
@@ -177,6 +177,9 @@ video pak bude obsahovat jen obraz z učebny.
 
 ![](dotykove-panely/vzhled-2.0-GS.png)
 
+Obr. 5: Vzhled výsledného videa
+
+
 ### Volba vstupu
 
 Můžete si vybrat, z jakého zdroje budete promítat na plátno. Na
@@ -197,6 +200,9 @@ konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu
 
 ![](dotykove-panely/konektory-2.0-GS.png)
 
+Obr. 6: Konektory pro připojení vlastního notebooku
+
+
 Rozhraní **HDMI **umožňuje přenášet zvuk i obraz v digitálním formátu.
 Kvalita obrazu je zpravidla vyšší než u VGA, ovšem při přenosu může
 docházet k drobným prodlevám.
@@ -213,20 +219,30 @@ můžete promítat obraz například z vlastního iPadu nebo MacBooku. Pro
 připojení k Apple TV postupujte následujícím způsobem:
 
 1.  Stiskněte tlačítko "Apple TV" na ovládacím panelu.
+
 2.  V ovládacím centru svého zařízení Apple stiskněte tlačítko
     "AirPlay".
+
     ![](dotykove-panely/ovl_centrum-2.0-GS.png)
+
     Obr. 7: Tlačítko AirPlay v ovládacím centru
     
+
 3.  Zobrazí se Vám seznam dostupných zařízení, pojmenovaných podle
     učebny, ve které se nacházejí. Zvolte to, na které chcete obraz
     přenášet.
+
     ![](dotykove-panely/seznam_zarizeni-GS.png)
+
     Obr. 8: Seznam dostupných Apple TV
     
+
 4.  Zadejte kód, který se Vám zobrazí na promítací ploše, a potvrďte
     stisknutím "Ok". Obě zařízení se následně spárují.
+
     ![](dotykove-panely/code-GS.png)
+
+    Obr. 9: Pole pro zadání kódu k Apple TV
 
 #### Vizualizér -- projekce z vizualizéru
 
@@ -272,7 +288,7 @@ abyste spouštěli samotný záznam.
 Ke zpracování se odesílají pouze záznamy, které trvají déle než minutu.
 Pokud jste tedy záznam vypnuli dříve, nemusíte nic řešit. V opačném
 případě můžete počkat, až se video zpracuje, a poté jej z mediální
-knihovny [odstranit](/kde-najdu-vsechna-svoje-videa).
+knihovny [odstranit](/home/kde-najdu-vsechna-svoje-videa).
 
 
 **Co se stane, když záznam zapomenu ukončit?**

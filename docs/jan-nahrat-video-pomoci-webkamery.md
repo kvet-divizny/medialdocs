@@ -89,4 +89,4 @@ tlačítkem "[OK]".
 Pokud jste se záznamem spokojeni, můžete se posunout dále tlačítkem
 "Next". V dalších krocích bude nutné vyplnit podrobnosti o nahrávce.
 Postup je stejný jako při vkládání souboru z počítače a je podrobně
-popsán v [tomto návodu](/jak-nahrat-do-medialu-soubor-z-pocitace).
+popsán v [tomto návodu](/home/jak-nahrat-do-medialu-soubor-z-pocitace).

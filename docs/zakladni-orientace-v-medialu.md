@@ -91,10 +91,12 @@ užitečnými odkazy na jiné weby
 
 ![](home/zakladni-orientace-v-medialu/search-GS.png)
 
+Obr. 4 : Vyhledávací pole s aktivním našeptáváním
+
 Pro vyhledání konkrétní nahrávky použijte vyhledávací pole v navigační
 liště. Zadaný text bude vyhledán v názvech a popiscích nahrávek, v
 klíčových slovech, názvech
-[kapitol](/jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly)
+[kapitol](/home/jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly)
 a také ve jménech autorů. Vyhledávání pracuje s **funkcí našeptávání**
 -- již při zadávání dotazu Vám tedy Medial ukáže návrhy odpovídající
 Vašemu dotazu. Pro vyhledávání pomocí neúplných slov je třeba použít
@@ -105,14 +107,17 @@ zástupný znak * (např. "středově*" dohledá výrazy "středověk",
 
 ![](home/zakladni-orientace-v-medialu/filter-2.0-GS.png)
 
+Obr. 5: Sloupec s použitelnými filtry
+
+
 Filtrování Vám umožní zobrazit v seznamu videí pouze ta, která Vás
 zajímají. Obsah Medialu lze filtrovat podle tří položek: [kategorií a
-podkategorií](/jak-je-obsah-v-medialu-organizovan), autorů a
-[tagů](/jak-je-obsah-v-medialu-organizovan#TOC-Tagy). Jednotlivé položky
-lze vzájemně kombinovat, v rámci každé z nich můžete ovšem nastavit jen
-jediný filtr. Můžete si tedy zobrazit například všechna videa nahraná
-konkrétním uživatelem v rámci určité podkategorie, nelze však už
-zobrazit obsah dvou podkategorií najednou.
+podkategorií](/home/jak-je-obsah-v-medialu-organizovan), autorů a
+[tagů](/home/jak-je-obsah-v-medialu-organizovan#TOC-Tagy). Jednotlivé
+položky lze vzájemně kombinovat, v rámci každé z nich můžete ovšem
+nastavit jen jediný filtr. Můžete si tedy zobrazit například všechna
+videa nahraná konkrétním uživatelem v rámci určité podkategorie, nelze
+však už zobrazit obsah dvou podkategorií najednou.
 
 Použitý filtr kategorie se zobrazí v horní části stránky. Seznam
 použitelných filtrů se přizpůsobuje tomu, které filtry již máte

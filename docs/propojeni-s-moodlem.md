@@ -35,9 +35,9 @@ Obr. 1: Tlačítko Medial v HTML editoru
 
 
 V obou případech budete moci buď nahrát do kurzu (a zároveň do Medialu)
-[nový obsah](/jak-vkladat-obsah-prostrednictvim-moodlu), nebo do kurzu
-[vložit již existující
-nahrávku](/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) z
+[nový obsah](/home/jak-vkladat-obsah-prostrednictvim-moodlu), nebo do
+kurzu [vložit již existující
+nahrávku](/home/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) z
 Medialu.
 
 #### 
