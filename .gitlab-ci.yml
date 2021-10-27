@@ -1,19 +1,19 @@
-image: python:latest
+image: python:3
 
 before_script:
   - pip install mkdocs
-  # Add your custom theme if not inside a theme_dir
-  # (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
   - pip install mkdocs-material
-
+  - pip install mkdocs-rtd-dropdown
 
 pages:
-  stage: deploy
-  only:
-    - master
   script:
-    - pip install mkdocs-material
-    - mkdocs build --site-dir public
+    - apt-get update
+    - apt-get install -y --no-install-recommends -o DPkg::options::="--force-unsafe-io" brotli
+    - mkdocs build
+    - mv site public
+    - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|map\|css\|json\)$' -exec brotli --best -k {} \;
   artifacts:
     paths:
       - public
+    expire_in: 1 day
+
