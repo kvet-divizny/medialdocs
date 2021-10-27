@@ -18,7 +18,10 @@ video ořezat nebo u nahrávky nastavit kapitoly.
 
 #### Editace metadat
 
-<figure markdown>![](home/jak-muazu-dodatecne-upravit-metadata/01-button-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+<figure markdown>
+![](home/jak-muazu-dodatecne-upravit-metadata/01-button-2.0-GS.png)
+<figcaption>Popisek</figcaption>
+</figure>
 
 Obr. 1: Tlačítko pro editaci metadat
 
