@@ -1,4 +1,5 @@
-site_name: Medialdocs (test)
+site_name: Medialdocs
+site_url: https://elf-us.gitlab-pages.ics.muni.cz/medialdocs/
 
 theme:
   name: material
