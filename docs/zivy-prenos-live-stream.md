@@ -33,7 +33,7 @@ Přednášejícího snímá kamera napevno umístěná v učebně. Pokud je zapn
 projektor, vkládá se promítaný obraz přímo do videa, takže je zajištěna
 dobrá čitelnost prezentací a dalších podpůrných materiálů. Aby byl
 přednášející dobře slyšet, doporučujeme použít některý z
-[mikrofonů](./mikrofony) umístěných v katedře.
+[mikrofonů](/medialdocs/mikrofony) umístěných v katedře.
 
 ![](zivy-prenos-live-stream/stream-2.0-GS.png)
 

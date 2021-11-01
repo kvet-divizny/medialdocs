@@ -18,13 +18,13 @@ nahrávky, při jaké příležitosti jste záznam pořídili atd. 
 Nahrávky z Medialu můžete snadno zveřejnit ve svých kurzech v Moodlu.
 Díky propojení obou systémů mohou vkládat obsah do Moodlu jak učitelé,
 tak studenti. Učitelé do Medialu vstupují pomocí [tlačítka v HTML
-editoru](/propojeni-s-moodlem), studenti pak při
-odevzdávání videa coby řešení úkolu. V obou případech se nejprve
-zobrazí nabídka tří možností pro nahrání audiovizuálních materiálů do
-Moodlu: první dvě možnosti ("Upload" a "Webcam") umožňují nahrát do
-Medialu nový obsah a jsou popsány v [této části
-dokumentace](./jak-vkladat-obsah-prostrednictvim-moodlu). Pokud chcete
-do Moodlu vložit nahrávku, která již je v Medialu umístěná,
+editoru](/medialdocs/propojeni-s-moodlem#TOC-P-stup-do-Medialu),
+studenti pak při odevzdávání videa coby řešení úkolu. V obou případech
+se nejprve zobrazí nabídka tří možností pro nahrání audiovizuálních
+materiálů do Moodlu: první dvě možnosti ("Upload" a "Webcam")
+umožňují nahrát do Medialu nový obsah a jsou popsány v [této části
+dokumentace](/medialdocs/jak-vkladat-obsah-prostrednictvim-moodlu). Pokud
+chcete do Moodlu vložit nahrávku, která již je v Medialu umístěná,
 použijete tlačítko "Search".
 
 ![](home/jak-muazu-sva-videa-sirit/A-1.png)
@@ -66,7 +66,7 @@ V rozhraní pro výběr videa lze využít tyto prvky:
     tlačítko "Select". Tlačítkem "Preview" si můžete zobrazit náhled
     videa, tlačítkem "Edit Details" pak u svých videí vstoupíte do
     rozhraní pro [úpravu
-    informací](./jak-muazu-dodatecne-upravit-metadata#TOC-Editace-metadat)
+    informací](/medialdocs/jak-muazu-dodatecne-upravit-metadata#TOC-Editace-metadat)
     o nahrávce.
 
 ```
@@ -156,9 +156,9 @@ Obr. 8: Cesta k embedovacímu kódu
     sloupci Filename a zvolit možnost "Uložit soubor" / "Save
     file".
 
-[](./jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)
+[](/medialdocs/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)
 
-[](./jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)![](home/jak-muazu-sva-videa-sirit/B-5.png)
+[](/medialdocs/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)![](home/jak-muazu-sva-videa-sirit/B-5.png)
 
 
 
@@ -187,7 +187,7 @@ videí?**
 Nikoliv, povolením veřejného přístupu pouze zapnete možnost video
 sdílet. Aby se zobrazovalo v knihovně videí, museli byste jej navíc
 přesunout do některé z veřejných
-[kategorií](./jak-je-obsah-v-medialu-organizovan#TOC-Kategorie-vide-).
+[kategorií](/medialdocs/jak-je-obsah-v-medialu-organizovan#TOC-Kategorie-vide-).
 Pokud video ponecháte v kategorii Personal, ostatní jej v Medialu
 neuvidí.
 

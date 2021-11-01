@@ -36,10 +36,11 @@ Návod platí pro učebny:
 
 Automatizované nahrávání je dostupné ve většině rekonstruovaných učeben
 FF. Některé učebny jsou řešeny nahráváním pomocí tlačítkových panelů,
-jiné pomocí [dotykových panelů](./dotykove-panely). Oboje zařízení pak
-uživateli dovoluje jednoduše a pohodlně nahrát svou přednášku, včetně
-materiálů promítaných na plátně. Přednášku je však možné nahrát i bez
-těchto materiálů. Tento návod se věnuje učebnám s tlačítkovými panely.
+jiné pomocí [dotykových panelů](/medialdocs/dotykove-panely). Oboje
+zařízení pak uživateli dovoluje jednoduše a pohodlně nahrát svou
+přednášku, včetně materiálů promítaných na plátně. Přednášku je však
+možné nahrát i bez těchto materiálů. Tento návod se věnuje učebnám s
+tlačítkovými panely.
 
 
 
@@ -48,8 +49,8 @@ těchto materiálů. Tento návod se věnuje učebnám s tlačítkovými panely.
 
 
 [![](tlacitkove-panely/tl_tmavy.jpg?height=201&width=320){width="320"
-height="201"}](./tlacitkove-panely/tl_tmavy.jpg?attredirects=0)[![](tlacitkove-panely/tl_svetly.jpg?height=178&width=320){width="320"
-height="178"}](./tlacitkove-panely/tl_svetly.jpg?attredirects=0)
+height="201"}](/medialdocs/tlacitkove-panely/tl_tmavy.jpg?attredirects=0)[![](tlacitkove-panely/tl_svetly.jpg?height=178&width=320){width="320"
+height="178"}](/medialdocs/tlacitkove-panely/tl_svetly.jpg?attredirects=0)
 
 Obr. 1: Učebny jsou vybaveny tlačítkovými panely v různých variantách.
 
@@ -61,7 +62,7 @@ způsobem:
 1.  Přihlaste se k počítači v učebně. Tlačítko **"Záznam"/"Record"**
     na ovládacím panelu se bíle rozsvítí.
 2.  Zapněte projektor a zvolte zdroj obrazu ([viz
-    níže](./tlacitkove-panely#TOC-Zapnut-projektoru-a-volba-vstupu)).
+    níže](/medialdocs/tlacitkove-panely#TOC-Zapnut-projektoru-a-volba-vstupu)).
 3.  Stiskněte tlačítko "Záznam". Tlačítko se rozsvítí červeně na
     znamení, že probíhá nahrávání.
     **Pozor!** Zpracovány jsou pouze nahrávky, které trvají déle než
@@ -69,9 +70,9 @@ způsobem:
 4.  Pro ukončení nahrávání znovu stiskněte tlačítko
     "Záznam"/"Record".
 5.  Nahrávka se automaticky zpracuje a odešle do Vaší [osobní
-    kategorie](./kdo-muaze-videt-muaj-obsah) ve fakultní knihovně médií
-    [Medial](http://medial.phil.muni.cz){:target="_blank"}. Jakmile bude video dostupné,
-    obdržíte e-mail s odkazem.
+    kategorie](/medialdocs/kdo-muaze-videt-muaj-obsah) ve fakultní
+    knihovně médií [Medial](http://medial.phil.muni.cz){:target="_blank"}. Jakmile bude
+    video dostupné, obdržíte e-mail s odkazem.
 
 Jak nastavit oprávnění ke zhlédnutí videa v Medialu či jak lze videa z
 Medialu dále šířit se dozvíte v [uživatelské
@@ -79,12 +80,13 @@ dokumentaci](https://sites.google.com/a/phil.muni.cz/elearning-medial/){:target=
 Mějte na paměti, že video se odešle do osobní složky v Medialu tomu
 uživateli, který je během záznamu přihlášený na PC. Videa z učeben navíc
 v Medialu nemají vyplněné doplňující informace, doporučujeme je proto
-[dodatečně editovat](./jak-muazu-dodatecne-upravit-metadata), aby je
-bylo možné v knihovně médií rozpoznat a dohledat.
+[dodatečně editovat](/medialdocs/jak-muazu-dodatecne-upravit-metadata),
+aby je bylo možné v knihovně médií rozpoznat a dohledat.
 
 **Poznámka.** Aby byl přednášející dobře slyšet, doporučujeme použít
 některý z mikrofonů, které jsou v každé učebně k dispozici. Více o
-mikrofonech se dozvíte v [patřičné sekci dokumentace](./mikrofony).
+mikrofonech se dozvíte v [patřičné sekci
+dokumentace](/medialdocs/mikrofony).
 
 
 Jak záznam vypadá? Přednášejícího snímá kamera napevno umístěná v
@@ -191,7 +193,8 @@ vložený do záznamu a také zda je zaznamenáván zvuk. Úroveň snímaného
 zvuku je indikována vizuálně pomocí svítícího ukazatele pod obrazem z
 učebny.
 
-Pokud náhled není v pořádku, [kontaktuje](./kontakty) techniky CIT.
+Pokud náhled není v pořádku, [kontaktuje](/medialdocs/kontakty) techniky
+CIT.
 
 Náhled streamu můžete na učitelském PC otevřít kdykoliv i bez toho,
 abyste spouštěli samotný záznam.
@@ -203,7 +206,7 @@ abyste spouštěli samotný záznam.
 Ke zpracování se odesílají pouze záznamy, které trvají déle než minutu.
 Pokud jste tedy záznam vypnuli dříve, nemusíte nic řešit. V opačném
 případě můžete počkat, až se video zpracuje, a poté jej z mediální
-knihovny [odstranit](./kde-najdu-vsechna-svoje-videa).
+knihovny [odstranit](/medialdocs/kde-najdu-vsechna-svoje-videa).
 
 
 **Co se stane, když záznam zapomenu ukončit?**

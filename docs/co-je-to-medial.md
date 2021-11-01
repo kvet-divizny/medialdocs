@@ -29,11 +29,11 @@ Základní funkce Medialu jsou stručně shrnuty v následujícím videu (EN):
 
 Medial slouží pro uchování, správu a sdílení video a audio souborů.
 Videa lze do Medialu nahrát přímo přes [webové
-rozhraní](./jak-nahrat-do-medialu-soubor-z-pocitace) ([po
-přihlášení](./zakladni-orientace-v-medialu#TOC-P-ihl-en-do-Medialu)),
+rozhraní](/medialdocs/jak-nahrat-do-medialu-soubor-z-pocitace) ([po
+přihlášení](/medialdocs/zakladni-orientace-v-medialu#TOC-P-ihl-en-do-Medialu)),
 [při úpravách kurzu v
-Moodlu](./jak-vkladat-obsah-prostrednictvim-moodlu), pomocí programu pro
-tvorbu výukových tutoriálů [Techsmith
+Moodlu](/medialdocs/jak-vkladat-obsah-prostrednictvim-moodlu), pomocí
+programu pro tvorbu výukových tutoriálů [Techsmith
 Relay](https://sites.google.com/a/phil.muni.cz/elearning-relay/){:target="_blank"}, nebo
 využitím automatizovaného nahrávání přednášek v nově vybavených budovách
 fakulty (Carla).
@@ -45,7 +45,7 @@ lze řídit podle potřeby, konkrétní videa mohou být zcela veřejná,
 dostupná pouze pro studenty nebo zaměstnance FF MU (po přihlášení do
 Medialu/Moodlu), nebo zcela skrytá pouze pro osobní potřeby. Více o
 zveřejnění a sdílení videí v Medialu
-[zde](./jak-muazu-sva-videa-sirit).
+[zde](/medialdocs/jak-muazu-sva-videa-sirit).
 
 #### Kdo může Medial používat?
 
@@ -56,14 +56,14 @@ pomocí kategorií (rozbalíte šipkou uprostřed), nebo pomocí vyhledávacího
 pole (vpravo nahoře). 
 
 [![Obr. 1: Navigační prvky pro procházení
-obsahu](co-je-to-medial/1_zakladni-navigace.png)](./co-je-to-medial/1_zakladni-navigace.png?attredirects=0)Obr.
+obsahu](co-je-to-medial/1_zakladni-navigace.png)](/medialdocs/co-je-to-medial/1_zakladni-navigace.png?attredirects=0)Obr.
 1: Navigační prvky pro procházení obsahu
 
 
 Prohlížení dalšího obsahu, stejně jako možnost vkládat, spravovat a
 sdílet videa, je umožněno pouze přihlášeným uživatelům. Do Medialu se
 může automaticky
-[přihlásit](./zakladni-orientace-v-medialu/#prihlaseni-do-medialu)
+[přihlásit](/medialdocs/zakladni-orientace-v-medialu#TOC-P-ihl-en-do-Medialu)
 jakýkoli zaměstnanec nebo student Filozofické fakulty. Zaměstnanci a
 studenti dalších fakult a pracovišť MU mohou získat přístup k Medialu po
 domluvě se správci systému.

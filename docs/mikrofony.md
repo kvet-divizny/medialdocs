@@ -74,7 +74,7 @@ mikrofonu (5). Mikrofon držte tak, abyste nepřekrývali anténu a displej.
 
 
 [![](mikrofony/mikrofon01_spravnaverze.jpg)
-](./mikrofony/mikrofon01_spravnaverze.jpg?attredirects=0)
+](/medialdocs/mikrofony/mikrofon01_spravnaverze.jpg?attredirects=0)
 
 Obr. 1: Handka, zdroj: oficiální manuál firmy
 [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/6403/SKM_300_EN_INT.pdf){:target="_blank"}.
@@ -120,7 +120,7 @@ oficiální manuál firmy Sennheiser.
 ### Náhlavní a klopový mikrofon
 
 Oba tyto mikrofony, které můžete vidět na obrázku 3, jsou připojeny k
-[přijímači](./mikrofony#TOC-P-ij-ma-ke-klopov-mu-a-n-hlavn-mu-mikrofonu),
+[přijímači](/medialdocs/mikrofony#TOC-P-ij-ma-ke-klopov-mu-a-n-hlavn-mu-mikrofonu),
 který lze umístit za pásek případně do kapsy. Náhlavní mikrofon (1) si
 jednoduše nasadíte na uši tak, aby samotný mikrofon byl umístěn asi 3 cm
 od úst.
@@ -206,7 +206,7 @@ nabíječky, aby se dobil a byl připraven pro další použití.
 mikrofon je zcela nabitý a jeho baterie vydrží celou přednášku.
 
 [![](mikrofony/sennheiser-charging.jpg?height=320&width=320){width="320"
-height="320"}](./mikrofony/sennheiser-charging.jpg?attredirects=0)
+height="320"}](/medialdocs/mikrofony/sennheiser-charging.jpg?attredirects=0)
 
 Obr. 8: Nabíječka s mikrofony. Zdroj: [dm
 music](http://www.dmmusic.com/sennheiser-l2015-base-charger-unit){:target="_blank"}.
@@ -233,12 +233,13 @@ naleznete na tel. čísle 777 364 127.
 **Co dělat, když mikrofon vydává nepříjemné zvuky?**
 
 Mikrofon může občas "chytat" zpětnou vazbu. Pokud se Vám něco takového
-přihodí, zkuste nejprve na [dotykovém panelu](./dotykove-panely)
-zeslabit zvuk. V případě, že se nic nezmění, můžete vyzkoušet jiný
-mikrofon. Jsou dvě skutečnosti, které mohou tento jev způsobovat: buď
-jste se s mikrofonem příliš přiblížili reproduktorům, nebo je špatně
-nastavena citlivost mikrofonu. Pokud ani po změně pozice a následném
-zeslabení mikrofonu na dotykovém displeji nepříjemný zvuk zpětné vazby
-nepřestane, zavolejte správci AV techniky Petru Čučkovi na tel. 777 364
-127. Dojde Vám pomoci některý z techniků, který pak na mikrofonu
-přenastaví citlivost, která hučení mikrofonu způsobuje.
+přihodí, zkuste nejprve na [dotykovém
+panelu](/medialdocs/dotykove-panely) zeslabit zvuk. V případě, že se nic
+nezmění, můžete vyzkoušet jiný mikrofon. Jsou dvě skutečnosti, které
+mohou tento jev způsobovat: buď jste se s mikrofonem příliš přiblížili
+reproduktorům, nebo je špatně nastavena citlivost mikrofonu. Pokud ani
+po změně pozice a následném zeslabení mikrofonu na dotykovém displeji
+nepříjemný zvuk zpětné vazby nepřestane, zavolejte správci AV techniky
+Petru Čučkovi na tel. 777 364 127. Dojde Vám pomoci některý z techniků,
+který pak na mikrofonu přenastaví citlivost, která hučení mikrofonu
+způsobuje.

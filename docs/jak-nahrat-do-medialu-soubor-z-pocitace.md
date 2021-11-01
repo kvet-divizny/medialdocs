@@ -21,7 +21,7 @@ vkládání nahrávky je třeba projít pěti kroky, při nichž budete moci
 nahrávku doplnit informacemi různého druhu. Mezi jednotlivými kroky lze
 přecházet pomocí záložek v horní části nahrávacího rozhraní a všechny
 informace lze po vložení nahrávky [dodatečně
-editovat](./jak-muazu-dodatecne-upravit-metadata).
+editovat](/medialdocs/jak-muazu-dodatecne-upravit-metadata).
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky-GS.png)
 
@@ -61,7 +61,7 @@ obsahuje jednotlivá pole pro:
     znaků; doporučujeme do popisku uvádět, kdy a při jaké příležitosti
     byla nahrávka pořízena (např. kód a název předmětu, jméno konference
     apod.), v ideálním případě pak využít naši [předpřipravenou
-    šablonu](./jak-je-obsah-v-medialu-organizovan#TOC-Popisky).
+    šablonu](/medialdocs/jak-je-obsah-v-medialu-organizovan#TOC-Popisky).
 4.  **E-mailová adresa** -- na zadanou adresu Vám budou chodit zprávy o
     zpracování nahrávky
 5.  **Tagy** -- tagy, podle kterých mohou nahrávku dohledat ostatní
@@ -73,7 +73,7 @@ je nicméně nutné, pokud chcete, aby byla Vaše nahrávka snadno
 rozpoznatelná a dohledatelná. Podrobnější informace o tom, jak fungují
 kategorie a tagy, včetně našeho doporučení, jak je používat, naleznete v
 návodu věnovaném [organizaci
-obsahu](./jak-je-obsah-v-medialu-organizovan) knihovny.
+obsahu](/medialdocs/jak-je-obsah-v-medialu-organizovan) knihovny.
 
 #### Náhledový obrázek (Thumbnails)
 
@@ -158,4 +158,4 @@ zpracování budete informováni e-mailem.
 Studenti mohou do Medialu přidávat obsah, ale pouze do své osobní
 kategorie. Jejich nahrávky se tedy nebudou zobrazovat ostatním
 uživatelům Medialu, mohou je nicméně dále [sdílet mimo knihovnu
-médií](./jak-muazu-sva-videa-sirit).
+médií](/medialdocs/jak-muazu-sva-videa-sirit).

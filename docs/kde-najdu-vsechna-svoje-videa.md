@@ -115,4 +115,4 @@ Následně budete opět vyzváni k potvrzení svého rozhodnutí.
 
 Medial umožňuje dodatečně upravovat i další podrobnosti o nahrávce jako
 tagy nebo náhledové obrázky. Jak na to se dozvíte v [tomto
-návodu](./jak-muazu-dodatecne-upravit-metadata).
+návodu](/medialdocs/jak-muazu-dodatecne-upravit-metadata).

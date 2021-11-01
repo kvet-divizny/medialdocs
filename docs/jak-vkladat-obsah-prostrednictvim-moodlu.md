@@ -10,14 +10,14 @@ Vkládání obsahu prostřednictvím Moodlu
 
 
 
-Díky [propojení Medialu s Moodlem](./propojeni-s-moodlem) můžete vkládat
-multimediální obsah přímo ze svého kurzu. Jako učitel využijete vkládání
-pomocí tlačítka v HTML editoru, naopak studenti Medial využijí
-při odevzdávání úkolů ve formě videosouborů.
+Díky [propojení Medialu s Moodlem](/medialdocs/propojeni-s-moodlem)
+můžete vkládat multimediální obsah přímo ze svého kurzu. Jako učitel
+využijete vkládání pomocí tlačítka v HTML editoru, naopak studenti
+Medial využijí při odevzdávání úkolů ve formě videosouborů.
 
 **Poznámka: **Před prvním vstupem do Medialu je potřeba propojit oba
-profily. Stačí, když [se přihlásíte](./propojeni-s-moodlem) pomocí svého
-UČO a sekundárního hesla. 
+profily. Stačí, když [se přihlásíte](/medialdocs/propojeni-s-moodlem)
+pomocí svého UČO a sekundárního hesla. 
 
 #### Tlačítko Medialu v editoru
 
@@ -71,12 +71,12 @@ webového rozhraní mediální knihovny:
 
 -   **Upload** -- umožňuje vložit audio- či videosoubor z počítače,
     podrobný návod [naleznete
-    zde](./jak-nahrat-do-medialu-soubor-z-pocitace).
+    zde](/medialdocs/jak-nahrat-do-medialu-soubor-z-pocitace).
 -   **Webcam** -- umožňuje vytvořit obsah na místě pomocí webkamery nebo
     mikrofonu (tedy jak audio, tak i video), podrobný návod [naleznete
-    na tomto odkazu](./jan-nahrat-video-pomoci-webkamery).
+    na tomto odkazu](/medialdocs/jan-nahrat-video-pomoci-webkamery).
 
 Volba **Search** umožňuje procházet již existující obsah mediální
 knihovny a vkládat jej do kurzu; v tomto bodě se Vám ukážou nejen Vaše
 osobní videa, ale i videa z veřejných kategorií. Více se můžete dozvědět
-[v tomto návodu](./jak-muazu-sva-videa-sirit).
+[v tomto návodu](/medialdocs/jak-muazu-sva-videa-sirit).

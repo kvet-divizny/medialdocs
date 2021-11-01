@@ -1,10 +1,9 @@
 Návody pro tvůrce kurzů: Medial
 ===============================
-Úprava v souboru.
 
 Vítejte v nápovědě pro Medial, knihovnu médií provozovanou a spravovanou
 Filozofickou fakultou MU. Naleznete jej na adrese
-[**medial.phil.muni.cz**](http://medial.phil.muni.cz/){:target="_blank"}. Na těchto
+**[medial.phil.muni.cz](http://medial.phil.muni.cz/){:target="_blank"}**. Na těchto
 stránkách se dozvíte, co přesně Medial je, co umožňuje a jak s ním
 pracovat.
 
@@ -20,18 +19,20 @@ MU](http://elf.phil.muni.cz){:target="_blank"} (ELF) a je díky tomu úzce prov�
 systémem pro správu e-kurzů [Moodle](https://moodle.org/){:target="_blank"} a technikou v
 nově vybavených učebnách komplexu CARLA.
 
--   [**Co je to Medial.**](/co-je-to-medial) Základní představení
-    knihovny médií a jejího účelu.
--   **[Jak lze Medial využívat.](/vyuziti-medialu)** Stručný přehled
-    možností využití Medialu a jeho propojení s ostatními systémy.
--   [**Základní orientace.**](/zakladni-orientace-v-medialu) Návod pro
-    přihlášení do Medialu, základní orientaci v něm a možnosti
+-   [**Co je to Medial.**](/medialdocs/co-je-to-medial) Základní
+    představení knihovny médií a jejího účelu.
+-   **[Jak lze Medial využívat.](/medialdocs/vyuziti-medialu)** Stručný
+    přehled možností využití Medialu a jeho propojení s ostatními
+    systémy.
+-   [**Základní orientace.**](/medialdocs/zakladni-orientace-v-medialu)
+    Návod pro přihlášení do Medialu, základní orientaci v něm a možnosti
     vyhledávání konkrétních nahrávek.
--   [**Organizace obsahu.**](/jak-je-obsah-v-medialu-organizovan) Návod
+-   **[Organizace
+    obsahu.](/medialdocs/jak-je-obsah-v-medialu-organizovan) **Návod
     popisuje systém kategorií a tagů sloužící k organizaci obsahu
     Medialu.
--   **[Propojení s Moodlem.](/propojeni-s-moodlem) **Základní popis
-    propojení Medialu s e-kurzy v Moodlu.
+-   **[Propojení s Moodlem.](/medialdocs/propojeni-s-moodlem) **Základní
+    popis propojení Medialu s e-kurzy v Moodlu.
 
 ![](home/vkladani_obsahu-01.png)
 
@@ -42,15 +43,15 @@ navíc propojený s nahrávací technikou v nově vybavených budovách fakulty
 (Carla): záznamy, které zde pořídíte, budou automaticky odeslány a
 uloženy do Medialu.
 
--   [**Jak nahrát soubor z
-    počítače.**](/jak-nahrat-do-medialu-soubor-z-pocitace) Návod pro
-    vložení souboru z počítače a vyplnění doplňujících informací o
+-   **[Jak nahrát soubor z
+    počítače.](/medialdocs/jak-nahrat-do-medialu-soubor-z-pocitace) **Návod
+    pro vložení souboru z počítače a vyplnění doplňujících informací o
     nahrávce.
 -   [Jak pořídit nahrávku pomocí
-    webkamery.](/jan-nahrat-video-pomoci-webkamery) Návod pro vytvoření
-    vlastního audio- či videozáznamu v prostředí Medialu.
+    webkamery.](/medialdocs/jan-nahrat-video-pomoci-webkamery) Návod pro
+    vytvoření vlastního audio- či videozáznamu v prostředí Medialu.
 -   [Jak nahrát obsah prostřednictvím
-    Moodlu.](/jak-vkladat-obsah-prostrednictvim-moodlu) Popisuje
+    Moodlu.](/medialdocs/jak-vkladat-obsah-prostrednictvim-moodlu) Popisuje
     možnosti vložení nového obsahu do Medialu přímo z e-kurzů v Moodlu.
 
 ![](home/sprava_obsahu.png)
@@ -61,12 +62,12 @@ knihovny odstranit. Dodatečně můžete také upravit informace o nahrávce
 nebo k ní nastavit kapitoly.
 
 -   [Kde najdu všechna svoje
-    videa.](/kde-najdu-vsechna-svoje-videa) Návod pro zpřístupnění
-    soupisu všech nahrávek uživatele a pro základní úpravy a mazání
-    videí.
+    videa.](/medialdocs/kde-najdu-vsechna-svoje-videa) Návod pro
+    zpřístupnění soupisu všech nahrávek uživatele a pro základní úpravy
+    a mazání videí.
 -   [Jak můžu dodatečně upravit
-    metadata.](/jak-muazu-dodatecne-upravit-metadata) Návod pro
-    nahrazení souboru s nahrávkou, dodatečnou úpravu doplňujících
+    metadata.](/medialdocs/jak-muazu-dodatecne-upravit-metadata) Návod
+    pro nahrazení souboru s nahrávkou, dodatečnou úpravu doplňujících
     informací o ní a vytváření kapitol.
 
 ![](home/sdileni_obsahu.png)
@@ -79,11 +80,12 @@ webové stránky. V neposlední řadě můžete nahrávky rychle a pohodlně
 vkládat do svých kurzů v [Moodlu](http://elf.phil.muni.cz){:target="_blank"}.
 
 -   [Kdo může vidět moje
-    videa.](/kdo-muaze-videt-muaj-obsah) Vysvětlení, jak lze ovlivnit
-    viditelnost nahrávek v rámci Medialu.
--   [Jak můžu svá videa šířit.](/jak-muazu-sva-videa-sirit) Popis
-    možností šíření videí mimo Medial, včetně rychlého vkládání videí do
-    e-kurzů v Moodlu.
+    videa.](/medialdocs/kdo-muaze-videt-muaj-obsah) Vysvětlení, jak lze
+    ovlivnit viditelnost nahrávek v rámci Medialu.
+-   [Jak můžu svá videa
+    šířit.](/medialdocs/jak-muazu-sva-videa-sirit) Popis možností šíření
+    videí mimo Medial, včetně rychlého vkládání videí do e-kurzů v
+    Moodlu.
 
 #### 
 
@@ -111,16 +113,17 @@ telefon: 549 49 **1542**
 
 
 -   **[Jak pracovat s tlačítkovými ovládacími
-    panely.](/tlacitkove-panely)** Návod pro nahrávání přednášek a
-    ovládání techniky v učebnách s tlačítkovými panely.
+    panely.](/medialdocs/tlacitkove-panely)** Návod pro nahrávání
+    přednášek a ovládání techniky v učebnách s tlačítkovými panely.
 -   [**Jak pracovat s dotykovými ovládacími
-    panely.**](/dotykove-panely) Návod pro nahrávání přednášek a
-    ovládání techniky v učebnách s dotykovými panely.
--   [**Jak používat mikrofony.**](/mikrofony) Základní informace k
-    mikrofonům dostupným v učebnách v Carle.
--   [**Jak zajistit živý přenos z učeben.**](/zivy-prenos-live-stream)
-    Popisuje, jak funguje živý stream z učeben a co je třeba udělat pro
-    jeho zajištění.
--   [**Koho kontaktovat v případě potíží.**](/kontakty) Podrobnější
-    rozpis kontaktů, na které se můžete obracet, pokud potřebujete
-    pomoci s technikou v učebnách.
+    panely.**](/medialdocs/dotykove-panely) Návod pro nahrávání
+    přednášek a ovládání techniky v učebnách s dotykovými panely.
+-   [**Jak používat mikrofony.**](/medialdocs/mikrofony) Základní
+    informace k mikrofonům dostupným v učebnách v Carle.
+-   [**Jak zajistit živý přenos z
+    učeben.**](/medialdocs/zivy-prenos-live-stream) Popisuje, jak
+    funguje živý stream z učeben a co je třeba udělat pro jeho
+    zajištění.
+-   [**Koho kontaktovat v případě potíží.**](/medialdocs/kontakty)
+    Podrobnější rozpis kontaktů, na které se můžete obracet, pokud
+    potřebujete pomoci s technikou v učebnách.
