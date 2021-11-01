@@ -8,6 +8,8 @@ theme:
   palette:
     primary: deep purple
   logo: assets/elf-inverze.svg
+  features:
+    - navigation.sections
 markdown_extensions:
   - toc:
       toc_depth: 4
