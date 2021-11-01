@@ -14,3 +14,30 @@ markdown_extensions:
       permalink: true
   - attr_list
   - md_in_html
+
+# Navigation
+nav:
+    - Domů: index.md
+    - Základní přehled:
+        - Co je to Medial: co-je-to-medial.md
+        - Využití Medialu: vyuziti-medialu.md
+        - Základní orientace: zakladni-orientace-v-medialu.md
+        - Organizace obsahu: jak-je-obsah-v-medialu-organizovan.md
+        - Propojení s Moodlem: propojeni-s-moodlem.md
+    - Vkládání obsahu:
+        - Nahrání souboru z počítače: jak-nahrat-do-medialu-soubor-z-pocitace.md
+        - Záznam pomocí webkamery: jan-nahrat-video-pomoci-webkamery.md
+        - Vkládání obsahu prostřednictvím Moodlu: jak-vkladat-obsah-prostrednictvim-moodlu.md
+    - Správa obsahu:
+        - Stránka Můj obsah: kde-najdu-vsechna-svoje-videa.md
+        - Úprava nahrávek: jak-muazu-dodatecne-upravit-metadata.md
+    - Sdílení obsahu:
+        - Kdo může vidět můj obsah: kdo-muaze-videt-muaj-obsah.md
+        - Sdílení obsahu: jak-muazu-sva-videa-sirit.md
+    - Záznamy v učebnách:
+        - Tlačítkové panely: tlacitkove-panely.md
+        - Dotykové panely: dotykove-panely.md
+        - Mikrofony: mikrofony.md
+        - Živý přenos (live stream): zivy-prenos-live-stream.md
+        - Kontakty: kontakty.md
+
