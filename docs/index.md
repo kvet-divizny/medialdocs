@@ -1,5 +1,6 @@
 Návody pro tvůrce kurzů: Medial
 ===============================
+Úprava v souboru.
 
 Vítejte v nápovědě pro Medial, knihovnu médií provozovanou a spravovanou
 Filozofickou fakultou MU. Naleznete jej na adrese
