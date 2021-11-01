@@ -9,7 +9,7 @@ Využití Medialu
 
 #### 
 
-<figure markdown>![](home/vyuziti-medialu/760blz_4.0.png)<figcaption>Popisek</figcaption></figure>
+![](home/vyuziti-medialu/760blz_4.0.png)
 
 Obr. 1: Znázornění využití Medialu.
 
@@ -25,16 +25,16 @@ tento obsah zprostředkovat ostatním.
     běžných formátů jako jsou MP4, AVI, MP3, WAV a další. Průvodce
     přidáváním obsahu spustíte tlačítkem Upload na hlavní stránce.
     Podrobný návod najdete
-    [zde](/home/jak-nahrat-do-medialu-soubor-z-pocitace).
+    [zde](./jak-nahrat-do-medialu-soubor-z-pocitace).
 -   **Webkamera, mikrofon:** díky Medialu můžete snadno vytvářet vlastní
     nahrávky pomocí webkamery nebo mikrofonu. Použít můžete třeba i
     kameru ve svém notebooku nebo -- přes mobilní verzi stránek --
     fotoaparát svého tabletu či telefonu. Podrobný návod najdete
-    [zde](/home/jan-nahrat-video-pomoci-webkamery).
+    [zde](./jan-nahrat-video-pomoci-webkamery).
 -   **Záznamy z učeben:** záznamy pořízené automatizovaným nahrávacím
     zařízením ve vybavených učebnách se po ukončení nahrávání a
     zpracování odešlou přímo do Vaší [osobní
-    kategorie](/home/jak-je-obsah-v-medialu-organizovan#TOC-Kategorie-a-podkategorie)
+    kategorie](./jak-je-obsah-v-medialu-organizovan#TOC-Kategorie-a-podkategorie)
     v Medialu.
 -   **Výukové tutoriály:** pomocí nástroje [Techsmith
     Relay](http://relaydocs.phil.muni.cz/){:target="_blank"} můžete vytvářet pracovní
@@ -44,8 +44,8 @@ tento obsah zprostředkovat ostatním.
 -   **Kurzy v Moodlu:** v neposlední řadě můžete do Medialu přidávat
     obsah přímo ze svých kurzů v Moodlu. Takto můžete vkládat mediální
     soubory nebo vytvářet vlastní nahrávky. Popis propojení obou systémů
-    naleznete [zde](/home/propojeni-s-moodlem), podrobnější postup pak v
-    [tomto návodu](/home/jak-vkladat-obsah-prostrednictvim-moodlu).
+    naleznete [zde](./propojeni-s-moodlem), podrobnější postup pak v
+    [tomto návodu](./jak-vkladat-obsah-prostrednictvim-moodlu).
 
 Jak můžete obsah Medialu zveřejnit?
 
@@ -56,7 +56,7 @@ Jak můžete obsah Medialu zveřejnit?
     Medialu, přičemž můžete ovlivnit, kdo je bude moci zhlédnout. Z webu
     Medialu můžete svá videa také nasdílet jiným osobám, na jiné weby
     nebo si je stáhnout k sobě do počítače. Podrobný návod najdete
-    [zde](/home/jak-muazu-sva-videa-sirit).
+    [zde](./jak-muazu-sva-videa-sirit).
 -   **Živý přenos:** přednášky z učeben v mohou být i živě vysílány,
     takže je konkrétní uživatelé (případně veřejnost) mohou sledovat
     přímo na webu Medialu. Pokud chcete této možnosti využít,
@@ -81,10 +81,10 @@ zveřejňovat a používat ve vlastní výuce nebo třeba k propagačním
 jednom místě tak, abych k nim měl kdykoliv přístup.**
 
 Toto je nejzákladnější způsob využití Medialu. Jednoduše
-[nahrajte](/home/jak-nahrat-do-medialu-soubor-z-pocitace) svá videa do
+[nahrajte](./jak-nahrat-do-medialu-soubor-z-pocitace) svá videa do
 Medialu a zařaďte je do
-[kategorie](/home/jak-je-obsah-v-medialu-organizovan) podle toho, kdo by
-k nim měl mít přístup. Videa pak budete moci zhlédnout přímo v Medialu,
+[kategorie](./jak-je-obsah-v-medialu-organizovan) podle toho, kdo by k
+nim měl mít přístup. Videa pak budete moci zhlédnout přímo v Medialu,
 dále je sdílet nebo si je z Medialu zase stáhnout.
 
 **
@@ -94,7 +94,7 @@ dále je sdílet nebo si je z Medialu zase stáhnout.
 Moodlu.**
 
 Pomocí [tlačítka Medial v HTML
-editoru](/home/jak-vkladat-obsah-prostrednictvim-moodlu) Moodlu můžete
+editoru](./jak-vkladat-obsah-prostrednictvim-moodlu) Moodlu můžete
 nahrát video do Medialu a zároveň jej vložit do svého kurzu, aniž byste
 vůbec opustili pracovní prostředí Moodlu.
 
@@ -104,14 +104,14 @@ Filozofické fakulty.
 snadno zaznamenat své přednášky. Nahrávání spustíte a ukončíte pouhým
 stisknutím tlačítka a hotový záznam se poté objeví ve Vaší osobní
 kategorii v Medialu. Video můžete poté zveřejnit [vybraným skupinám
-uživatelů](/home/kdo-muaze-videt-muaj-obsah) přímo na webu Medialu.
+uživatelů](./kdo-muaze-videt-muaj-obsah) přímo na webu Medialu.
 
 **Chci zaznamenat svou přednášku a zpřístupnit ji v Moodlu pouze svým
 studentům.**
 
 Svá videa nemusíte zveřejňovat. Své osobní a soukromé nahrávky můžete
-[vložit do kurzu v Moodlu](/home/jak-muazu-sva-videa-sirit), kde je
-budou moci zhlédnout pouze studenti, kteří jsou v kurzu zapsaní. Na webu
+[vložit do kurzu v Moodlu](./jak-muazu-sva-videa-sirit), kde je budou
+moci zhlédnout pouze studenti, kteří jsou v kurzu zapsaní. Na webu
 Medialu zůstane Vaše video nepřístupné.
 
 **Chci nahrát výukový materiál s ukázkou správné výslovnosti a
@@ -119,17 +119,17 @@ zprostředkovat jej studentům.**
 
 Medial nejsou jenom videa -- pracovat můžete i se zvukovými nahrávkami,
 které můžete také [pořizovat pomocí vlastního
-mikrofonu](/home/jan-nahrat-video-pomoci-webkamery).
+mikrofonu](./jan-nahrat-video-pomoci-webkamery).
 
 **Chci nahrát průběh konference a zpřístupnit jej široké veřejnosti.
 ** Umístíte-li záznam do [veřejné
-kategorie](/home/kdo-muaze-videt-muaj-obsah), bude přístupný všem
+kategorie](./kdo-muaze-videt-muaj-obsah), bude přístupný všem
 návštěvníkům Medialu, včetně neregistrovaných hostů.
 
 **Chci zaznamenat průběh kulturní akce a zpřístupnit jej pouze jejím
 účastníkům.
 ** Video můžete ponechat ve své osobní kategorii a konkrétním lidem [na
-ně poslat odkaz](/home/jak-muazu-sva-videa-sirit). Pouze lidé s přímým
+ně poslat odkaz](./jak-muazu-sva-videa-sirit). Pouze lidé s přímým
 odkazem se k videu dostanou.
 
 **Chci vytvořit výukový tutoriál se záznamem plochy a umístit jej do
@@ -142,10 +142,10 @@ svého kurzu.
 **Chci zaznamenat interní poradu na svém pracovišti, zpřístupnit ji
 pouze svým kolegům a záznam rozdělit do kapitol podle probíraných bodů.
 ** Umístíte-li nahrávku do [zaměstnanecké
-kategorie](/home/kdo-muaze-videt-muaj-obsah) svého pracoviště, uvidí ji
-v Medialu pouze zaměstnanci tohoto pracoviště. U svých videí také můžete
+kategorie](./kdo-muaze-videt-muaj-obsah) svého pracoviště, uvidí ji v
+Medialu pouze zaměstnanci tohoto pracoviště. U svých videí také můžete
 [nastavit
-kapitoly](/home/jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly),
+kapitoly](./jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly),
 které umožní přeskočit rovnou na konkrétní čas nahrávky.
 
 **Chci zaznamenat vystoupení hostujícího přednášejícího, streamovat

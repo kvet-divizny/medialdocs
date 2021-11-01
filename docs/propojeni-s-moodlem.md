@@ -14,7 +14,7 @@ Jednou z předností Medialu je jeho propojení s prostředím pro
 e-learningové kurzy [Moodle](http://elf.phil.muni.cz){:target="_blank"}. Díky němu můžete
 využít všech výhod mediální knihovny, aniž byste opustili svůj kurz.
 
-<figure markdown>![](home/propojeni-s-moodlem/grafik.png)<figcaption>Popisek</figcaption></figure>
+![](home/propojeni-s-moodlem/grafik.png)
 
 #### Přístup do Medialu
 
@@ -29,15 +29,15 @@ procházet jej a vkládat do Moodlu.
 
 
 
-<figure markdown>![](home/propojeni-s-moodlem/TlaC48DC3ADtko-Medial-v-HTML-editoru.png)<figcaption>Popisek</figcaption></figure>
+![](home/propojeni-s-moodlem/TlaC48DC3ADtko-Medial-v-HTML-editoru.png)
 
 Obr. 1: Tlačítko Medial v HTML editoru
 
 
 V obou případech budete moci buď nahrát do kurzu (a zároveň do Medialu)
-[nový obsah](/home/jak-vkladat-obsah-prostrednictvim-moodlu), nebo do
-kurzu [vložit již existující
-nahrávku](/home/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) z
+[nový obsah](./jak-vkladat-obsah-prostrednictvim-moodlu), nebo do kurzu
+[vložit již existující
+nahrávku](./jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu) z
 Medialu.
 
 #### 
@@ -52,7 +52,7 @@ Moodlu -- i studenti se tedy budou muset napoprvé přihlásit.
 
 
 
-<figure markdown>![](home/propojeni-s-moodlem/Uvodni-prihlaseni-do-medialu.png)<figcaption>Popisek</figcaption></figure>
+![](home/propojeni-s-moodlem/Uvodni-prihlaseni-do-medialu.png)
 
 Obr. 2: Úvodní přihlášení do Medialu
 

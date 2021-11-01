@@ -10,7 +10,7 @@ pracoviště, nebo zcela soukromé.
 
  
 
-<figure markdown>![](home/kdo-muaze-videt-muaj-obsah/categories.png)<figcaption>Popisek</figcaption></figure>
+![](home/kdo-muaze-videt-muaj-obsah/categories.png)
 
      Obr. 1: Seznam kategorií
 
@@ -35,18 +35,17 @@ druhu:
     uživatelům Medialu nepřístupný. I nahrávky z této kategorie však
     můžete sdílet tak, že je vložíte do Moodlu nebo na vlastní webové
     stránky, případně zveřejníte jejich URL. Jak na to se dozvíte v
-    [tomto návodu](/home/jak-muazu-sva-videa-sirit). Do této kategorie
-    budou také odeslána videa pořízená pomocí automatizovaného
-    záznamového zařízení v učebnách a pomoci nástroje [Techsmith
+    [tomto návodu](./jak-muazu-sva-videa-sirit). Do této kategorie budou
+    také odeslána videa pořízená pomocí automatizovaného záznamového
+    zařízení v učebnách a pomoci nástroje [Techsmith
     Relay](https://sites.google.com/a/phil.muni.cz/elearning-relay/){:target="_blank"}.
 
 
 Kategorii můžete svému videu nastavit již při vkládání do Medialu v
 rámci vyplňování podrobností o nahrávce. Celý tento proces je podrobně
-[popsán zde](/home/jak-nahrat-do-medialu-soubor-z-pocitace). Dodatečně
-pak můžete každému videu kategorii změnit na stránce "My Content" --
-jak postupovat se dozvíte v [tomto
-návodu](/home/kde-najdu-vsechna-svoje-videa).
+[popsán zde](./jak-nahrat-do-medialu-soubor-z-pocitace). Dodatečně pak
+můžete každému videu kategorii změnit na stránce "My Content" -- jak
+postupovat se dozvíte v [tomto návodu](./kde-najdu-vsechna-svoje-videa).
 
 Celý systém kategorií je pak podrobněji popsán na [stránce o organizaci
-obsahu knihovny](/home/jak-je-obsah-v-medialu-organizovan).
+obsahu knihovny](./jak-je-obsah-v-medialu-organizovan).

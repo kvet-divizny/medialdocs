@@ -21,16 +21,16 @@ vkládání nahrávky je třeba projít pěti kroky, při nichž budete moci
 nahrávku doplnit informacemi různého druhu. Mezi jednotlivými kroky lze
 přecházet pomocí záložek v horní části nahrávacího rozhraní a všechny
 informace lze po vložení nahrávky [dodatečně
-editovat](/home/jak-muazu-dodatecne-upravit-metadata).
+editovat](./jak-muazu-dodatecne-upravit-metadata).
 
-<figure markdown>![](home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky-GS.png)
 
 Obr. 1: Záložky umožňující přecházet mezi jednotlivými kroky
 
 
 #### Výběr souboru z počítače
 
-<figure markdown>![](home/jak-nahrat-do-medialu-soubor-z-pocitace/02.5-upload_done-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/02.5-upload_done-2.0-GS.png)
 
 Obr. 2: Rozhraní pro výběr a vložení souboru
 
@@ -46,7 +46,7 @@ MPEG, MP3, MP4, M4V, MTS, WAV, WEBM, WMA, WMV a 3GP.
 
 #### Doplňující informace (Details)
 
-<figure markdown>![](home/jak-nahrat-do-medialu-soubor-z-pocitace/03-details-3.0-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/03-details-3.0-GS.png)
 
 Obr. 3: Formulář pro zadání informací o nahrávce
 
@@ -61,7 +61,7 @@ obsahuje jednotlivá pole pro:
     znaků; doporučujeme do popisku uvádět, kdy a při jaké příležitosti
     byla nahrávka pořízena (např. kód a název předmětu, jméno konference
     apod.), v ideálním případě pak využít naši [předpřipravenou
-    šablonu](/home/jak-je-obsah-v-medialu-organizovan#TOC-Popisky).
+    šablonu](./jak-je-obsah-v-medialu-organizovan#TOC-Popisky).
 4.  **E-mailová adresa** -- na zadanou adresu Vám budou chodit zprávy o
     zpracování nahrávky
 5.  **Tagy** -- tagy, podle kterých mohou nahrávku dohledat ostatní
@@ -73,11 +73,11 @@ je nicméně nutné, pokud chcete, aby byla Vaše nahrávka snadno
 rozpoznatelná a dohledatelná. Podrobnější informace o tom, jak fungují
 kategorie a tagy, včetně našeho doporučení, jak je používat, naleznete v
 návodu věnovaném [organizaci
-obsahu](/home/jak-je-obsah-v-medialu-organizovan) knihovny.
+obsahu](./jak-je-obsah-v-medialu-organizovan) knihovny.
 
 #### Náhledový obrázek (Thumbnails)
 
-<figure markdown>![](home/jak-nahrat-do-medialu-soubor-z-pocitace/04-thumbnail-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/04-thumbnail-2.0-GS.png)
 
 Obr. 4: Výběr náhledového obrázku
 
@@ -95,7 +95,7 @@ pixelů.
 
 #### Titulky a přidružené soubory (Assoc Files)
 
-<figure markdown>![](home/jak-nahrat-do-medialu-soubor-z-pocitace/05-asoc_files-3.5-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/05-asoc_files-3.5-GS.png)
 
 Obr 5: Vkládání titulků a přidružených souborů
 
@@ -158,4 +158,4 @@ zpracování budete informováni e-mailem.
 Studenti mohou do Medialu přidávat obsah, ale pouze do své osobní
 kategorie. Jejich nahrávky se tedy nebudou zobrazovat ostatním
 uživatelům Medialu, mohou je nicméně dále [sdílet mimo knihovnu
-médií](/home/jak-muazu-sva-videa-sirit).
+médií](./jak-muazu-sva-videa-sirit).

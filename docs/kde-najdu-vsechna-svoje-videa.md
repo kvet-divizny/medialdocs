@@ -19,14 +19,14 @@ Z knihovny videí se na stránku My Content dostanete kliknutím na
 tlačítko "My Account" (v pravo nahoře) a výběrem možnosti "My
 Content" z rozbalovací nabídky.
 
-<figure markdown>![](home/kde-najdu-vsechna-svoje-videa/Odkaz-na-My-content.png)<figcaption>Popisek</figcaption></figure>
+![](home/kde-najdu-vsechna-svoje-videa/Odkaz-na-My-content.png)
 
 Obr. 1: Odkaz na stánku My Content v knihovně videí
 
 
 #### Hledání a filtrování nahrávek
 
-<figure markdown>![](home/kde-najdu-vsechna-svoje-videa/Filtrovanie.png)<figcaption>Popisek</figcaption></figure>
+![](home/kde-najdu-vsechna-svoje-videa/Filtrovanie.png)
 
 Obr. 3: Formulář pro vyhledávání a filtrování
 
@@ -54,7 +54,7 @@ pouze ty, které odpovídají nastaveným parametrům.
 
 #### Prohlížení a správa obsahu
 
-<figure markdown>![](home/kde-najdu-vsechna-svoje-videa/medial-listing-done.png)<figcaption>Popisek</figcaption></figure>
+![](home/kde-najdu-vsechna-svoje-videa/medial-listing-done.png)
 
         Obr. 4: Seznam nahrávek
 
@@ -103,7 +103,7 @@ Medial Vás ještě požádá o potvrzení, zda skutečně chcete provedené zm�
 aplikovat. Kliknutím na tlačítko "Yes" změny potvrdíte, kliknutím na
 tlačítko "Cancel" zrušíte.
 
-<figure markdown>![](home/kde-najdu-vsechna-svoje-videa/04-confirm-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/kde-najdu-vsechna-svoje-videa/04-confirm-GS.png)
 
 Obr. 5: Dialogové okno pro potvrzení provedených změn
 
@@ -115,4 +115,4 @@ Následně budete opět vyzváni k potvrzení svého rozhodnutí.
 
 Medial umožňuje dodatečně upravovat i další podrobnosti o nahrávce jako
 tagy nebo náhledové obrázky. Jak na to se dozvíte v [tomto
-návodu](/home/jak-muazu-dodatecne-upravit-metadata).
+návodu](./jak-muazu-dodatecne-upravit-metadata).

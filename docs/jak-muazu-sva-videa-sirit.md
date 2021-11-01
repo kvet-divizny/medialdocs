@@ -18,16 +18,16 @@ nahrávky, při jaké příležitosti jste záznam pořídili atd. 
 Nahrávky z Medialu můžete snadno zveřejnit ve svých kurzech v Moodlu.
 Díky propojení obou systémů mohou vkládat obsah do Moodlu jak učitelé,
 tak studenti. Učitelé do Medialu vstupují pomocí [tlačítka v HTML
-editoru](/home/propojeni-s-moodlem#TOC-P-stup-do-Medialu), studenti pak
-při odevzdávání videa coby řešení úkolu. V obou případech se nejprve
+editoru](./propojeni-s-moodlem#TOC-P-stup-do-Medialu), studenti pak při
+odevzdávání videa coby řešení úkolu. V obou případech se nejprve
 zobrazí nabídka tří možností pro nahrání audiovizuálních materiálů do
 Moodlu: první dvě možnosti ("Upload" a "Webcam") umožňují nahrát do
 Medialu nový obsah a jsou popsány v [této části
-dokumentace](/home/jak-vkladat-obsah-prostrednictvim-moodlu). Pokud
-chcete do Moodlu vložit nahrávku, která již je v Medialu umístěná,
+dokumentace](./jak-vkladat-obsah-prostrednictvim-moodlu). Pokud chcete
+do Moodlu vložit nahrávku, která již je v Medialu umístěná,
 použijete tlačítko "Search".
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/A-1.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/A-1.png)
 
 
 
@@ -39,7 +39,7 @@ Medialu přístup. Není tedy třeba nahrávky, které již v Medialu jsou,
 opětovně nahrávat. Video, které chcete vložit, můžete dohledat pomocí
 filtrů a vyhledávání.
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/search_03q.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/search_03q.png)
 
 Obr. 2: Filtrování, hledání správného videa
 
@@ -66,7 +66,7 @@ V rozhraní pro výběr videa lze využít tyto prvky:
     tlačítko "Select". Tlačítkem "Preview" si můžete zobrazit náhled
     videa, tlačítkem "Edit Details" pak u svých videí vstoupíte do
     rozhraní pro [úpravu
-    informací](/home/jak-muazu-dodatecne-upravit-metadata#TOC-Editace-metadat)
+    informací](./jak-muazu-dodatecne-upravit-metadata#TOC-Editace-metadat)
     o nahrávce.
 
 ```
@@ -79,7 +79,7 @@ možnost stahování videa. Pokud si nepřejete, aby studenti Vaše video
 mohli dále šířit (nahrávat na různé servery, YouTube apod.),
 nedoporučujeme tuto možnost zaškrtávat.
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/A-3-druhC3A1-verze.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/A-3-druhC3A1-verze.png)
 
 Obr. 3: Tlačítko umožňující stažení videa studenty
 
@@ -88,7 +88,7 @@ Obr. 3: Tlačítko umožňující stažení videa studenty
 V posledním kroku Vás Medial informuje o tom, že Vaše video je
 připravené.
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/A-4.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/A-4.png)
 
 
 
@@ -102,7 +102,7 @@ Dostanete se na ni po rozkliknutí nahrávky v knihovně videí nebo ze
 stránky **My content**. V druhém případě klikněte u daného videa na
 "Yes" ve sloupci Encoded (Stav zpracování, vizte obr. 5). 
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/encoded.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/encoded.png)
 
 Obr. 5: Kliknutím na "Yes" se dostanete na stránku pro přehrávání
 videa
@@ -113,7 +113,7 @@ Aby Vaše video mohl vidět někdo jiný než vy, musíte nejprve povolit
 veřejný přístup. V horním pravém rohu videa klikněte na ikonku sdílení
 (1.) a následně zvolte "Enable public acces" (2.). 
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/sovi_zpev1.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/sovi_zpev1.png)
 
 Obr. 6: Povolení veřejného přístupu
 
@@ -137,7 +137,7 @@ Poté máte možnost vybrané video sdílet dále různými způsoby:
     zkopírovat a poslat dále např. emailem, vložit na stránky, dokonce i
     do Moodlu. 
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/sovi_zpev2.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/sovi_zpev2.png)
 
 Obr. 7: Sdílení odkazu
 
@@ -147,7 +147,7 @@ Obr. 7: Sdílení odkazu
     Stačí kliknout na "Embed" a kód se automaticky vygeneruje. V
     roletce "Video Size" si můžete vybrat velikost vloženého videa..
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/sovi_zpev3.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/sovi_zpev3.png)
 
 Obr. 8: Cesta k embedovacímu kódu
 
@@ -156,9 +156,9 @@ Obr. 8: Cesta k embedovacímu kódu
     sloupci Filename a zvolit možnost "Uložit soubor" / "Save
     file".
 
-[](/home/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)
+[](./jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)
 
-[](/home/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)<figure markdown>![](home/jak-muazu-sva-videa-sirit/B-5.png)<figcaption>Popisek</figcaption></figure>
+[](./jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)![](home/jak-muazu-sva-videa-sirit/B-5.png)
 
 
 
@@ -187,7 +187,7 @@ videí?**
 Nikoliv, povolením veřejného přístupu pouze zapnete možnost video
 sdílet. Aby se zobrazovalo v knihovně videí, museli byste jej navíc
 přesunout do některé z veřejných
-[kategorií](/home/jak-je-obsah-v-medialu-organizovan#TOC-Kategorie-vide-).
+[kategorií](./jak-je-obsah-v-medialu-organizovan#TOC-Kategorie-vide-).
 Pokud video ponecháte v kategorii Personal, ostatní jej v Medialu
 neuvidí.
 

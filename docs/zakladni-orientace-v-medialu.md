@@ -18,7 +18,7 @@ domovské stránky Medialu. Načte se Vám přihlašovací formulář -- jako
 přihlašovací údaje použijte své UČO (kolonka "Username") a sekundární
 heslo (kolonka "Password"). Přihlášení potvrdíte tlačítkem "Login".
 
-<figure markdown>![](home/zakladni-orientace-v-medialu/login-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/zakladni-orientace-v-medialu/login-2.0-GS.png)
 
 Obr. 1: Přihlašovací dialog
 
@@ -40,7 +40,7 @@ Pracovní prostředí Medialu tvoří dva propojené systémy, mezi nimiž
 můžete při práci libovolně přecházet. V rámci každého z nich je možné
 provádět různé akce, oba jsou také vizuálně odlišeny.
 
-<figure markdown>![](home/zakladni-orientace-v-medialu/diff_layers_torn-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/zakladni-orientace-v-medialu/diff_layers_torn-GS.png)
 
 Obr. 2: Záhlaví knihovny videí a správy videí
 
@@ -62,7 +62,7 @@ do knihovny dostanete přes tlačítko "Home" v navigační liště.
 Po přihlášení do Medialu se ocitnete na domovské stránce knihovny médií.
 Naleznete zde základní prvky pro procházení obsahu knihovny.
 
-<figure markdown>![](home/zakladni-orientace-v-medialu/home-2.5-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/zakladni-orientace-v-medialu/home-2.5-GS.png)
 
 Obr. 3: Domovská stránka knihovny videí
 
@@ -89,14 +89,14 @@ užitečnými odkazy na jiné weby
 
 #### Hledání nahrávek
 
-<figure markdown>![](home/zakladni-orientace-v-medialu/search-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/zakladni-orientace-v-medialu/search-GS.png)
 
 Obr. 4 : Vyhledávací pole s aktivním našeptáváním
 
 Pro vyhledání konkrétní nahrávky použijte vyhledávací pole v navigační
 liště. Zadaný text bude vyhledán v názvech a popiscích nahrávek, v
 klíčových slovech, názvech
-[kapitol](/home/jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly)
+[kapitol](./jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly)
 a také ve jménech autorů. Vyhledávání pracuje s **funkcí našeptávání**
 -- již při zadávání dotazu Vám tedy Medial ukáže návrhy odpovídající
 Vašemu dotazu. Pro vyhledávání pomocí neúplných slov je třeba použít
@@ -105,15 +105,15 @@ zástupný znak * (např. "středově*" dohledá výrazy "středověk",
 
 #### Filtrování obsahu
 
-<figure markdown>![](home/zakladni-orientace-v-medialu/filter-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+![](home/zakladni-orientace-v-medialu/filter-2.0-GS.png)
 
 Obr. 5: Sloupec s použitelnými filtry
 
 
 Filtrování Vám umožní zobrazit v seznamu videí pouze ta, která Vás
 zajímají. Obsah Medialu lze filtrovat podle tří položek: [kategorií a
-podkategorií](/home/jak-je-obsah-v-medialu-organizovan), autorů a
-[tagů](/home/jak-je-obsah-v-medialu-organizovan#TOC-Tagy). Jednotlivé
+podkategorií](./jak-je-obsah-v-medialu-organizovan), autorů a
+[tagů](./jak-je-obsah-v-medialu-organizovan#TOC-Tagy). Jednotlivé
 položky lze vzájemně kombinovat, v rámci každé z nich můžete ovšem
 nastavit jen jediný filtr. Můžete si tedy zobrazit například všechna
 videa nahraná konkrétním uživatelem v rámci určité podkategorie, nelze

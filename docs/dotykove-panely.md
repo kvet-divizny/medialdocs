@@ -35,7 +35,7 @@ Návod platí pro učebny:
 
 Automatizované nahrávání je dostupné ve většině rekonstruovaných učeben
 FF. Některé učebny jsou řešeny nahráváním pomocí [tlačítkových
-panelů](/tlacitkove-panely), jiné pomocí dotykových panelů. Oboje
+panelů](./tlacitkove-panely), jiné pomocí dotykových panelů. Oboje
 zařízení pak uživateli dovoluje jednoduše a pohodlně nahrávat svou
 přednášku, včetně materiálů promítaných na plátně. Je však možné nahrát
 přednášku i bez těchto materiálů. Tento návod se věnuje učebnám s
@@ -60,7 +60,7 @@ dotykovými panely.
 **Dotykový panel** je umístěn na katedře. Pokud je systém projektorů
 vypnutý, uvidíte na něm tuto hlášku:
 
-<figure markdown>![](dotykove-panely/uvodni_obrazovka_0.png)<figcaption>Popisek</figcaption></figure>
+![](dotykove-panely/uvodni_obrazovka_0.png)
 
 Obr. 1: Zapnutí systému
 
@@ -83,7 +83,7 @@ krajní a plocha je pak rozdělena a na každé z nich může být jiný zdroj.
 
 
 
-<figure markdown>![](dotykove-panely/vyber_projekce_0.png)<figcaption>Popisek</figcaption></figure>
+![](dotykove-panely/vyber_projekce_0.png)
 
 Obr. 2: Výběr z jednoduché nebo dvojité projekce
 
@@ -98,7 +98,7 @@ projekce, jednoduchá projekce je pak prosta pravé strany).
 
 
 
-<figure markdown>![](dotykove-panely/dvojita_projekce_0.png)<figcaption>Popisek</figcaption></figure>
+![](dotykove-panely/dvojita_projekce_0.png)
 
 Obr. 3: Dotykový panel a jeho komponenty
 
@@ -121,7 +121,7 @@ Obr. 3: Dotykový panel a jeho komponenty
     systém).
 
 Zde si vybíráte vstup, ze kterého budou do promítací plochy proudit
-informace. Bližší popis [viz níže](/dotykove-panely#TOC-Volba-vstupu).
+informace. Bližší popis [viz níže](./dotykove-panely#TOC-Volba-vstupu).
 
 Zde spustíte nahrávání záznamu.
 
@@ -135,14 +135,14 @@ způsobem:
 1.  Přihlaste se k počítači v učebně. Tlačítko **"Spustit záznam"** se
     aktivuje.
 2.  Zapněte projektor a zvolte zdroj obrazu ([viz
-    níže](/dotykove-panely#TOC-Volba-vstupu)).
+    níže](./dotykove-panely#TOC-Volba-vstupu)).
 3.  Stiskněte "Spustit záznam". Tlačítko se rozsvítí červeně na
     znamení, že probíhá nahrávání.
     **Pozor!** Zpracovány jsou pouze nahrávky, které trvají déle než
     jednu minutu. Kratší záznamy systém automaticky maže.
 4.  Pro ukončení nahrávání stiskněte tlačítko "Ukončit záznam".
 5.  Nahrávka se automaticky zpracuje a odešle do Vaší [osobní
-    kategorie](/home/kdo-muaze-videt-muaj-obsah) ve fakultní knihovně
+    kategorie](./kdo-muaze-videt-muaj-obsah) ve fakultní knihovně
     médií [Medial](http://medial.phil.muni.cz/){:target="_blank"}. Jakmile bude video
     dostupné, obdržíte e-mail s odkazem.
 
@@ -154,12 +154,12 @@ uživateli, který je během záznamu přihlášený na PC.
 
 Videa z učeben v Medialu nemají vyplněné doplňující informace,
 doporučujeme je proto [dodatečně
-editovat](/home/jak-muazu-dodatecne-upravit-metadata), aby je bylo možné
-v knihovně médií rozpoznat a dohledat.
+editovat](./jak-muazu-dodatecne-upravit-metadata), aby je bylo možné v
+knihovně médií rozpoznat a dohledat.
 
 
 
-<figure markdown>![](dotykove-panely/zaznam_0.png)<figcaption>Popisek</figcaption></figure>
+![](dotykove-panely/zaznam_0.png)
 
 Obr. 4: Právě probíhající záznam
 
@@ -167,7 +167,7 @@ Obr. 4: Právě probíhající záznam
 
 **Poznámka.** Aby byl přednášející dobře slyšet, doporučujeme použít
 některý z mikrofonů, které jsou v každé učebně k dispozici. Více o
-mikrofonech se dozvíte v [patřičné sekci dokumentace](/mikrofony).
+mikrofonech se dozvíte v [patřičné sekci dokumentace](./mikrofony).
 
 Jak záznam vypadá? Přednášejícího snímá kamera napevno umístěná v
 učebně. Je-li zapnutý projektor, vloží se obraz promítaný na plátno
@@ -175,7 +175,7 @@ přímo do videa, aby byla zajištěna dobrá čitelnost prezentací a jiných
 výukových materiálů (obr. 2). Nahrávat lze i bez zapnutého projektoru,
 video pak bude obsahovat jen obraz z učebny.
 
-<figure markdown>![](dotykove-panely/vzhled-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+![](dotykove-panely/vzhled-2.0-GS.png)
 
 Obr. 5: Vzhled výsledného videa
 
@@ -198,7 +198,7 @@ Vlastní notebook můžete připojit pomocí rozhraní VGA či HDMI. Potřebné
 konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
-<figure markdown>![](dotykove-panely/konektory-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+![](dotykove-panely/konektory-2.0-GS.png)
 
 Obr. 6: Konektory pro připojení vlastního notebooku
 
@@ -223,7 +223,7 @@ připojení k Apple TV postupujte následujícím způsobem:
 2.  V ovládacím centru svého zařízení Apple stiskněte tlačítko
     "AirPlay".
 
-    <figure markdown>![](dotykove-panely/ovl_centrum-2.0-GS.png)<figcaption>Popisek</figcaption></figure>
+    ![](dotykove-panely/ovl_centrum-2.0-GS.png)
 
     Obr. 7: Tlačítko AirPlay v ovládacím centru
     
@@ -232,7 +232,7 @@ připojení k Apple TV postupujte následujícím způsobem:
     učebny, ve které se nacházejí. Zvolte to, na které chcete obraz
     přenášet.
 
-    <figure markdown>![](dotykove-panely/seznam_zarizeni-GS.png)<figcaption>Popisek</figcaption></figure>
+    ![](dotykove-panely/seznam_zarizeni-GS.png)
 
     Obr. 8: Seznam dostupných Apple TV
     
@@ -240,7 +240,7 @@ připojení k Apple TV postupujte následujícím způsobem:
 4.  Zadejte kód, který se Vám zobrazí na promítací ploše, a potvrďte
     stisknutím "Ok". Obě zařízení se následně spárují.
 
-    <figure markdown>![](dotykove-panely/code-GS.png)<figcaption>Popisek</figcaption></figure>
+    ![](dotykove-panely/code-GS.png)
 
     Obr. 9: Pole pro zadání kódu k Apple TV
 
@@ -261,7 +261,7 @@ zaostření a jas obrazu. Tlačítkem "Zmrazit" lze promítaný obraz
 zafixovat.
 
 
-<figure markdown>![](dotykove-panely/vizualizer_0.png)<figcaption>Popisek</figcaption></figure>
+![](dotykove-panely/vizualizer_0.png)
 
 Obr. 10: Nastavení vizualizéru
 
@@ -276,7 +276,7 @@ projektoru vložený do záznamu a také zda je zaznamenáván zvuk. Úroveň
 snímaného zvuku je indikována vizuálně pomocí svítícího ukazatele pod
 obrazem z učebny.
 
-Pokud náhled není v pořádku, [kontaktuje](/kontakty) techniky CIT.
+Pokud náhled není v pořádku, [kontaktuje](./kontakty) techniky CIT.
 
 Náhled streamu můžete na učitelském PC otevřít kdykoliv i bez toho,
 abyste spouštěli samotný záznam.
@@ -288,7 +288,7 @@ abyste spouštěli samotný záznam.
 Ke zpracování se odesílají pouze záznamy, které trvají déle než minutu.
 Pokud jste tedy záznam vypnuli dříve, nemusíte nic řešit. V opačném
 případě můžete počkat, až se video zpracuje, a poté jej z mediální
-knihovny [odstranit](/home/kde-najdu-vsechna-svoje-videa).
+knihovny [odstranit](./kde-najdu-vsechna-svoje-videa).
 
 
 **Co se stane, když záznam zapomenu ukončit?**

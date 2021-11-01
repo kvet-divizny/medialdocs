@@ -1,5 +1,5 @@
 site_name: Medialdocs (test)
-site_url: https://medial.phil.muni.cz
+
 theme:
   name: material
   language: cs

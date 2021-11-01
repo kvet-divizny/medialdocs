@@ -29,7 +29,7 @@ ale nechám rozhodnutí na tobě.
 
 
 
-<figure markdown>![](home/jak-muazu-sva-videa-sirit/sovi_zpev_url_.png)<figcaption>Popisek</figcaption></figure>
+![](home/jak-muazu-sva-videa-sirit/sovi_zpev_url_.png)
 
 Obr. 8: URL adresa je shodná s tou, kterou kopírujete a šíříte, stejná
 Vám také dojde do e-mailu.

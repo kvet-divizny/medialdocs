@@ -73,8 +73,8 @@ mikrofonu (5). Mikrofon držte tak, abyste nepřekrývali anténu a displej.
 
 
 
-[<figure markdown>![](mikrofony/mikrofon01_spravnaverze.jpg)<figcaption>Popisek</figcaption></figure>
-](/mikrofony/mikrofon01_spravnaverze.jpg?attredirects=0)
+[![](mikrofony/mikrofon01_spravnaverze.jpg)
+](./mikrofony/mikrofon01_spravnaverze.jpg?attredirects=0)
 
 Obr. 1: Handka, zdroj: oficiální manuál firmy
 [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/6403/SKM_300_EN_INT.pdf){:target="_blank"}.
@@ -89,7 +89,7 @@ displej oranžově. Důležité je, aby tlačítko s nápisem MIC svítilo
 červeně -- pokud nesvítí, mikrofon je ztišen (MUTE). Ztišený mikrofon
 nepřenáší žádný signál, tudíž nebude na nahrávce slyšet.
 
-<figure markdown>![](mikrofony/mikrofon02.jpg?height=312&width=400)<figcaption>Popisek</figcaption></figure>{width="400"
+![](mikrofony/mikrofon02.jpg?height=312&width=400){width="400"
 height="312"}
 
 Obr. 2: Zapínání a vypínání mikrofonu, zvětšenina antény. Zdroj:
@@ -113,14 +113,14 @@ mikrofon ztišit v průběhu přednášky.
 Pro vypnutí mikrofonu přidržte dlouze tlačítko ON/OFF na spodní straně
 těla mikrofonu.
 
-<figure markdown>![](mikrofony/mic_hand_2.png)<figcaption>Popisek</figcaption></figure>
+![](mikrofony/mic_hand_2.png)
 Obr. 3: Ovládací prvky mikrofonu v učebnách C, D, G, J, M a N. Zdroj:
 oficiální manuál firmy Sennheiser.
 
 ### Náhlavní a klopový mikrofon
 
 Oba tyto mikrofony, které můžete vidět na obrázku 3, jsou připojeny k
-[přijímači](/mikrofony#TOC-P-ij-ma-ke-klopov-mu-a-n-hlavn-mu-mikrofonu),
+[přijímači](./mikrofony#TOC-P-ij-ma-ke-klopov-mu-a-n-hlavn-mu-mikrofonu),
 který lze umístit za pásek případně do kapsy. Náhlavní mikrofon (1) si
 jednoduše nasadíte na uši tak, aby samotný mikrofon byl umístěn asi 3 cm
 od úst.
@@ -128,7 +128,7 @@ od úst.
 Klopový mikrofon (2) klipsou přichytíte k oblečení (nejlépe k lemu
 košile nebo trička), v ideálním případě by neměl třít o látku. 
 
-<figure markdown>![](mikrofony/mikrofony_.png)<figcaption>Popisek</figcaption></figure>
+![](mikrofony/mikrofony_.png)
 
 Obr. 4: Mikrofony -- náhlavní (1) a klopový (2). Zdroj: oficiální manuál
 firmy
@@ -153,7 +153,7 @@ stav nabití baterie (klasická ikona baterie s ubývajícími články). Pokud
 je baterie slabá, bude blikat červená dioda (6) a je nutné zavolat
 technika, aby Vám dal jiný přijímač.
 
-<figure markdown>![](mikrofony/oprava_3.png)<figcaption>Popisek</figcaption></figure>
+![](mikrofony/oprava_3.png)
 
 Obr. 5: Schéma přijímače. Zdroj: oficiální manuál firmy
 [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/1909/SK100G3_Instructionsforuse.pdf){:target="_blank"}.
@@ -173,7 +173,7 @@ tlačítkem můžete mikrofon ztišit v průběhu přednášky.
 
 Pro vypnutí mikrofonu dlouze přidržte tlačítko ON/OFF (1).
 
-<figure markdown>![](mikrofony/ObrC3A1zek1.png)<figcaption>Popisek</figcaption></figure>
+![](mikrofony/ObrC3A1zek1.png)
 Obr. 6: Ovládací prvky přijímače v budovách C, D, G, J, M a N.
 
 #### Budovy K a L
@@ -191,7 +191,7 @@ boku přijímače (obr. 7, bod 1).
 
 
 
-<figure markdown>![](mikrofony/ObrC3A1zek2.png)<figcaption>Popisek</figcaption></figure>
+![](mikrofony/ObrC3A1zek2.png)
 Obr. 7: Tlačítko pro zapnutí/vypnutí mikrofonů v budovách K a L.
 
 ### Jak mikrofony správně umístit do adaptéru
@@ -205,8 +205,8 @@ nabíječky, aby se dobil a byl připraven pro další použití.
 Červená dioda znamená, že mikrofon se dobíjí, naopak zelená ukazuje, že
 mikrofon je zcela nabitý a jeho baterie vydrží celou přednášku.
 
-[<figure markdown>![](mikrofony/sennheiser-charging.jpg?height=320&width=320)<figcaption>Popisek</figcaption></figure>{width="320"
-height="320"}](/mikrofony/sennheiser-charging.jpg?attredirects=0)
+[![](mikrofony/sennheiser-charging.jpg?height=320&width=320){width="320"
+height="320"}](./mikrofony/sennheiser-charging.jpg?attredirects=0)
 
 Obr. 8: Nabíječka s mikrofony. Zdroj: [dm
 music](http://www.dmmusic.com/sennheiser-l2015-base-charger-unit){:target="_blank"}.
@@ -233,12 +233,12 @@ naleznete na tel. čísle 777 364 127.
 **Co dělat, když mikrofon vydává nepříjemné zvuky?**
 
 Mikrofon může občas "chytat" zpětnou vazbu. Pokud se Vám něco takového
-přihodí, zkuste nejprve na [dotykovém panelu](/dotykove-panely) zeslabit
-zvuk. V případě, že se nic nezmění, můžete vyzkoušet jiný mikrofon. Jsou
-dvě skutečnosti, které mohou tento jev způsobovat: buď jste se s
-mikrofonem příliš přiblížili reproduktorům, nebo je špatně nastavena
-citlivost mikrofonu. Pokud ani po změně pozice a následném zeslabení
-mikrofonu na dotykovém displeji nepříjemný zvuk zpětné vazby
+přihodí, zkuste nejprve na [dotykovém panelu](./dotykove-panely)
+zeslabit zvuk. V případě, že se nic nezmění, můžete vyzkoušet jiný
+mikrofon. Jsou dvě skutečnosti, které mohou tento jev způsobovat: buď
+jste se s mikrofonem příliš přiblížili reproduktorům, nebo je špatně
+nastavena citlivost mikrofonu. Pokud ani po změně pozice a následném
+zeslabení mikrofonu na dotykovém displeji nepříjemný zvuk zpětné vazby
 nepřestane, zavolejte správci AV techniky Petru Čučkovi na tel. 777 364
 127. Dojde Vám pomoci některý z techniků, který pak na mikrofonu
 přenastaví citlivost, která hučení mikrofonu způsobuje.
