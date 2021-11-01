@@ -63,7 +63,7 @@ obsahu](co-je-to-medial/1_zakladni-navigace.png)](./co-je-to-medial/1_zakladni-n
 Prohlížení dalšího obsahu, stejně jako možnost vkládat, spravovat a
 sdílet videa, je umožněno pouze přihlášeným uživatelům. Do Medialu se
 může automaticky
-[přihlásit](./zakladni-orientace-v-medialu#TOC-P-ihl-en-do-Medialu)
+[přihlásit](./zakladni-orientace-v-medialu/#prihlaseni-do-medialu)
 jakýkoli zaměstnanec nebo student Filozofické fakulty. Zaměstnanci a
 studenti dalších fakult a pracovišť MU mohou získat přístup k Medialu po
 domluvě se správci systému.
