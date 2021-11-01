@@ -18,7 +18,7 @@ nahrávky, při jaké příležitosti jste záznam pořídili atd. 
 Nahrávky z Medialu můžete snadno zveřejnit ve svých kurzech v Moodlu.
 Díky propojení obou systémů mohou vkládat obsah do Moodlu jak učitelé,
 tak studenti. Učitelé do Medialu vstupují pomocí [tlačítka v HTML
-editoru](./propojeni-s-moodlem#TOC-P-stup-do-Medialu), studenti pak při
+editoru](/propojeni-s-moodlem), studenti pak při
 odevzdávání videa coby řešení úkolu. V obou případech se nejprve
 zobrazí nabídka tří možností pro nahrání audiovizuálních materiálů do
 Moodlu: první dvě možnosti ("Upload" a "Webcam") umožňují nahrát do
