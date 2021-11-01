@@ -4,7 +4,7 @@ Návody pro tvůrce kurzů: Medial
 
 Vítejte v nápovědě pro Medial, knihovnu médií provozovanou a spravovanou
 Filozofickou fakultou MU. Naleznete jej na adrese
-**[medial.phil.muni.cz](http://medial.phil.muni.cz/){:target="_blank"}**. Na těchto
+[**medial.phil.muni.cz**](http://medial.phil.muni.cz/){:target="_blank"}. Na těchto
 stránkách se dozvíte, co přesně Medial je, co umožňuje a jak s ním
 pracovat.
 
@@ -27,7 +27,7 @@ nově vybavených učebnách komplexu CARLA.
 -   [**Základní orientace.**](./zakladni-orientace-v-medialu) Návod pro
     přihlášení do Medialu, základní orientaci v něm a možnosti
     vyhledávání konkrétních nahrávek.
--   **[Organizace obsahu.](./jak-je-obsah-v-medialu-organizovan) **Návod
+-   [**Organizace obsahu.**](./jak-je-obsah-v-medialu-organizovan) Návod
     popisuje systém kategorií a tagů sloužící k organizaci obsahu
     Medialu.
 -   **[Propojení s Moodlem.](./propojeni-s-moodlem) **Základní popis
@@ -42,8 +42,8 @@ navíc propojený s nahrávací technikou v nově vybavených budovách fakulty
 (Carla): záznamy, které zde pořídíte, budou automaticky odeslány a
 uloženy do Medialu.
 
--   **[Jak nahrát soubor z
-    počítače.](./jak-nahrat-do-medialu-soubor-z-pocitace) **Návod pro
+-   [**Jak nahrát soubor z
+    počítače.**](./jak-nahrat-do-medialu-soubor-z-pocitace) Návod pro
     vložení souboru z počítače a vyplnění doplňujících informací o
     nahrávce.
 -   [Jak pořídit nahrávku pomocí
