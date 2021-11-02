@@ -16,9 +16,9 @@ obsah](/medialdocs/kde-najdu-vsechna-svoje-videa).
 
 
 
-2.  [**2** Kategorie (kde bude video
+2.  [Kategorie (kde bude video
     uloženo)](#TOC-Kategorie-kde-bude-video-ulo-eno-)
-3.  [**3** Tagy (jak bude video
+3.  [Tagy (jak bude video
     označeno)](#TOC-Tagy-jak-bude-video-ozna-eno-)
 
 
