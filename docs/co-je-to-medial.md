@@ -6,8 +6,6 @@ Co je to Medial
 
 
 
-4.  [**4** Kdo zajišťuje podporu
-    Medialu?](#TOC-Kdo-zaji-uje-podporu-Medialu-)
 
 #### Co je to Medial?
 
@@ -56,8 +54,8 @@ pomocí kategorií (rozbalíte šipkou uprostřed), nebo pomocí vyhledávacího
 pole (vpravo nahoře). 
 
 [![Obr. 1: Navigační prvky pro procházení
-obsahu](co-je-to-medial/1_zakladni-navigace.png)](/medialdocs/co-je-to-medial/1_zakladni-navigace.png?attredirects=0)Obr.
-1: Navigační prvky pro procházení obsahu
+obsahu](co-je-to-medial/1_zakladni-navigace.png)](/medialdocs/co-je-to-medial/1_zakladni-navigace.png?attredirects=0)
+Obr. 1: Navigační prvky pro procházení obsahu
 
 
 Prohlížení dalšího obsahu, stejně jako možnost vkládat, spravovat a
