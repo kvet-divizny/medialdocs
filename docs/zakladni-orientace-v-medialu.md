@@ -3,14 +3,6 @@ Základní orientace
 
 
 
-
-2.  [**2** Knihovna médií a Správa
-    médií](#TOC-Knihovna-m-di-a-Spr-va-m-di-)
-
-
-
-
-
 #### Přihlášení do Medialu
 
 Pro přihlášení klikněte na tlačítko "Sign in" v pravém horním rohu
