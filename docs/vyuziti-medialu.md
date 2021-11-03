@@ -7,7 +7,7 @@ Využití Medialu
 
 
 
-#### 
+#### Stručný přehled
 
 ![](home/vyuziti-medialu/760blz_4.0.png)
 
@@ -147,7 +147,7 @@ pouze svým kolegům a záznam rozdělit do kapitol podle probíraných bodů.
 kategorie](/medialdocs/kdo-muaze-videt-muaj-obsah) svého pracoviště,
 uvidí ji v Medialu pouze zaměstnanci tohoto pracoviště. U svých videí
 také můžete [nastavit
-kapitoly](/medialdocs/jak-muazu-dodatecne-upravit-metadata#TOC-Jak-u-nahr-vek-nastavit-kapitoly),
+kapitoly](/medialdocs/jak-muazu-dodatecne-upravit-metadata/#jak-u-nahravek-nastavit-kapitoly),
 které umožní přeskočit rovnou na konkrétní čas nahrávky.
 
 **Chci zaznamenat vystoupení hostujícího přednášejícího, streamovat
@@ -161,6 +161,6 @@ zpracování záznamu se nahrávka objeví ve Vaší kategorii v Medialu.
 
 
 
-medial-rozcestnik
+
 
 
