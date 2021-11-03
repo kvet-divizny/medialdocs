@@ -21,7 +21,7 @@ procházet jej a vkládat do Moodlu.
 
 
 ![](home/propojeni-s-moodlem/TlaC48DC3ADtko-Medial-v-HTML-editoru.png)
-Obr. 1: Tlačítko Medial v HTML editoru
+*Obr. 1: Tlačítko Medial v HTML editoru*
 
 
 V obou případech budete moci buď nahrát do kurzu (a zároveň do Medialu)
@@ -41,7 +41,7 @@ Moodlu -- i studenti se tedy budou muset napoprvé přihlásit.
 
 
 ![](home/propojeni-s-moodlem/Uvodni-prihlaseni-do-medialu.png)
-Obr. 2: Úvodní přihlášení do Medialu
+*Obr. 2: Úvodní přihlášení do Medialu*
 
 
 Ze svého kurzu pak budete mít přístupný stejný obsah jako z webu
