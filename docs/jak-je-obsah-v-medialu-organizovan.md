@@ -4,26 +4,11 @@ Organizace obsahu
 Své nahrávky v Medialu můžete podrobněji třídit pomocí systému kategorií
 a tagů. Jejich používání umožňuje obsah v knihovně efektivněji
 organizovat a napomáhá uživatelům snáze dohledat konkrétní
-nahrávky. Kategorie a tagy lze nastavit při [vkládání videa do
-knihovny](/medialdocs/jak-nahrat-do-medialu-soubor-z-pocitace). Změnit
-je můžete pomocí [dodatečných
-úprav](/medialdocs/jak-muazu-dodatecne-upravit-metadata), přičemž
-kategorie lze rychle měnit také na stránce [Můj
-obsah](/medialdocs/kde-najdu-vsechna-svoje-videa).
+nahrávky. Kategorie a tagy lze nastavit při [vkládání videa do knihovny](/medialdocs/jak-nahrat-do-medialu-soubor-z-pocitace). Změnit je můžete pomocí [dodatečných úprav](/medialdocs/jak-muazu-dodatecne-upravit-metadata), přičemž
+kategorie lze rychle měnit také na stránce [Můj obsah](/medialdocs/kde-najdu-vsechna-svoje-videa).
 
 
-
-
-
-
-2.  [Kategorie (kde bude video
-    uloženo)](#TOC-Kategorie-kde-bude-video-ulo-eno-)
-3.  [Tagy (jak bude video
-    označeno)](#TOC-Tagy-jak-bude-video-ozna-eno-)
-
-
-
-#### Kategorie videí
+## Kategorie videí
 
 **Kategorie videí** je možné si představit jako adresáře, ve kterých
 jsou videa uložena -- u každé kategorie je zároveň jasně určeno, kteří
@@ -37,17 +22,14 @@ Každý přihlášený uživatel má v systému připravenou osobní kategorii
 uživatelům. Videa v této kategorii slouží primárně pro osobní použití
 daného uživatele a ostatním uživatelům Medialu se bez dalšího nastavení
 nezobrazují. V případě potřeby je ale možné konkrétní video z osobní
-kategorie sdílet s ostatními, např. [vložením videa do e-kurzu v
-Moodlu](/medialdocs/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu)
-nebo [posláním neveřejného
-odkazu](/medialdocs/jak-muazu-sva-videa-sirit#TOC-Dal-mo-nosti-sd-len-) do
-mailu (podrobný návod [zde](/medialdocs/jak-muazu-sva-videa-sirit)), pro
-tento případ slouží kategorie **Personal (public)**.
+kategorie sdílet s ostatními, např. [vložením videa do e-kurzu v Moodlu](/medialdocs/jak-muazu-sva-videa-sirit#TOC-Sd-len-obsahu-v-Moodlu)
+nebo [posláním neveřejného odkazu](/medialdocs/jak-muazu-sva-videa-sirit#dalsi-moznosti-sdileni) do
+mailu (podrobný návod [zde](/medialdocs/jak-muazu-sva-videa-sirit)), pro tento případ slouží kategorie **Personal (public)**.
 
 Do kategorie Personal (private) budou také odeslána videa pořízená
 pomocí automatizovaného záznamového zařízení v nově rekonstruovaných
 učebnách a pomoci nástroje [Techsmith
-Relay](https://sites.google.com/a/phil.muni.cz/elearning-relay/){:target="_blank"}.
+Relay](https://relaydocs.phil.muni.cz){:target="_blank"}.
 
 Kromě osobních kategorií jednotlivých uživatelů jsou v Medialu k
 dispozici kategorie pro potřeby jednotlivých **pracovišť FF MU**, díky
@@ -62,7 +44,7 @@ v závislosti na typu pracoviště (akademické/neakademické).
 kterých máte právo přidávat obsah -- kromě kategorie Personal to obvykle
 budou kategorie Vašeho pracoviště (zaměstnanecké/veřejné).
 
-#### Kategorie (kde bude video uloženo)
+## Kategorie (kde bude video uloženo)
 
 Každé pracoviště, které Medial využívá, má v knihovně dvě či více
 kategorií s rozličnými přístupovými právy (pro přístup a správu videí).
