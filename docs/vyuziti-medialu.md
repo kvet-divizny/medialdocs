@@ -157,7 +157,6 @@ můžete povolit, aby nahrávanou přednášku mohli uživatelé Medialu
 sledovat v přímém přenosu -- třeba i ze svého domova. Po ukončení a
 zpracování záznamu se nahrávka objeví ve Vaší kategorii v Medialu.
 
-#### Rozcestník rychlé nápovědy
 
 
 
