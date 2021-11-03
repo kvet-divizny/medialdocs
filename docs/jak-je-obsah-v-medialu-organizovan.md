@@ -28,8 +28,7 @@ mailu (podrobný návod [zde](/medialdocs/jak-muazu-sva-videa-sirit)), pro tento
 
 Do kategorie Personal (private) budou také odeslána videa pořízená
 pomocí automatizovaného záznamového zařízení v nově rekonstruovaných
-učebnách a pomoci nástroje [Techsmith
-Relay](https://relaydocs.phil.muni.cz){:target="_blank"}.
+učebnách a pomoci nástroje [Techsmith Relay](https://relaydocs.phil.muni.cz){:target="_blank"}.
 
 Kromě osobních kategorií jednotlivých uživatelů jsou v Medialu k
 dispozici kategorie pro potřeby jednotlivých **pracovišť FF MU**, díky
@@ -53,12 +52,7 @@ Každá z těchto hlavních kategorií obsahuje několik podkategorií, které
 se zobrazí po rozkliknutí názvu kategorie v levém sloupci v knihovně
 videí. Podkategorie přitom přejímají způsob zápisu od hlavní kategorie.
 
--   **x Filozofická fakulta** -- kategorie pro veřejná videa určená k
-    propagaci celé FF MU, videa spadající do celofakultní agendy
-    (nikoliv agend jednotlivých pracovišť), včetně kategorií vytvořených
-    podle potřeb děkanátu FF MU (jednotlivé kategorie mohou být dostupné
-    veřejnosti, pouze uživatelům FF MU, pouze zaměstnancům nebo pouze
-    studentům, a to podle účelu vložených videí)
+-   **x Filozofická fakulta** -- kategorie pro veřejná videa určená k propagaci celé FF MU, videa spadající do celofakultní agendy (nikoliv agend jednotlivých pracovišť), včetně kategorií vytvořených podle potřeb děkanátu FF MU (jednotlivé kategorie mohou být dostupné veřejnosti, pouze uživatelům FF MU, pouze zaměstnancům nebo pouze studentům, a to podle účelu vložených videí)
 -   **xx Ústavy a katedry** -- kategorie pro veřejná videa akademických
     pracovišť, tj. ústavů a kateder, obsahuje podkategorie pro každé
     akademické pracoviště FF MU (např. *xx Ústav anglistiky a
@@ -101,14 +95,11 @@ seznamu kategorií tedy neuvidíte kategorie bez Vámi přístupného obsahu
 **Do jaké kategorie tedy své video umístit?** V závislosti na jeho
 určení máte obvykle tři možnosti:
 
-1.  pokud má být video volně přístupné všem návštěvníkům Medialu, zvolte
-    veřejnou kategorii svého pracoviště
-2.  pokud jde o video určené pro vnitřní potřeby Vašeho pracoviště,
-    umístěte jej do zaměstnanecké kategorie
-3.  pokud nechcete, aby bylo video pro ostatní uživatele Medialu
-    přístupné, zvolte kategorii Personal
+1.  pokud má být video volně přístupné všem návštěvníkům Medialu, zvolte veřejnou kategorii svého pracoviště
+2.  pokud jde o video určené pro vnitřní potřeby Vašeho pracoviště, umístěte jej do zaměstnanecké kategorie
+3.  pokud nechcete, aby bylo video pro ostatní uživatele Medialu přístupné, zvolte kategorii Personal
 
-#### Tagy (jak bude video označeno)
+## Tagy (jak bude video označeno)
 
 Zatímco kategorie určuje pracoviště, v rámci jehož agendy je nahrávka
 využívána, tagy nesou další informace o tematickém zaměření videa. 
@@ -132,7 +123,7 @@ nelze při [filtrování
 obsahu](/medialdocs/zakladni-orientace-v-medialu#TOC-Filtrov-n-obsahu)
 kombinovat.
 
-#### Popisky
+## Popisky
 
 Další podrobnosti o nahrávce, například akci nebo kód předmětu, k němuž
 se vztahuje, nebo datum, kdy byla pořízena, doporučujeme uvádět do
@@ -143,25 +134,19 @@ doporučujeme užívat následující šablonu:
 
 
 
-**Název akce:** název akce v původním jazyce
-**Přednášející / Autor:** jméno přednášejícího, tvůrce materiálu či
-držitele autorských práv
-**Název předmětu / konference / cyklu:** název předmětu včetně kódu z
-IS, název konference, cyklu workshopů apod.
-**Typ akce:** přednáška / konference / workshop / studijní materiál /
-kulturní akce / rozhovor / reportáž / propagační video
-**Datum pořízení záznamu:** semestr a rok
+> **Název akce:** název akce v původním jazyce  
+> **Přednášející / Autor:** jméno přednášejícího, tvůrce materiálu či držitele autorských práv  
+> **Název předmětu / konference / cyklu:** název předmětu včetně kódu z IS, název konference, cyklu workshopů apod.  
+> **Typ akce:** přednáška / konference / workshop / studijní materiál / kulturní akce / rozhovor / reportáž / propagační video  
+> **Datum pořízení záznamu:** semestr a rok
+>  
+> **Event title:** název akce v původním jazyce  
+> **Presenter / Author:** jméno přednášejícího, tvůrce materiálu či držitele autorských práv  
+> **Course / Conference / Cycle:** název předmětu včetně kódu z IS, název konference, cyklu workshopů apod.  
+> **Event type:** lecture / conference / workshop / study material / cultural event / interview / reportage / promo video  
+> **Date:** semestr a rok (např. Autumn 2019/Spring 2020)
 
-**Event title:** název akce v původním jazyce
-**Presenter / Author:** jméno přednášejícího, tvůrce materiálu či
-držitele autorských práv
-**Course / Conference / Cycle:** název předmětu včetně kódu z IS, název
-konference, cyklu workshopů apod.
-**Event type:** lecture / conference / workshop / study material /
-cultural event / interview / reportage / promo video
-**Date:** semestr a rok (např. Autumn 2019/Spring 2020)
-
-#### Časté dotazy (FAQ)
+## Časté dotazy (FAQ)
 
 **Proč v knihovně videí nevidím všechny kategorie?**
 
