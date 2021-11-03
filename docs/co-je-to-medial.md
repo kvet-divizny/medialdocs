@@ -7,7 +7,7 @@ Co je to Medial
 
 
 
-#### Co je to Medial?
+### Co je to Medial?
 
 Medial je oficiální knihovna médií FF MU, která sdružuje různorodé
 video- a audionahrávky vznikající na Filozofické fakultě. Mohou to být
