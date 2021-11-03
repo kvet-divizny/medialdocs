@@ -74,11 +74,11 @@ systému, nebo v případě zájmu o technická a metodická školení ohledně
 používání videí ve výuce obecně, nás neváhejte
 [kontaktovat](https://it.muni.cz/phil/ke/nase-sluzby#main){:target="_blank"}.
 
-Kancelář e-learningu
-Centrum informačních technologií
+Kancelář e-learningu  
+Centrum informačních technologií  
 Filozofická fakulta MU
 
 
-e-mail: <elf@phil.muni.cz>
-t: 549491592 | m: 775444529
+e-mail: <elf@phil.muni.cz>  
+t: 549491592 | m: 775444529  
 web: [e-learning.phil.muni.cz](http://e-learning.phil.muni.cz/){:target="_blank"}
