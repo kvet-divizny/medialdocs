@@ -1,1 +1,4 @@
-img + em {text-align: center;}
+img + em {
+    text-align: center;
+    color: red;
+        }
