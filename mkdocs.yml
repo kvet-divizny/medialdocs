@@ -18,6 +18,10 @@ markdown_extensions:
   - md_in_html
   - smarty
 
+# Customization
+extra_css:
+  - stylesheets/extra.css
+
 # Navigation
 nav:
     - Domů: index.md
