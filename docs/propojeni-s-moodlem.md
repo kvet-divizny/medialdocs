@@ -21,7 +21,7 @@ procházet jej a vkládat do Moodlu.
 
 
 ![](home/propojeni-s-moodlem/TlaC48DC3ADtko-Medial-v-HTML-editoru.png)
-*Obr. 1: Tlačítko Medial v HTML editoru*
+<figcaption>Obr. 1: Tlačítko Medial v HTML editoru</figcaption>
 
 
 V obou případech budete moci buď nahrát do kurzu (a zároveň do Medialu)
