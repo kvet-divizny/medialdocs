@@ -168,7 +168,7 @@ nabíječky, aby se dobil a byl připraven pro další použití.
 Červená dioda znamená, že mikrofon se dobíjí, naopak zelená ukazuje, že
 mikrofon je zcela nabitý a jeho baterie vydrží celou přednášku.
 
-[![](mikrofony/sennheiser-charging.jpg?height=320&width=320)
+![](mikrofony/sennheiser-charging.jpg?height=320&width=320)
 Obr. 8: Nabíječka s mikrofony. Zdroj: [dm
 music](http://www.dmmusic.com/sennheiser-l2015-base-charger-unit){:target="_blank"}.
 
