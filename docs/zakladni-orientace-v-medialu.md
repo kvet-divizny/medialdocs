@@ -63,7 +63,8 @@ Obr. 3: Domovská stránka knihovny videí
     -   **Upload**: otevře rozhraní pro přidávání obsahu
     -   **Search**: otevře pole pro vyhledávání
     -   **Help**: obsahuje základní nápovědu pro Medial
-    -   **My account**: zobrazí nabídku ke správě uživatelského obsahu 
+    -   **My account**: zobrazí nabídku ke správě uživatelského obsahu  
+
 
 2. **Kategorie** (Categories): nejsou primárně zobrazeny a je třeba
 rozkliknout šipku
