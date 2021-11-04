@@ -4,16 +4,7 @@ Nahrání souboru z počítače
 
 
 
-2.  [**2** Doplňující informace
-    (Details)](#TOC-Dopl-uj-c-informace-Details-)
-3.  [**3** Náhledový obrázek
-    (Thumbnails)](#TOC-N-hledov-obr-zek-Thumbnails-)
-4.  [**4** Titulky a přidružené soubory (Assoc
-    Files)](#TOC-Titulky-a-p-idru-en-soubory-Assoc-Files-)
 
-
-
-####  
 
 Do základního rozhraní pro vložení nahrávky se dostanete z úvodní
 obrazovky knihovny pomocí volby "Upload" v navigační liště. Při
@@ -24,14 +15,12 @@ informace lze po vložení nahrávky [dodatečně
 editovat](/medialdocs/jak-muazu-dodatecne-upravit-metadata).
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky-GS.png)
-
 Obr. 1: Záložky umožňující přecházet mezi jednotlivými kroky
 
 
-#### Výběr souboru z počítače
+## Výběr souboru z počítače
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/02.5-upload_done-2.0-GS.png)
-
 Obr. 2: Rozhraní pro výběr a vložení souboru
 
 
@@ -44,10 +33,9 @@ manažer, ve kterém najdete a vyberete soubor, který chcete vložit.
 nahrát, je 10 GB. Podporovány jsou formáty AVI, FLV, MKV, MOV, MPG,
 MPEG, MP3, MP4, M4V, MTS, WAV, WEBM, WMA, WMV a 3GP.
 
-#### Doplňující informace (Details)
+## Doplňující informace (Details)
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/03-details-3.0-GS.png)
-
 Obr. 3: Formulář pro zadání informací o nahrávce
 
 
@@ -61,7 +49,7 @@ obsahuje jednotlivá pole pro:
     znaků; doporučujeme do popisku uvádět, kdy a při jaké příležitosti
     byla nahrávka pořízena (např. kód a název předmětu, jméno konference
     apod.), v ideálním případě pak využít naši [předpřipravenou
-    šablonu](/medialdocs/jak-je-obsah-v-medialu-organizovan#TOC-Popisky).
+    šablonu](/medialdocs/jak-je-obsah-v-medialu-organizovan/#popisky).
 4.  **E-mailová adresa** -- na zadanou adresu Vám budou chodit zprávy o
     zpracování nahrávky
 5.  **Tagy** -- tagy, podle kterých mohou nahrávku dohledat ostatní
@@ -75,10 +63,9 @@ kategorie a tagy, včetně našeho doporučení, jak je používat, naleznete v
 návodu věnovaném [organizaci
 obsahu](/medialdocs/jak-je-obsah-v-medialu-organizovan) knihovny.
 
-#### Náhledový obrázek (Thumbnails)
+## Náhledový obrázek (Thumbnails)
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/04-thumbnail-2.0-GS.png)
-
 Obr. 4: Výběr náhledového obrázku
 
 
@@ -93,10 +80,9 @@ obrázek ze svého počítače.
 Doporučovaná velikost pro správné zobrazení náhledu je 640 na 385
 pixelů.
 
-#### Titulky a přidružené soubory (Assoc Files)
+## Titulky a přidružené soubory (Assoc Files)
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/05-asoc_files-3.5-GS.png)
-
 Obr 5: Vkládání titulků a přidružených souborů
 
 
@@ -138,7 +124,7 @@ files".
 **Poznámka:** Přidružit lze soubory ve formátu DOC, DOCX, GIF, HTM, JPG,
 MP3, PDF, PPT, PPTX, SWF, TXT, XLS, XLSX a ZIP.
 
-#### Potvrzení (Confirm)
+## Potvrzení (Confirm)
 
 Poslední krok je přehledným shrnutím vlastností nahrávky. Pokud chcete
 nějaké informace doplnit či upravit, můžete se vrátit k předchozím
@@ -151,7 +137,7 @@ Každý vložený soubor prochází zpracováním, které trvá různou dobu v
 závislosti na velikosti souboru a vytížení systému. O dokončení
 zpracování budete informováni e-mailem.
 
-#### Časté dotazy (FAQ)
+## Časté dotazy (FAQ)
 
 **Mohou do Medialu nahrávat obsah i studenti? Kdo jej uvidí?**
 
