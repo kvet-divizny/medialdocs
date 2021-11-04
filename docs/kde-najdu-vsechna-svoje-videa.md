@@ -20,7 +20,7 @@ Obr. 1: Odkaz na stánku My Content v knihovně videí
 ## Hledání a filtrování nahrávek
 
 ![](home/kde-najdu-vsechna-svoje-videa/Filtrovanie.png)  
-Obr. 3: Formulář pro vyhledávání a filtrování
+Obr. 2: Formulář pro vyhledávání a filtrování
 
 
 Sekce **Search** (Hledání) v horní části stránky Vám umožní prohledávat
@@ -47,7 +47,7 @@ pouze ty, které odpovídají nastaveným parametrům.
 ## Prohlížení a správa obsahu
 
 ![](home/kde-najdu-vsechna-svoje-videa/medial-listing-done.png)  
-Obr. 4: Seznam nahrávek
+Obr. 3: Seznam nahrávek
 
 
 
@@ -95,7 +95,7 @@ aplikovat. Kliknutím na tlačítko "Yes" změny potvrdíte, kliknutím na
 tlačítko "Cancel" zrušíte.
 
 ![](home/kde-najdu-vsechna-svoje-videa/04-confirm-GS.png)  
-Obr. 5: Dialogové okno pro potvrzení provedených změn
+Obr. 4: Dialogové okno pro potvrzení provedených změn
 
 
 V neposlední řadě je na stránce My Content možné nahrávky také
