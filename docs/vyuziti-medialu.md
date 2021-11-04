@@ -7,7 +7,7 @@ Využití Medialu
 
 
 
-#### Stručný přehled
+## Stručný přehled
 
 ![](home/vyuziti-medialu/760blz_4.0.png)
 Obr. 1: Znázornění využití Medialu.
@@ -66,7 +66,7 @@ Jak můžete obsah Medialu zveřejnit?
     vám celý postup a budeme k dispozici při spuštění přenosu přímo v
     učebně.
 
-#### Scénáře užití
+## Scénáře užití
 
 Nenapadá Vás, jak byste mohli Medial (a video nahrávky obecně) využít?
 Pro inspiraci nabízíme alespoň několik obvyklých scénářů užití. Seznam
