@@ -100,7 +100,7 @@ přehrávání videa:
 4.  Nyní nahrávku zastavte v čase, kdy by měla kapitola končit, a
     stiskněte tlačítko "End chapter" případně "End/start chapter"
     pokud chcete navázat další kapitolou.
-5.  Tlačítkem "Cancel" ukončíte editaci upravované kapitoly.
+5.  Tlačítkem "Cancel" ukončíte editaci upravované kapitoly.  
     ![](home/jak-muazu-dodatecne-upravit-metadata/03-set_time-2.5-GS.png)  
     Obr. 4: Nastavení časových hranic kapitoly
 6.  Pokud chcete kapitoly přenastavit nebo odstranit klikněte na
