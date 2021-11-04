@@ -14,13 +14,13 @@ přecházet pomocí záložek v horní části nahrávacího rozhraní a všechn
 informace lze po vložení nahrávky [dodatečně
 editovat](/medialdocs/jak-muazu-dodatecne-upravit-metadata).
 
-![](home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky-GS.png)
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky-GS.png)  
 Obr. 1: Záložky umožňující přecházet mezi jednotlivými kroky
 
 
 ## Výběr souboru z počítače
 
-![](home/jak-nahrat-do-medialu-soubor-z-pocitace/02.5-upload_done-2.0-GS.png)
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/02.5-upload_done-2.0-GS.png)  
 Obr. 2: Rozhraní pro výběr a vložení souboru
 
 
@@ -35,7 +35,7 @@ MPEG, MP3, MP4, M4V, MTS, WAV, WEBM, WMA, WMV a 3GP.
 
 ## Doplňující informace (Details)
 
-![](home/jak-nahrat-do-medialu-soubor-z-pocitace/03-details-3.0-GS.png)
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/03-details-3.0-GS.png)  
 Obr. 3: Formulář pro zadání informací o nahrávce
 
 
@@ -65,7 +65,7 @@ obsahu](/medialdocs/jak-je-obsah-v-medialu-organizovan) knihovny.
 
 ## Náhledový obrázek (Thumbnails)
 
-![](home/jak-nahrat-do-medialu-soubor-z-pocitace/04-thumbnail-2.0-GS.png)
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/04-thumbnail-2.0-GS.png)  
 Obr. 4: Výběr náhledového obrázku
 
 
@@ -82,7 +82,7 @@ pixelů.
 
 ## Titulky a přidružené soubory (Assoc Files)
 
-![](home/jak-nahrat-do-medialu-soubor-z-pocitace/05-asoc_files-3.5-GS.png)
+![](home/jak-nahrat-do-medialu-soubor-z-pocitace/05-asoc_files-3.5-GS.png)  
 Obr 5: Vkládání titulků a přidružených souborů
 
 
