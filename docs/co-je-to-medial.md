@@ -7,7 +7,7 @@ Co je to Medial
 
 
 
-#### Co je to Medial?
+## Co je to Medial?
 
 Medial je oficiální knihovna médií FF MU, která sdružuje různorodé
 video- a audionahrávky vznikající na Filozofické fakultě. Mohou to být
@@ -24,7 +24,7 @@ Základní funkce Medialu jsou stručně shrnuty v následujícím videu (EN):
 [![What is MEDIAL](https://res.cloudinary.com/marcomontalbano/image/upload/v1635930228/video_to_markdown/images/youtube--akxT2d5QmH0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=akxT2d5QmH0 "What is MEDIAL")
 
 
-#### K čemu lze Medial využít?
+## K čemu lze Medial využít?
 
 Medial slouží pro uchování, správu a sdílení video a audio souborů.
 Videa lze do Medialu nahrát přímo přes [webové
@@ -46,7 +46,7 @@ Medialu/Moodlu), nebo zcela skrytá pouze pro osobní potřeby. Více o
 zveřejnění a sdílení videí v Medialu
 [zde](/medialdocs/jak-muazu-sva-videa-sirit).
 
-#### Kdo může Medial používat?
+## Kdo může Medial používat?
 
 V rámci přístupu hosta (tj. bez přihlášení) může Medial používat
 kdokoli. V tomto režimu lze však pouze prohlížet obsah, který autoři
@@ -67,7 +67,7 @@ jakýkoli zaměstnanec nebo student Filozofické fakulty. Zaměstnanci a
 studenti dalších fakult a pracovišť MU mohou získat přístup k Medialu po
 domluvě se správci systému.
 
-#### Kdo zajišťuje podporu Medialu?
+## Kdo zajišťuje podporu Medialu?
 
 Správu systému a uživatelskou podporu Medialu zajišťuje Kancelář
 e-learningu FF MU. V případě dotazů ohledně nastavení a používání
