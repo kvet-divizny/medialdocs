@@ -105,7 +105,7 @@ způsobem:
 
 Jak nastavit oprávnění ke zhlédnutí videa v Medialu či jak lze videa z
 Medialu dále šířit se dozvíte v [uživatelské
-dokumentaci](https://sites.google.com/a/phil.muni.cz/elearning-medial/){:target="_blank"}.
+dokumentaci](/medialdocs/jak-muazu-sva-videa-sirit){:target="_blank"}.
 Mějte na paměti, že video se odešle do osobní složky v Medialu tomu
 uživateli, který je během záznamu přihlášený na PC.
 
@@ -117,7 +117,6 @@ možné v knihovně médií rozpoznat a dohledat.
 
 
 ![](dotykove-panely/zaznam_0.png)
-
 Obr. 4: Právě probíhající záznam
 
 
@@ -134,30 +133,28 @@ výukových materiálů (obr. 2). Nahrávat lze i bez zapnutého projektoru,
 video pak bude obsahovat jen obraz z učebny.
 
 ![](dotykove-panely/vzhled-2.0-GS.png)
-
 Obr. 5: Vzhled výsledného videa
 
 
-### Volba vstupu
+## Volba vstupu
 
 Můžete si vybrat, z jakého zdroje budete promítat na plátno. Na
 dotykovém panelu máte několik možností: PC, VGA, HDMI, Apple TV a
 vizualizér. Můžete si tak vybrat podle toho, co Vám nejvíce vyhovuje a
 co nejvíce podporuje Vaše metody výuky.
 
-#### PC -- projekce z počítače v učebně
+### PC -- projekce z počítače v učebně
 
 Projekci z počítače umístěného na katedře aktivujete stisknutím
 tlačítka **"PC"**.
 
-#### VGA + HDMI -- projekce z vlastního notebooku
+### VGA + HDMI -- projekce z vlastního notebooku
 
 Vlastní notebook můžete připojit pomocí rozhraní VGA či HDMI. Potřebné
 konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
 ![](dotykove-panely/konektory-2.0-GS.png)
-
 Obr. 6: Konektory pro připojení vlastního notebooku
 
 
@@ -169,7 +166,7 @@ Rozhraní **VGA **je starší analogový standard, který slouží pouze k
 přenosu obrazu. Pro přenos zvuku je nutné zapojit zvlášť
 konektor **audio jack**. Kvalita obrazu může být nižší než u HDMI.
 
-#### Apple TV -- projekce ze zařízení Apple
+### Apple TV -- projekce ze zařízení Apple
 
 Učebny v budovách A a B2 jsou vybaveny zařízením Apple TV, které
 umožňuje umožňuje bezdrátový přenos obrazu ze zařízení Apple. Snadno tak
@@ -182,7 +179,6 @@ připojení k Apple TV postupujte následujícím způsobem:
     "AirPlay".
 
     ![](dotykove-panely/ovl_centrum-2.0-GS.png)
-
     Obr. 7: Tlačítko AirPlay v ovládacím centru
     
 
@@ -191,7 +187,6 @@ připojení k Apple TV postupujte následujícím způsobem:
     přenášet.
 
     ![](dotykove-panely/seznam_zarizeni-GS.png)
-
     Obr. 8: Seznam dostupných Apple TV
     
 
@@ -199,10 +194,9 @@ připojení k Apple TV postupujte následujícím způsobem:
     stisknutím "Ok". Obě zařízení se následně spárují.
 
     ![](dotykove-panely/code-GS.png)
-
     Obr. 9: Pole pro zadání kódu k Apple TV
 
-#### Vizualizér -- projekce z vizualizéru
+### Vizualizér -- projekce z vizualizéru
 
 Učebny v budovách A a B2 jsou vybaveny vizualizérem, který funguje jako
 kamera snímající určité místo na katedře a umožňuje tak promítat
@@ -220,11 +214,10 @@ zafixovat.
 
 
 ![](dotykove-panely/vizualizer_0.png)
-
 Obr. 10: Nastavení vizualizéru
 
 
-### Kontrola funkčnosti zařízení v učebně
+## Kontrola funkčnosti zařízení v učebně
 
 Správnou funkčnost záznamového zařízení si můžete ověřit přímo v učebně.
 Na ploše učitelského PC je umístěna ikona "OBS Studio", po jejím
@@ -240,7 +233,7 @@ CIT.
 Náhled streamu můžete na učitelském PC otevřít kdykoliv i bez toho,
 abyste spouštěli samotný záznam.
 
-### FAQ
+## FAQ
 
 **Co dělat, když záznam spustím nedopatřením?**
 
