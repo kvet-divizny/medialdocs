@@ -9,7 +9,7 @@ Využití Medialu
 
 ## Stručný přehled
 
-![](home/vyuziti-medialu/760blz_4.0.png)
+![](home/vyuziti-medialu/760blz_4.0.png)  
 Obr. 1: Znázornění využití Medialu.
 
 
@@ -87,9 +87,6 @@ videa do Medialu a zařaďte je do
 kdo by k nim měl mít přístup. Videa pak budete moci zhlédnout přímo v
 Medialu, dále je sdílet nebo si je z Medialu zase stáhnout.
 
-**
-**
-
 **Mám k dispozici soubor s videem a chci jej umístit do svého kurzu v
 Moodlu.**
 
@@ -99,8 +96,9 @@ můžete nahrát video do Medialu a zároveň jej vložit do svého kurzu, aniž
 byste vůbec opustili pracovní prostředí Moodlu.
 
 **Chci zaznamenat svou přednášku a zveřejnit ji pro všechny studenty
-Filozofické fakulty.
-**Pomocí automatizovaného nahrávacího systému v učebnách fakulty můžete
+Filozofické fakulty.**
+
+Pomocí automatizovaného nahrávacího systému v učebnách fakulty můžete
 snadno zaznamenat své přednášky. Nahrávání spustíte a ukončíte pouhým
 stisknutím tlačítka a hotový záznam se poté objeví ve Vaší osobní
 kategorii v Medialu. Video můžete poté zveřejnit [vybraným skupinám
@@ -122,27 +120,31 @@ Medial nejsou jenom videa -- pracovat můžete i se zvukovými nahrávkami,
 které můžete také [pořizovat pomocí vlastního
 mikrofonu](/medialdocs/jan-nahrat-video-pomoci-webkamery).
 
-**Chci nahrát průběh konference a zpřístupnit jej široké veřejnosti.
-** Umístíte-li záznam do [veřejné
+**Chci nahrát průběh konference a zpřístupnit jej široké veřejnosti.**
+
+Umístíte-li záznam do [veřejné
 kategorie](/medialdocs/kdo-muaze-videt-muaj-obsah), bude přístupný všem
 návštěvníkům Medialu, včetně neregistrovaných hostů.
 
 **Chci zaznamenat průběh kulturní akce a zpřístupnit jej pouze jejím
-účastníkům.
-** Video můžete ponechat ve své osobní kategorii a konkrétním lidem [na
+účastníkům.**
+
+Video můžete ponechat ve své osobní kategorii a konkrétním lidem [na
 ně poslat odkaz](/medialdocs/jak-muazu-sva-videa-sirit). Pouze lidé s
 přímým odkazem se k videu dostanou.
 
 **Chci vytvořit výukový tutoriál se záznamem plochy a umístit jej do
-svého kurzu v Moodlu.
-** Pomocí nástroje [Techsmith Relay](http://relaydocs.phil.muni.cz/){:target="_blank"}
+svého kurzu v Moodlu.**
+
+Pomocí nástroje [Techsmith Relay](http://relaydocs.phil.muni.cz/){:target="_blank"}
 můžete vytvářet výukové tutoriály se záznamem plochy. Videa z Relaye se
 uloží do Vaší kategorie v Medialu, odkud je můžete snadno vložit do
 svého kurzu.
 
 **Chci zaznamenat interní poradu na svém pracovišti, zpřístupnit ji
-pouze svým kolegům a záznam rozdělit do kapitol podle probíraných bodů.
-** Umístíte-li nahrávku do [zaměstnanecké
+pouze svým kolegům a záznam rozdělit do kapitol podle probíraných bodů.**
+
+Umístíte-li nahrávku do [zaměstnanecké
 kategorie](/medialdocs/kdo-muaze-videt-muaj-obsah) svého pracoviště,
 uvidí ji v Medialu pouze zaměstnanci tohoto pracoviště. U svých videí
 také můžete [nastavit
@@ -150,8 +152,9 @@ kapitoly](/medialdocs/jak-muazu-dodatecne-upravit-metadata/#jak-u-nahravek-nasta
 které umožní přeskočit rovnou na konkrétní čas nahrávky.
 
 **Chci zaznamenat vystoupení hostujícího přednášejícího, streamovat
-je případným zájemcům živě a poté záznam zveřejnit v kurzu v Moodlu.
-** Při použití automatizovaného nahrávacího systému v učebnách fakulty
+je případným zájemcům živě a poté záznam zveřejnit v kurzu v Moodlu.**
+
+Při použití automatizovaného nahrávacího systému v učebnách fakulty
 můžete povolit, aby nahrávanou přednášku mohli uživatelé Medialu
 sledovat v přímém přenosu -- třeba i ze svého domova. Po ukončení a
 zpracování záznamu se nahrávka objeví ve Vaší kategorii v Medialu.
