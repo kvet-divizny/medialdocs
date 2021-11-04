@@ -19,7 +19,7 @@ Po přihlášení do Medialu si pomocí tlačítka "Upload" na hlavní straně
 knihovny videí otevřete rozhraní pro přidávání obsahu. Zde uvidíte nápis
 "Record webcam". Klikněte na něj.
 
-![](home/jan-nahrat-video-pomoci-webkamery/tlacitko-nahrat-video-pres-webkameru.png)
+![](home/jan-nahrat-video-pomoci-webkamery/tlacitko-nahrat-video-pres-webkameru.png)  
 Obr. 1: Výběr nahrávání pomocí webkamery
 
 
@@ -27,14 +27,14 @@ Obr. 1: Výběr nahrávání pomocí webkamery
 
 V dalším kroku musíte Medialu povolit přístup k Vaší kameře a mikrofonu.
 
-![](home/jan-nahrat-video-pomoci-webkamery/Povolit-webkameru.png)
+![](home/jan-nahrat-video-pomoci-webkamery/Povolit-webkameru.png)  
 Obr. 2: Povolení přístupu
 
 
 
 ## Rozhraní pro nahrávání
 
-![](home/jan-nahrat-video-pomoci-webkamery/webkove-rozhrani-2.png)
+![](home/jan-nahrat-video-pomoci-webkamery/webkove-rozhrani-2.png)  
 Obr. 3: Základní rozhraní při nahrávání
 
 
@@ -55,14 +55,14 @@ zvuku** (kliknete na "Record video"), nebo **pouze zvuk** (kliknete na
 Po pár sekundách nahrávání se Vám zobrazí tlačítko "Stop". Tímto
 tlačítkem záznam ukončíte. 
 
-![](home/jan-nahrat-video-pomoci-webkamery/nahravani-webkou---adjust-start-and-time.png)
+![](home/jan-nahrat-video-pomoci-webkamery/nahravani-webkou---adjust-start-and-time.png)  
 Obr. 4: Kroky po dokončení nahrávání
 
 
 Následně se objeví tlačítko "Adjust start and end time", které Vám
 umožní přehrát nahrávku a případně změnit její počáteční a koncový čas.
 
-![](home/jan-nahrat-video-pomoci-webkamery/webka-orez-videa.png)
+![](home/jan-nahrat-video-pomoci-webkamery/webka-orez-videa.png)  
 Obr. 5: Úprava začátku a konce videa
 
 
