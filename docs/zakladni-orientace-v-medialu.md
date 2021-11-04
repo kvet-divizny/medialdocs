@@ -65,7 +65,8 @@ Obr. 3: Domovská stránka knihovny videí
     -   **Help**: obsahuje základní nápovědu pro Medial
     -   **My account**: zobrazí nabídku ke správě uživatelského obsahu
 
-2. **Kategorie ** (Categories): nejsou primárně zobrazeny a je třeba
+
+2. **Kategorie** (Categories): nejsou primárně zobrazeny a je třeba
 rozkliknout šipku
 
 3. **Soupis videí**: domovská stránka zobrazuje aktuálně dostupná videa; na
