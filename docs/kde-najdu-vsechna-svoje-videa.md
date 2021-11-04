@@ -4,13 +4,7 @@ Stránka Můj obsah
 
 
 
-2.  [**2** Hledání a filtrování
-    nahrávek](#TOC-Hled-n-a-filtrov-n-nahr-vek)
-
-
-
-
-#### Co je stránka My Content 
+## Co je stránka My Content 
 
 Stránka **My Content** (Můj obsah) v sobě zahrnuje přehled veškerého
 Vašeho obsahu v Medialu a umožňuje Vám tento obsah spravovat.
@@ -19,15 +13,13 @@ Z knihovny videí se na stránku My Content dostanete kliknutím na
 tlačítko "My Account" (v pravo nahoře) a výběrem možnosti "My
 Content" z rozbalovací nabídky.
 
-![](home/kde-najdu-vsechna-svoje-videa/Odkaz-na-My-content.png)
-
+![](home/kde-najdu-vsechna-svoje-videa/Odkaz-na-My-content.png)  
 Obr. 1: Odkaz na stánku My Content v knihovně videí
 
 
-#### Hledání a filtrování nahrávek
+## Hledání a filtrování nahrávek
 
-![](home/kde-najdu-vsechna-svoje-videa/Filtrovanie.png)
-
+![](home/kde-najdu-vsechna-svoje-videa/Filtrovanie.png)  
 Obr. 3: Formulář pro vyhledávání a filtrování
 
 
@@ -45,18 +37,17 @@ obsahu. Pro filtrování můžete využít následující položky:
 5.  **Název souboru** -- vyhledá zadaný text v názvech souborů
 
 **Poznámka:** Při filtrování je možné použít i části slov. Velikost
-písmen nehraje roli. Je ale nutné použít zástupný znak "*". Dotaz
-"lišk*" Vám tedy vyhledá i řetězce jako "liška", "lišky",
+písmen nehraje roli. Je ale nutné použít zástupný znak "\*". Dotaz
+"lišk\*" Vám tedy vyhledá i řetězce jako "liška", "lišky",
 "Lišková" apod.
 
 Po kliknutí na tlačítko "Search" se Vám v seznamu nahrávek zobrazí
 pouze ty, které odpovídají nastaveným parametrům.
 
-#### Prohlížení a správa obsahu
+## Prohlížení a správa obsahu
 
-![](home/kde-najdu-vsechna-svoje-videa/medial-listing-done.png)
-
-        Obr. 4: Seznam nahrávek
+![](home/kde-najdu-vsechna-svoje-videa/medial-listing-done.png)  
+Obr. 4: Seznam nahrávek
 
 
 
@@ -103,8 +94,7 @@ Medial Vás ještě požádá o potvrzení, zda skutečně chcete provedené zm�
 aplikovat. Kliknutím na tlačítko "Yes" změny potvrdíte, kliknutím na
 tlačítko "Cancel" zrušíte.
 
-![](home/kde-najdu-vsechna-svoje-videa/04-confirm-GS.png)
-
+![](home/kde-najdu-vsechna-svoje-videa/04-confirm-GS.png)  
 Obr. 5: Dialogové okno pro potvrzení provedených změn
 
 
