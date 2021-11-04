@@ -21,7 +21,7 @@ se systémem pro správu e-kurzů [Moodle](https://moodle.org/){:target="_blank"
 
 Základní funkce Medialu jsou stručně shrnuty v následujícím videu (EN):
 
-[![What is MEDIAL](https://res.cloudinary.com/marcomontalbano/image/upload/v1635930228/video_to_markdown/images/youtube--akxT2d5QmH0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=akxT2d5QmH0 "What is MEDIAL")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akxT2d5QmH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## K čemu lze Medial využít?
