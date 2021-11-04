@@ -45,14 +45,14 @@ krajní a plocha je pak rozdělena a na každé z nich může být jiný zdroj.
 
 
 ![](dotykove-panely/vyber_projekce_0.png)
-
 Obr. 2: Výběr z jednoduché nebo dvojité projekce
 
 
 **Pozor!** Při dvojité projekci se nahrává pouze jeden vstup, a to ten,
 pod kterým je na panelu umístěno tlačítko "Spustit záznam".
 
-#### Popis tlačítkového panelu
+
+### Popis tlačítkového panelu
 
 Na dotykovém panelu můžete vidět tyto volby (obrázek je z dvojité
 projekce, jednoduchá projekce je pak prosta pravé strany).
@@ -60,7 +60,6 @@ projekce, jednoduchá projekce je pak prosta pravé strany).
 
 
 ![](dotykove-panely/dvojita_projekce_0.png)
-
 Obr. 3: Dotykový panel a jeho komponenty
 
 
@@ -74,22 +73,18 @@ Obr. 3: Dotykový panel a jeho komponenty
 5.  Umožňuje zmrazit, ztmavit nebo vypnout obraz z projektoru, aby
     ostatní neviděli, co právě děláte (např. při vyplňování
     přihlašovacích údajů).
-
--   Zmrazit -- promítaný obraz se zmrazí v daný moment, kdy stisknete
+    -   Zmrazit -- promítaný obraz se zmrazí v daný moment, kdy stisknete
     tlačítko.
--   Ztmavit -- promítaný obraz se ztmaví.
--   Vypnout -- promítaný obraz se vypne (ale nevypne se promítací
+    -   Ztmavit -- promítaný obraz se ztmaví.
+    -   Vypnout -- promítaný obraz se vypne (ale nevypne se promítací
     systém).
-
-Zde si vybíráte vstup, ze kterého budou do promítací plochy proudit
+6. Zde si vybíráte vstup, ze kterého budou do promítací plochy proudit
 informace. Bližší popis [viz
-níže](/medialdocs/dotykove-panely#TOC-Volba-vstupu).
+níže](/medialdocs/dotykove-panely#volba-vstupu).
+7. Zde spustíte nahrávání záznamu.
+8. Zde můžete vypnout světla, aniž byste museli odbíhat od katedry.
 
-Zde spustíte nahrávání záznamu.
-
-Zde můžete vypnout světla, aniž byste museli odbíhat od katedry.
-
-### Ovládání záznamového zařízení
+## Ovládání záznamového zařízení
 
 Při používání zařízení pro automatizovaný záznam postupujte následujícím
 způsobem:
@@ -97,7 +92,7 @@ způsobem:
 1.  Přihlaste se k počítači v učebně. Tlačítko **"Spustit záznam"** se
     aktivuje.
 2.  Zapněte projektor a zvolte zdroj obrazu ([viz
-    níže](/medialdocs/dotykove-panely#TOC-Volba-vstupu)).
+    níže](/medialdocs/dotykove-panely#volba-vstupu)).
 3.  Stiskněte "Spustit záznam". Tlačítko se rozsvítí červeně na
     znamení, že probíhá nahrávání.
     **Pozor!** Zpracovány jsou pouze nahrávky, které trvají déle než
