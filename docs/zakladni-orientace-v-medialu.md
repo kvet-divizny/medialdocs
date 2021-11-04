@@ -10,7 +10,7 @@ domovské stránky Medialu. Načte se Vám přihlašovací formulář -- jako
 přihlašovací údaje použijte své UČO (kolonka "Username") a sekundární
 heslo (kolonka "Password"). Přihlášení potvrdíte tlačítkem "Login".
 
-![](home/zakladni-orientace-v-medialu/login-2.0-GS.png)
+![](home/zakladni-orientace-v-medialu/login-2.0-GS.png)  
 Obr. 1: Přihlašovací dialog
 
 
@@ -31,7 +31,7 @@ Pracovní prostředí Medialu tvoří dva propojené systémy, mezi nimiž
 můžete při práci libovolně přecházet. V rámci každého z nich je možné
 provádět různé akce, oba jsou také vizuálně odlišeny.
 
-![](home/zakladni-orientace-v-medialu/diff_layers_torn-GS.png)
+![](home/zakladni-orientace-v-medialu/diff_layers_torn-GS.png)  
 Obr. 2: Záhlaví knihovny videí a správy videí
 
 
@@ -52,7 +52,7 @@ do knihovny dostanete přes tlačítko "Home" v navigační liště.
 Po přihlášení do Medialu se ocitnete na domovské stránce knihovny médií.
 Naleznete zde základní prvky pro procházení obsahu knihovny.
 
-![](home/zakladni-orientace-v-medialu/home-2.5-GS.png)
+![](home/zakladni-orientace-v-medialu/home-2.5-GS.png)  
 Obr. 3: Domovská stránka knihovny videí
 
 1.  **Navigační lišta**: obsahuje odkazy na některé klíčové stránky
@@ -78,7 +78,7 @@ užitečnými odkazy na jiné weby
 
 ## Hledání nahrávek
 
-![](home/zakladni-orientace-v-medialu/search-GS.png)
+![](home/zakladni-orientace-v-medialu/search-GS.png)  
 Obr. 4 : Vyhledávací pole s aktivním našeptáváním
 
 Pro vyhledání konkrétní nahrávky použijte vyhledávací pole v navigační
@@ -93,7 +93,7 @@ zástupný znak * (např. "středově*" dohledá výrazy "středověk",
 
 ## Filtrování obsahu
 
-![](home/zakladni-orientace-v-medialu/filter-2.0-GS.png)
+![](home/zakladni-orientace-v-medialu/filter-2.0-GS.png)  
 Obr. 5: Sloupec s použitelnými filtry
 
 
