@@ -9,7 +9,7 @@ toho, s jakým problémem se potýkáte.
 
 
 
-#### Kancelář e-learningu
+## Kancelář e-learningu
 
 Pracovníky kanceláře můžete kontaktovat e-mailem **<elf@phil.muni.cz>**
 nebo po telefonu 549 49 **1592**.
@@ -24,13 +24,12 @@ Obracejte se na ně, pokud:
     nastavení sdílení atd.)
     
 
-#### CIT
+## CIT
 
 Techniky CIT můžete kontaktovat na telefonu 549 49 **1542**, případně
 pomocí [webového
 formuláře](http://www.phil.muni.cz/wcit/home/sluzby/formular-rebus/){:target="_blank"}.
 Obracejte se na ně v případě technických problémů v učebnách.
-
 
 
 Ve specifických případech můžete kontaktovat také **správce AV
