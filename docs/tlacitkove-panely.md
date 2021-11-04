@@ -22,7 +22,7 @@ přednášku, včetně materiálů promítaných na plátně. Přednášku je v�
 možné nahrát i bez těchto materiálů. Tento návod se věnuje učebnám s
 tlačítkovými panely.
 
-
+<div style="position:relative;padding-bottom:56%;padding-top:20px;height:0;"><iframe src="https://medial.phil.muni.cz/player?autostart=n&videoId=27849503&captions=y&chapterId=0" frameborder="0" scrolling="no" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen></iframe></div>
 
 ![](tlacitkove-panely/tl_tmavy.jpg?height=201&width=320)
 ![](tlacitkove-panely/tl_svetly.jpg?height=178&width=320)
