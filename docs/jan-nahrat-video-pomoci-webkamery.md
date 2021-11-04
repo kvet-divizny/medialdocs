@@ -34,7 +34,7 @@ Obr. 2: Povolení přístupu
 
 ## Rozhraní pro nahrávání
 
-#### ![](home/jan-nahrat-video-pomoci-webkamery/webkove-rozhrani-2.png)
+![](home/jan-nahrat-video-pomoci-webkamery/webkove-rozhrani-2.png)
 Obr. 3: Základní rozhraní při nahrávání
 
 
