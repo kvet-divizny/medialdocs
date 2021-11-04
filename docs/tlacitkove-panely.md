@@ -1,37 +1,17 @@
 Tlačítkové panely
 =================
 
-
-
-1.  [**1** Ovládání záznamového
-    zařízení](#TOC-Ovl-d-n-z-znamov-ho-za-zen-)
-    1.  [**1.1** Zapnutí projektoru a volba
-        vstupu](#TOC-Zapnut-projektoru-a-volba-vstupu)
-    2.  [**1.2** Projekce z počítače v
-        učebně](#TOC-Projekce-z-po-ta-e-v-u-ebn-)
-    3.  [**1.3** Projekce z vlastního
-        notebooku](#TOC-Projekce-z-vlastn-ho-notebooku)
-    4.  [**1.4** Projekce ze zařízení
-        Apple](#TOC-Projekce-ze-za-zen-Apple)
-    5.  [**1.5** Projekce z vizualizéru](#TOC-Projekce-z-vizualiz-ru)
-2.  [**2** Kontrola funkčnosti zařízení v
-    učebně](#TOC-Kontrola-funk-nosti-za-zen-v-u-ebn-)
-    1.  [**2.1** FAQ](#TOC-FAQ)
-
-
-
-
-Návod platí pro učebny:
-
--   **A11, A21, A24, A31,**
--   **B2.52, B2.41, B2.42, B2.21, B2.22 a B2.32**,
--   **C11, C32, C33, C34, C41, C42, C43,**
--   **D22, D32, D33, D42, D43,**
--   **G01, G02, G12, G23, G24, G25, G31, G32,**
--   **J21, J22, J31,**
--   **M11, M21, M22,**
--   **N41, N51.**
-
+>
+>Návod platí pro učebny:
+>
+> -   **A11, A21, A24, A31,**
+> -   **B2.52, B2.41, B2.42, B2.21, B2.22 a B2.32**,
+> -   **C11, C32, C33, C34, C41, C42, C43,**
+> -   **D22, D32, D33, D42, D43,**
+> -   **G01, G02, G12, G23, G24, G25, G31, G32,**
+> -   **J21, J22, J31,**
+> -   **M11, M21, M22,**
+> -   **N41, N51.**
 
 
 Automatizované nahrávání je dostupné ve většině rekonstruovaných učeben
@@ -44,17 +24,11 @@ tlačítkovými panely.
 
 
 
-
-
-
-
-[![](tlacitkove-panely/tl_tmavy.jpg?height=201&width=320){width="320"
-height="201"}](/medialdocs/tlacitkove-panely/tl_tmavy.jpg?attredirects=0)[![](tlacitkove-panely/tl_svetly.jpg?height=178&width=320){width="320"
-height="178"}](/medialdocs/tlacitkove-panely/tl_svetly.jpg?attredirects=0)
-
+![](tlacitkove-panely/tl_tmavy.jpg?height=201&width=320)
+![](tlacitkove-panely/tl_svetly.jpg?height=178&width=320)
 Obr. 1: Učebny jsou vybaveny tlačítkovými panely v různých variantách.
 
-#### Ovládání záznamového zařízení
+## Ovládání záznamového zařízení
 
 Při používání zařízení pro automatizovaný záznam postupujte následujícím
 způsobem:
@@ -62,7 +36,7 @@ způsobem:
 1.  Přihlaste se k počítači v učebně. Tlačítko **"Záznam"/"Record"**
     na ovládacím panelu se bíle rozsvítí.
 2.  Zapněte projektor a zvolte zdroj obrazu ([viz
-    níže](/medialdocs/tlacitkove-panely#TOC-Zapnut-projektoru-a-volba-vstupu)).
+    níže](/medialdocs/tlacitkove-panely#zapnuti-projektoru-a-volba-vstupu)).
 3.  Stiskněte tlačítko "Záznam". Tlačítko se rozsvítí červeně na
     znamení, že probíhá nahrávání.
     **Pozor!** Zpracovány jsou pouze nahrávky, které trvají déle než
@@ -76,7 +50,7 @@ způsobem:
 
 Jak nastavit oprávnění ke zhlédnutí videa v Medialu či jak lze videa z
 Medialu dále šířit se dozvíte v [uživatelské
-dokumentaci](https://sites.google.com/a/phil.muni.cz/elearning-medial/){:target="_blank"}.
+dokumentaci](/medialdocs/jak-muazu-sva-videa-sirit/){:target="_blank"}.
 Mějte na paměti, že video se odešle do osobní složky v Medialu tomu
 uživateli, který je během záznamu přihlášený na PC. Videa z učeben navíc
 v Medialu nemají vyplněné doplňující informace, doporučujeme je proto
@@ -88,18 +62,16 @@ některý z mikrofonů, které jsou v každé učebně k dispozici. Více o
 mikrofonech se dozvíte v [patřičné sekci
 dokumentace](/medialdocs/mikrofony).
 
-
 Jak záznam vypadá? Přednášejícího snímá kamera napevno umístěná v
 učebně. Je-li zapnutý projektor, vloží se obraz promítaný na plátno
 přímo do videa, aby byla zajištěna dobrá čitelnost prezentací a jiných
 výukových materiálů (obr. 2).
 
 ![](tlacitkove-panely/2-vzhled-2.0-GS.png)
-
 Obr. 2: Vzhled výsledného videa
 
 
-#### Zapnutí projektoru a volba vstupu
+### Zapnutí projektoru a volba vstupu
 
 Pro zapnutí projektoru stiskněte tlačítko **"On**" nebo **"Audio
 Only"** (zapne techniku v učebně, ale ponechá vypnutý projektor) na
@@ -114,19 +86,18 @@ V některých učebnách je navíc k dispozici tlačítko
 **"Zmrazit"/"Freeze"** (zmrazí promítaný obraz, dokud jej znovu
 neodmrazíte) nebo **"Mute"** (ztlumí zvuk přehrávaný z reproduktorů).
 
-#### Projekce z počítače v učebně
+### Projekce z počítače v učebně
 
 Projekci z počítače umístěného na katedře aktivujete stisknutím tlačítka
 **"PC"**.
 
-#### Projekce z vlastního notebooku
+### Projekce z vlastního notebooku
 
 Vlastní notebook můžete připojit pomocí rozhraní VGA či HDMI. Potřebné
 konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
 ![](tlacitkove-panely/3-konektory-2.0-GS.png)
-
 Obr. 3: Konektory pro připojení vlastního notebooku
 
 
@@ -138,7 +109,7 @@ Rozhraní **VGA** je starší analogový standard, který slouží pouze k
 přenosu obrazu. Pro přenos zvuku je nutné zapojit zvlášť konektor
 **audio jack**. Kvalita obrazu může být nižší než u HDMI.
 
-#### Projekce ze zařízení Apple
+### Projekce ze zařízení Apple
 
 Učebny v budovách A a B2 jsou vybaveny zařízením Apple TV, které
 umožňuje bezdrátový přenos obrazu ze zařízení Apple. Snadno tak můžete
@@ -151,7 +122,6 @@ k Apple TV postupujte následujícím způsobem:
     "AirPlay".
 
     ![](tlacitkove-panely/4-ovl_centrum-2.0-GS.png)
-
     Obr. 4: Tlačítko AirPlay v ovládacím centru
     
 
@@ -160,7 +130,6 @@ k Apple TV postupujte následujícím způsobem:
     přenášet.
 
     ![](tlacitkove-panely/5-seznam_zarizeni-GS.png)
-
     Obr. 5: Seznam dostupných Apple TV
     
 
@@ -168,10 +137,9 @@ k Apple TV postupujte následujícím způsobem:
     stisknutím "Ok". Obě zařízení se následně spárují.
 
     ![](tlacitkove-panely/code-GS.png)
-
     Obr. 6: Pole pro zadání kódu k Apple TV
 
-#### Projekce z vizualizéru
+### Projekce z vizualizéru
 
 Učebny v budovách A a B2 jsou vybaveny vizualizérem, který funguje jako
 kamera snímající určité místo na katedře a umožňuje tak promítat
@@ -182,8 +150,7 @@ přímo nad katedrou (pak lze k ovládání využít dálkový ovladač uložen�
 katedře).
 
 
-
-### Kontrola funkčnosti zařízení v učebně
+## Kontrola funkčnosti zařízení v učebně
 
 Správnou funkčnost záznamového zařízení si můžete ověřit přímo v učebně.
 Na ploše učitelského PC je umístěna ikona **"OBS Studio"**, po jejím
@@ -199,7 +166,7 @@ CIT.
 Náhled streamu můžete na učitelském PC otevřít kdykoliv i bez toho,
 abyste spouštěli samotný záznam.
 
-#### FAQ
+## FAQ
 
 **Co dělat, když záznam spustím nedopatřením?**
 
