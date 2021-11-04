@@ -58,14 +58,14 @@ Obr. 3: Domovská stránka knihovny videí
 1.  **Navigační lišta**: obsahuje odkazy na některé klíčové stránky
     Medialu
 
--   **Domů**: ikona domečku vede zpět na domovskou stránku knihovny
+    -   **Domů**: ikona domečku vede zpět na domovskou stránku knihovny
     médií
--   **Upload**: otevře rozhraní pro přidávání obsahu
--   **Search**: otevře pole pro vyhledávání
--   **Help**: obsahuje základní nápovědu pro Medial
--   **My account**: zobrazí nabídku ke správě uživatelského obsahu
+    -   **Upload**: otevře rozhraní pro přidávání obsahu
+    -   **Search**: otevře pole pro vyhledávání
+    -   **Help**: obsahuje základní nápovědu pro Medial
+    -   **My account**: zobrazí nabídku ke správě uživatelského obsahu
 
-2. **Kategorie **(Categories): nejsou primárně zobrazeny a je třeba
+2. **Kategorie ** (Categories): nejsou primárně zobrazeny a je třeba
 rozkliknout šipku
 
 3. **Soupis videí**: domovská stránka zobrazuje aktuálně dostupná videa; na
