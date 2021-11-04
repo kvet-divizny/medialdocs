@@ -2,18 +2,13 @@ Sdílení obsahu
 ==============
 
 
-
-
-
-
-
 Obsah Medialu není vázaný jen na mediální knihovnu jako takovou.
 Nahrávky, ke kterým máte přístup -- tedy nejen své vlastní, ale i další
 veřejné -- můžete několika různými způsoby šířit i mimo Medial. Při tom
 je však třeba brát v potaz i další faktory, např. jste-li autorem
 nahrávky, při jaké příležitosti jste záznam pořídili atd. 
 
-#### Sdílení obsahu v Moodlu
+## Sdílení obsahu v Moodlu
 
 Nahrávky z Medialu můžete snadno zveřejnit ve svých kurzech v Moodlu.
 Díky propojení obou systémů mohou vkládat obsah do Moodlu jak učitelé,
@@ -28,9 +23,6 @@ chcete do Moodlu vložit nahrávku, která již je v Medialu umístěná,
 použijete tlačítko "Search".
 
 ![](home/jak-muazu-sva-videa-sirit/A-1.png)
-
-
-
 Obr. 1: Tlačítko "Search" v Moodlu
 
 
@@ -40,7 +32,6 @@ opětovně nahrávat. Video, které chcete vložit, můžete dohledat pomocí
 filtrů a vyhledávání.
 
 ![](home/jak-muazu-sva-videa-sirit/search_03q.png)
-
 Obr. 2: Filtrování, hledání správného videa
 
 
@@ -69,10 +60,6 @@ V rozhraní pro výběr videa lze využít tyto prvky:
     informací](/medialdocs/jak-muazu-dodatecne-upravit-metadata#TOC-Editace-metadat)
     o nahrávce.
 
-```
-<!-- -->
-```
-
 **Pozor!** Po zvolení konkrétního videa tlačítkem "Select" se zobrazí
 možnost "Include Download Link", jejíž zaškrtnutí zpřístupní studentům
 možnost stahování videa. Pokud si nepřejete, aby studenti Vaše video
@@ -80,22 +67,16 @@ mohli dále šířit (nahrávat na různé servery, YouTube apod.),
 nedoporučujeme tuto možnost zaškrtávat.
 
 ![](home/jak-muazu-sva-videa-sirit/A-3-druhC3A1-verze.png)
-
 Obr. 3: Tlačítko umožňující stažení videa studenty
-
-
 
 V posledním kroku Vás Medial informuje o tom, že Vaše video je
 připravené.
 
 ![](home/jak-muazu-sva-videa-sirit/A-4.png)
-
-
-
 Obr. 4: Úspěšné vložení videa do Moodlu
 
 
-#### Další možnosti sdílení
+## Další možnosti sdílení
 
 Další možnosti sdílení se Vám nabízejí na stránce pro přehrávání videa.
 Dostanete se na ni po rozkliknutí nahrávky v knihovně videí nebo ze
@@ -103,21 +84,15 @@ stránky **My content**. V druhém případě klikněte u daného videa na
 "Yes" ve sloupci Encoded (Stav zpracování, vizte obr. 5). 
 
 ![](home/jak-muazu-sva-videa-sirit/encoded.png)
-
 Obr. 5: Kliknutím na "Yes" se dostanete na stránku pro přehrávání
 videa
-
-
 
 Aby Vaše video mohl vidět někdo jiný než vy, musíte nejprve povolit
 veřejný přístup. V horním pravém rohu videa klikněte na ikonku sdílení
 (1.) a následně zvolte "Enable public acces" (2.). 
 
 ![](home/jak-muazu-sva-videa-sirit/sovi_zpev1.png)
-
 Obr. 6: Povolení veřejného přístupu
-
-
 
 Nastavení veřejného přístupu určuje, zda budou Vaše video moci zhlédnout
 i ostatní, neovlivňuje však jeho viditelnost v samotné knihovně médií.
@@ -133,12 +108,11 @@ přístup dodatečně zrušit volbou "Disable public access".
 
 Poté máte možnost vybrané video sdílet dále různými způsoby:
 
--   **Odkaz **-- odkaz je nejjednodušší variantou. Můžete jej jednoduše
+-   **Odkaz ** -- odkaz je nejjednodušší variantou. Můžete jej jednoduše
     zkopírovat a poslat dále např. emailem, vložit na stránky, dokonce i
     do Moodlu. 
 
 ![](home/jak-muazu-sva-videa-sirit/sovi_zpev2.png)
-
 Obr. 7: Sdílení odkazu
 
 
@@ -148,7 +122,6 @@ Obr. 7: Sdílení odkazu
     roletce "Video Size" si můžete vybrat velikost vloženého videa..
 
 ![](home/jak-muazu-sva-videa-sirit/sovi_zpev3.png)
-
 Obr. 8: Cesta k embedovacímu kódu
 
 -   **Download** -- své video si můžete stáhnout do vlastního počítače
@@ -156,15 +129,8 @@ Obr. 8: Cesta k embedovacímu kódu
     sloupci Filename a zvolit možnost "Uložit soubor" / "Save
     file".
 
-[](/medialdocs/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)
-
-[](/medialdocs/jak-muazu-sva-videa-sirit/sovi_zpev4.png?attredirects=0)![](home/jak-muazu-sva-videa-sirit/B-5.png)
-
-
-
+![](home/jak-muazu-sva-videa-sirit/B-5.png)
 Obr. 9: Stažení souboru.
-
-
 
 Platnost odkazu i embedovacího kódu lze zpětně zrušit tím, že zakážete
 veřejný přístup (volbou "Disable public acces").
@@ -172,7 +138,7 @@ veřejný přístup (volbou "Disable public acces").
 **Poznámka.** Kódy pro sdílení naleznete i u videí, která jsou ve
 veřejných kategoriích.
 
-#### FAQ
+## FAQ
 
 **Musím video zveřejnit, než jej vložím do kurzu v Moodlu?**
 
@@ -187,7 +153,7 @@ videí?**
 Nikoliv, povolením veřejného přístupu pouze zapnete možnost video
 sdílet. Aby se zobrazovalo v knihovně videí, museli byste jej navíc
 přesunout do některé z veřejných
-[kategorií](/medialdocs/jak-je-obsah-v-medialu-organizovan#TOC-Kategorie-vide-).
+[kategorií](/medialdocs/jak-je-obsah-v-medialu-organizovan#kategorie-videi).
 Pokud video ponecháte v kategorii Personal, ostatní jej v Medialu
 neuvidí.
 
