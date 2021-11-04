@@ -2,21 +2,10 @@
 =========================
 
 
-
-1.  [**1** Co je to streamování a jak
-    funguje?](#TOC-Co-je-to-streamov-n-a-jak-funguje-)
-
-
-
-
-####  
-
-#### Co je to streamování a jak funguje?
+## Co je to streamování a jak funguje?
 
 ![](zivy-prenos-live-stream/schema_stream_2-bl_scale_GS.png)
-
 Obr. 1: Schéma streamování: z učebny na elektronická zařízení
-
 
 V učebnách vybavených automatizovaným nahrávacím systémem můžete své
 přednášky nejen zaznamenávat, ale také streamovat přes internet.
@@ -36,11 +25,10 @@ přednášející dobře slyšet, doporučujeme použít některý z
 [mikrofonů](/medialdocs/mikrofony) umístěných v katedře.
 
 ![](zivy-prenos-live-stream/stream-2.0-GS.png)
-
 Obr. 2: Video s živým přenosem
 
 
-#### Co je třeba zařídit?
+## Co je třeba zařídit?
 
 Na rozdíl od záznamu, který mohou obsloužit sami vyučující, nastavují
 streamování z učeben pracovníci Kanceláře e-learningu FF MU. Pokud
@@ -54,7 +42,7 @@ Pokud budete chtít, můžete nám poslat i krátký doprovodný text a
 náhledový obrázek, který ke streamu připojíme a který případným divákům
 usnadní orientaci..
 
-#### Jak stream sledovat?
+## Jak stream sledovat?
 
 Živé přenosy z učeben lze sledovat v rámci fakultní knihovny médií
 [Medial](http://medial.phil.muni.cz){:target="_blank"}. Jsou-li nějaké streamy
@@ -66,7 +54,6 @@ pouze "Live", znamená to, že jsou některé přenosy naplánované, ale
 momentálně žádný neprobíhá.
 
 ![](zivy-prenos-live-stream/live-now-2.0-GS.png)
-
 Obr. 3: Tlačítko "Live Now!" zobrazí seznam dostupných streamů
 
 
@@ -80,7 +67,6 @@ přenosy, které jsou naplánované, ale zatím nedostupné. U každého z nich
 najdete informaci o tom, od kdy do kdy bude přístupný.
 
 ![](zivy-prenos-live-stream/seznam-2.0-GS.png)
-
 Obr. 4: Seznam dostupných a naplánovaných streamů
 
 
@@ -94,8 +80,7 @@ Stream je přístupný všem návštěvníkům Medialu, tedy i nepřihlášeným
 hostům.
 
 
-
-#### Časté dotazy (FAQ) 
+## Časté dotazy (FAQ) 
 
 **V navigačním panelu není tlačítko Live ani Live Now!**
 
