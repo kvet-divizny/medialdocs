@@ -10,7 +10,7 @@ můžete vkládat multimediální obsah přímo ze svého kurzu. Jako učitel
 využijete vkládání pomocí tlačítka v HTML editoru, naopak studenti
 Medial využijí při odevzdávání úkolů ve formě videosouborů.
 
-**Poznámka: **Před prvním vstupem do Medialu je potřeba propojit oba
+**Poznámka:** Před prvním vstupem do Medialu je potřeba propojit oba
 profily. Stačí, když [se přihlásíte](/medialdocs/propojeni-s-moodlem)
 pomocí svého UČO a sekundárního hesla. 
 
