@@ -1,37 +1,12 @@
 Dotykové panely
 ===============
 
-
-
-1.  [**1** Zapnutí systému a popis ovládacího
-    panelu](#TOC-Zapnut-syst-mu-a-popis-ovl-dac-ho-panelu)
-    1.  [**1.1** Popis tlačítkového
-        panelu](#TOC-Popis-tla-tkov-ho-panelu)
-2.  [**2** Ovládání záznamového
-    zařízení](#TOC-Ovl-d-n-z-znamov-ho-za-zen-)
-
-    1.  [**3.1** PC -- projekce z počítače v
-        učebně](#TOC-PC-projekce-z-po-ta-e-v-u-ebn-)
-    2.  [**3.2** VGA + HDMI -- projekce z vlastního
-        notebooku](#TOC-VGA-HDMI-projekce-z-vlastn-ho-notebooku)
-    3.  [**3.3** Apple TV -- projekce ze zařízení
-        Apple](#TOC-Apple-TV-projekce-ze-za-zen-Apple)
-    4.  [**3.4** Vizualizér -- projekce z
-        vizualizéru](#TOC-Vizualiz-r-projekce-z-vizualiz-ru)
-    5.  [**3.5** Nastavení vizualizéru](#TOC-Nastaven-vizualiz-ru)
-4.  [**4** Kontrola funkčnosti zařízení v
-    učebně](#TOC-Kontrola-funk-nosti-za-zen-v-u-ebn-)
-
-
-
-
-
-Návod platí pro učebny:
-
--   **B2.13, B2. 23, B2.33, B2.44, B2.43, B2.34, B2.24,**
--   **C34,**
--   **D21, D31, D41,**
--   **G22.**
+>Návod platí pro učebny:
+>
+> -   **B2.13, B2. 23, B2.33, B2.44, B2.43, B2.34, B2.24,**
+> -   **C34,**
+> -   **D21, D31, D41,**
+> -   **G22.**
 
 Automatizované nahrávání je dostupné ve většině rekonstruovaných učeben
 FF. Některé učebny jsou řešeny nahráváním pomocí [tlačítkových
@@ -42,26 +17,12 @@ přednášku i bez těchto materiálů. Tento návod se věnuje učebnám s
 dotykovými panely.
 
 
-
-###  
-
-###  
-
-###  
-
-###  
-
-###  
-
-###  
-
-### Zapnutí systému a popis ovládacího panelu
+## Zapnutí systému a popis ovládacího panelu
 
 **Dotykový panel** je umístěn na katedře. Pokud je systém projektorů
 vypnutý, uvidíte na něm tuto hlášku:
 
 ![](dotykove-panely/uvodni_obrazovka_0.png)
-
 Obr. 1: Zapnutí systému
 
 
