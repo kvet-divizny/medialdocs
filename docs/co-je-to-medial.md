@@ -56,7 +56,7 @@ pole (vpravo nahoře). 
 
 [![Obr. 1: Navigační prvky pro procházení
 obsahu](co-je-to-medial/1_zakladni-navigace.png)](/medialdocs/co-je-to-medial/1_zakladni-navigace.png?attredirects=0)  
-Obr. 1: Navigační prvky pro procházení obsahu
+<figcaption>Obr. 1: Navigační prvky pro procházení obsahu</figcaption>
 
 
 Prohlížení dalšího obsahu, stejně jako možnost vkládat, spravovat a

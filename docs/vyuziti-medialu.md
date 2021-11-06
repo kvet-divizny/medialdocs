@@ -10,7 +10,7 @@ Využití Medialu
 ## Stručný přehled
 
 ![](home/vyuziti-medialu/760blz_4.0.png)  
-Obr. 1: Znázornění využití Medialu.
+<figcaption>Obr. 1: Znázornění využití Medialu.</figcaption>
 
 
 Medial lze využívat jednoduše k zálohování a skladování videí a

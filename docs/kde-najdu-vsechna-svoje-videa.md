@@ -14,13 +14,13 @@ tlačítko "My Account" (v pravo nahoře) a výběrem možnosti "My
 Content" z rozbalovací nabídky.
 
 ![](home/kde-najdu-vsechna-svoje-videa/Odkaz-na-My-content.png)  
-Obr. 1: Odkaz na stánku My Content v knihovně videí
+<figcaption>Obr. 1: Odkaz na stánku My Content v knihovně videí</figcaption>
 
 
 ## Hledání a filtrování nahrávek
 
 ![](home/kde-najdu-vsechna-svoje-videa/Filtrovanie.png)  
-Obr. 2: Formulář pro vyhledávání a filtrování
+<figcaption>Obr. 2: Formulář pro vyhledávání a filtrování</figcaption>
 
 
 Sekce **Search** (Hledání) v horní části stránky Vám umožní prohledávat
@@ -47,7 +47,7 @@ pouze ty, které odpovídají nastaveným parametrům.
 ## Prohlížení a správa obsahu
 
 ![](home/kde-najdu-vsechna-svoje-videa/medial-listing-done.png)  
-Obr. 3: Seznam nahrávek
+<figcaption>Obr. 3: Seznam nahrávek</figcaption>
 
 
 
@@ -95,7 +95,7 @@ aplikovat. Kliknutím na tlačítko "Yes" změny potvrdíte, kliknutím na
 tlačítko "Cancel" zrušíte.
 
 ![](home/kde-najdu-vsechna-svoje-videa/04-confirm-GS.png)  
-Obr. 4: Dialogové okno pro potvrzení provedených změn
+<figcaption>Obr. 4: Dialogové okno pro potvrzení provedených změn</figcaption>
 
 
 V neposlední řadě je na stránce My Content možné nahrávky také

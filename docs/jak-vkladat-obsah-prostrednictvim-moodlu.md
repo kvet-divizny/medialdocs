@@ -23,7 +23,7 @@ se do zjednodušeného rozhraní Medialu. Další krok pak naleznete níže v
 tomto návodu.
 
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/TlaC48DC3ADtko-Medial-v-HTML-editoru.png)  
-Obr. 1: Zelená ikonka Medialu v panelu editoru.
+<figcaption>Obr. 1: Zelená ikonka Medialu v panelu editoru.</figcaption>
 
 
 ## Odevzdání úkolu ve formě videa
@@ -33,7 +33,7 @@ Studentům můžete zadat, aby odevzdali nahrávku z Medialu coby řešení
 video.**
 
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/Odevzdavani-videa-jako-ukolu.png)  
-Obr. 2: Natavení typu úkolu.
+<figcaption>Obr. 2: Natavení typu úkolu.</figcaption>
 
 
 
@@ -42,7 +42,7 @@ tlačítko "Add Media" (obr. 2), pomocí kterého se dostanou do
 zjednodušeného rozhraní Medialu, popsaného níže.
 
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/Tlacitko-pro-odevzdani-videa.png)    
-Obr. 3: Tlačítko pro odevzdání úkolu v podobě videa
+<figcaption>Obr. 3: Tlačítko pro odevzdání úkolu v podobě videa</figcaption>
 
 
 ## Vložení videa
@@ -52,7 +52,7 @@ zobrazí se Vám nejprve nabídka tří možností pro nahrání materiálů do
 Moodlu.
 
 ![](home/jak-vkladat-obsah-prostrednictvim-moodlu/vyber-nahrani-videa.png)  
-Obr. 4: Možnosti vložení videomateriálu.
+<figcaption>Obr. 4: Možnosti vložení videomateriálu.</figcaption>
 
 
 

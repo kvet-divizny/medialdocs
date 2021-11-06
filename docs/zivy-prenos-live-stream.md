@@ -5,7 +5,7 @@
 ## Co je to streamování a jak funguje?
 
 ![](zivy-prenos-live-stream/schema_stream_2-bl_scale_GS.png)
-Obr. 1: Schéma streamování: z učebny na elektronická zařízení
+<figcaption>Obr. 1: Schéma streamování: z učebny na elektronická zařízení</figcaption>
 
 V učebnách vybavených automatizovaným nahrávacím systémem můžete své
 přednášky nejen zaznamenávat, ale také streamovat přes internet.
@@ -25,7 +25,7 @@ přednášející dobře slyšet, doporučujeme použít některý z
 [mikrofonů](/medialdocs/mikrofony) umístěných v katedře.
 
 ![](zivy-prenos-live-stream/stream-2.0-GS.png)
-Obr. 2: Video s živým přenosem
+<figcaption>Obr. 2: Video s živým přenosem</figcaption>
 
 
 ## Co je třeba zařídit?
@@ -54,7 +54,7 @@ pouze "Live", znamená to, že jsou některé přenosy naplánované, ale
 momentálně žádný neprobíhá.
 
 ![](zivy-prenos-live-stream/live-now-2.0-GS.png)
-Obr. 3: Tlačítko "Live Now!" zobrazí seznam dostupných streamů
+<figcaption>Obr. 3: Tlačítko "Live Now!" zobrazí seznam dostupných streamů</figcaption>
 
 
 Jednotlivé přenosy jsou pojmenovány podle učebny, ze které jsou
@@ -67,7 +67,7 @@ přenosy, které jsou naplánované, ale zatím nedostupné. U každého z nich
 najdete informaci o tom, od kdy do kdy bude přístupný.
 
 ![](zivy-prenos-live-stream/seznam-2.0-GS.png)
-Obr. 4: Seznam dostupných a naplánovaných streamů
+<figcaption>Obr. 4: Seznam dostupných a naplánovaných streamů</figcaption>
 
 
 1.  Právě probíhající stream

@@ -26,7 +26,7 @@ tlačítkovými panely.
 
 ![](tlacitkove-panely/tl_tmavy.jpg?height=201&width=320)
 ![](tlacitkove-panely/tl_svetly.jpg?height=178&width=320)
-Obr. 1: Učebny jsou vybaveny tlačítkovými panely v různých variantách.
+<figcaption>Obr. 1: Učebny jsou vybaveny tlačítkovými panely v různých variantách.</figcaption>
 
 ## Ovládání záznamového zařízení
 
@@ -68,7 +68,7 @@ přímo do videa, aby byla zajištěna dobrá čitelnost prezentací a jiných
 výukových materiálů (obr. 2).
 
 ![](tlacitkove-panely/2-vzhled-2.0-GS.png)
-Obr. 2: Vzhled výsledného videa
+<figcaption>Obr. 2: Vzhled výsledného videa</figcaption>
 
 
 ### Zapnutí projektoru a volba vstupu
@@ -98,7 +98,7 @@ konektory naleznete v zásuvce zapuštěné v desce katedry. Po zapojení
 konektoru do notebooku stiskněte příslušné tlačítko na ovládacím panelu.
 
 ![](tlacitkove-panely/3-konektory-2.0-GS.png)
-Obr. 3: Konektory pro připojení vlastního notebooku
+<figcaption>Obr. 3: Konektory pro připojení vlastního notebooku</figcaption>
 
 
 Rozhraní **HDMI** umožňuje přenášet zvuk i obraz v digitálním formátu.
@@ -122,7 +122,7 @@ k Apple TV postupujte následujícím způsobem:
     "AirPlay".
 
     ![](tlacitkove-panely/4-ovl_centrum-2.0-GS.png)
-    Obr. 4: Tlačítko AirPlay v ovládacím centru
+    <figcaption>Obr. 4: Tlačítko AirPlay v ovládacím centru</figcaption>
     
 
 3.  Zobrazí se Vám seznam dostupných zařízení, pojmenovaných podle
@@ -130,14 +130,14 @@ k Apple TV postupujte následujícím způsobem:
     přenášet.
 
     ![](tlacitkove-panely/5-seznam_zarizeni-GS.png)
-    Obr. 5: Seznam dostupných Apple TV
+    <figcaption>Obr. 5: Seznam dostupných Apple TV</figcaption>
     
 
 4.  Zadejte kód, který se Vám zobrazí na promítací ploše, a potvrďte
     stisknutím "Ok". Obě zařízení se následně spárují.
 
     ![](tlacitkove-panely/code-GS.png)
-    Obr. 6: Pole pro zadání kódu k Apple TV
+    <figcaption>Obr. 6: Pole pro zadání kódu k Apple TV</figcaption>
 
 ### Projekce z vizualizéru
 

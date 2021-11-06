@@ -51,7 +51,7 @@ mikrofonu (5). Mikrofon držte tak, abyste nepřekrývali anténu a displej.
 
 
 [![](mikrofony/mikrofon01_spravnaverze.jpg)
-Obr. 1: Handka, zdroj: oficiální manuál firmy [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/6403/SKM_300_EN_INT.pdf){:target="_blank"}.
+<figcaption>Obr. 1: Handka, zdroj: oficiální manuál firmy [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/6403/SKM_300_EN_INT.pdf){:target="_blank"}.</figcaption>
 
 
 
@@ -64,7 +64,7 @@ displej oranžově. Důležité je, aby tlačítko s nápisem MIC svítilo
 nepřenáší žádný signál, tudíž nebude na nahrávce slyšet.
 
 ![](mikrofony/mikrofon02.jpg?height=312&width=400)
-Obr. 2: Zapínání a vypínání mikrofonu, zvětšenina antény. Zdroj:
+<figcaption>Obr. 2: Zapínání a vypínání mikrofonu, zvětšenina antény. Zdroj:</figcaption>
 oficiální manuál
 firmy [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/6403/SKM_300_EN_INT.pdf){:target="_blank"}.
 
@@ -84,7 +84,7 @@ Pro vypnutí mikrofonu přidržte dlouze tlačítko ON/OFF na spodní straně
 těla mikrofonu.
 
 ![](mikrofony/mic_hand_2.png)
-Obr. 3: Ovládací prvky mikrofonu v učebnách C, D, G, J, M a N. Zdroj:
+<figcaption>Obr. 3: Ovládací prvky mikrofonu v učebnách C, D, G, J, M a N. Zdroj:</figcaption>
 oficiální manuál firmy Sennheiser.
 
 ### Náhlavní a klopový mikrofon
@@ -98,7 +98,7 @@ Klopový mikrofon (2) klipsou přichytíte k oblečení (nejlépe k lemu
 košile nebo trička), v ideálním případě by neměl třít o látku. 
 
 ![](mikrofony/mikrofony_.png)
-Obr. 4: Mikrofony -- náhlavní (1) a klopový (2). Zdroj: oficiální manuál
+<figcaption>Obr. 4: Mikrofony -- náhlavní (1) a klopový (2). Zdroj: oficiální manuál</figcaption>
 firmy [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/1909/SK100G3_Instructionsforuse.pdf){:target="_blank"}.
 
 Ovládací prvky náhlavního a klopového mikrofonu jsou umístěny na
@@ -118,7 +118,7 @@ je baterie slabá, bude blikat červená dioda (6) a je nutné zavolat
 technika, aby Vám dal jiný přijímač.
 
 ![](mikrofony/oprava_3.png)
-Obr. 5: Schéma přijímače. Zdroj: oficiální manuál firmy
+<figcaption>Obr. 5: Schéma přijímače. Zdroj: oficiální manuál firmy</figcaption>
 [Sennheiser](https://en-us.sennheiser.com/global-downloads/file/1909/SK100G3_Instructionsforuse.pdf){:target="_blank"}.
 
 #### Budovy C, D, G, J, M a N
@@ -137,7 +137,7 @@ tlačítkem můžete mikrofon ztišit v průběhu přednášky.
 Pro vypnutí mikrofonu dlouze přidržte tlačítko ON/OFF (1).
 
 ![](mikrofony/ObrC3A1zek1.png)
-Obr. 6: Ovládací prvky přijímače v budovách C, D, G, J, M a N.
+<figcaption>Obr. 6: Ovládací prvky přijímače v budovách C, D, G, J, M a N.</figcaption>
 
 #### Budovy K a L
 
@@ -155,7 +155,7 @@ boku přijímače (obr. 7, bod 1).
 
 
 ![](mikrofony/ObrC3A1zek2.png)
-Obr. 7: Tlačítko pro zapnutí/vypnutí mikrofonů v budovách K a L.
+<figcaption>Obr. 7: Tlačítko pro zapnutí/vypnutí mikrofonů v budovách K a L.</figcaption>
 
 ### Jak mikrofony správně umístit do adaptéru
 
@@ -169,7 +169,7 @@ nabíječky, aby se dobil a byl připraven pro další použití.
 mikrofon je zcela nabitý a jeho baterie vydrží celou přednášku.
 
 ![](mikrofony/sennheiser-charging.jpg?height=320&width=320)
-Obr. 8: Nabíječka s mikrofony. Zdroj: [dm
+<figcaption>Obr. 8: Nabíječka s mikrofony. Zdroj: [dm</figcaption>
 music](http://www.dmmusic.com/sennheiser-l2015-base-charger-unit){:target="_blank"}.
 
 

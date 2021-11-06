@@ -15,13 +15,13 @@ informace lze po vložení nahrávky [dodatečně
 editovat](/medialdocs/jak-muazu-dodatecne-upravit-metadata).
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/zalozky-GS.png)  
-Obr. 1: Záložky umožňující přecházet mezi jednotlivými kroky
+<figcaption>Obr. 1: Záložky umožňující přecházet mezi jednotlivými kroky</figcaption>
 
 
 ## Výběr souboru z počítače
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/02.5-upload_done-2.0-GS.png)  
-Obr. 2: Rozhraní pro výběr a vložení souboru
+<figcaption>Obr. 2: Rozhraní pro výběr a vložení souboru</figcaption>
 
 
 Na hlavní stránce knihovny videí klikněte na tlačítko "Upload" v
@@ -36,7 +36,7 @@ MPEG, MP3, MP4, M4V, MTS, WAV, WEBM, WMA, WMV a 3GP.
 ## Doplňující informace (Details)
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/03-details-3.0-GS.png)  
-Obr. 3: Formulář pro zadání informací o nahrávce
+<figcaption>Obr. 3: Formulář pro zadání informací o nahrávce</figcaption>
 
 
 Nyní je třeba vyplnit formulář s doplňujícími informacemi. Formulář
@@ -66,7 +66,7 @@ obsahu](/medialdocs/jak-je-obsah-v-medialu-organizovan) knihovny.
 ## Náhledový obrázek (Thumbnails)
 
 ![](home/jak-nahrat-do-medialu-soubor-z-pocitace/04-thumbnail-2.0-GS.png)  
-Obr. 4: Výběr náhledového obrázku
+<figcaption>Obr. 4: Výběr náhledového obrázku</figcaption>
 
 
 V tomto kroku si můžete nastavit obrázek, který bude fungovat jako

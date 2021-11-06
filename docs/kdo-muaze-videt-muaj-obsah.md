@@ -7,7 +7,7 @@ být veřejně dostupné, omezené pouze pro zaměstnance konkrétního
 pracoviště, nebo zcela soukromé.
 
 ![](home/kdo-muaze-videt-muaj-obsah/categories.png)  
-Obr. 1: Seznam kategorií
+<figcaption>Obr. 1: Seznam kategorií</figcaption>
 
 
 
