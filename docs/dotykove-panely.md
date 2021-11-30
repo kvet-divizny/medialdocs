@@ -16,6 +16,7 @@ přednášku, včetně materiálů promítaných na plátně. Je však možné n
 přednášku i bez těchto materiálů. Tento návod se věnuje učebnám s
 dotykovými panely.
 
+**Pozor!** Před pořízením záznamu vždy **zkontrolujte funkčnost zařízení** pomocí ikony **OBS Studio** na ploše počítače. Podrobnější popis najdete v [sekci věnované kontrole funkčnosti](/medialdocs/dotykove-panely#kontrola-funkcnosti-zarizeni-v-ucebne).
 
 ## Zapnutí systému a popis ovládacího panelu
 
