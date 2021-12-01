@@ -1,0 +1,775 @@
+
+<!doctype html>
+<html lang="cs" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://kvet-divizny.github.io/medialdocs/">
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.0.2">
+    
+    
+      
+        <title>Medial: návody pro uživatele</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.816931ca.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.9204c3b2.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#7e56c2">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+    <script>function __md_scope(e,t,_){return new URL(_||(t===localStorage?".":"."),location).pathname+"."+e}function __md_get(e,t=localStorage,_){return JSON.parse(t.getItem(__md_scope(e,t,_)))}function __md_set(e,t,_=localStorage,o){try{_.setItem(__md_scope(e,_,o),JSON.stringify(t))}catch(e){}}</script>
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="deep-purple" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#navody-pro-tvurce-kurzu-medial" class="md-skip">
+          Přeskočit obsah
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Medial: návody pro uživatele" class="md-header__button md-logo" aria-label="Medial: návody pro uživatele" data-md-component="logo">
+      
+  <img src="assets/elf-inverze.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Medial: návody pro uživatele
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Domů
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Hledat" placeholder="Hledat" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Medial: návody pro uživatele" class="md-nav__button md-logo" aria-label="Medial: návody pro uživatele" data-md-component="logo">
+      
+  <img src="assets/elf-inverze.svg" alt="logo">
+
+    </a>
+    Medial: návody pro uživatele
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Domů
+      </a>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Základní přehled
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Základní přehled" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Základní přehled
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="co-je-to-medial/" class="md-nav__link">
+        Co je to Medial
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="vyuziti-medialu/" class="md-nav__link">
+        Využití Medialu
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="zakladni-orientace-v-medialu/" class="md-nav__link">
+        Základní orientace
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="jak-je-obsah-v-medialu-organizovan/" class="md-nav__link">
+        Organizace obsahu
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="propojeni-s-moodlem/" class="md-nav__link">
+        Propojení s Moodlem
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Vkládání obsahu
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Vkládání obsahu" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Vkládání obsahu
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="jak-nahrat-do-medialu-soubor-z-pocitace/" class="md-nav__link">
+        Nahrání souboru z počítače
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="jan-nahrat-video-pomoci-webkamery/" class="md-nav__link">
+        Záznam pomocí webkamery
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="jak-vkladat-obsah-prostrednictvim-moodlu/" class="md-nav__link">
+        Vkládání obsahu prostřednictvím Moodlu
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Správa obsahu
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Správa obsahu" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Správa obsahu
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="kde-najdu-vsechna-svoje-videa/" class="md-nav__link">
+        Stránka Můj obsah
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="jak-muazu-dodatecne-upravit-metadata/" class="md-nav__link">
+        Úprava nahrávek
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Sdílení obsahu
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Sdílení obsahu" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Sdílení obsahu
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="kdo-muaze-videt-muaj-obsah/" class="md-nav__link">
+        Kdo může vidět můj obsah
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="jak-muazu-sva-videa-sirit/" class="md-nav__link">
+        Sdílení obsahu
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Záznamy v učebnách
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Záznamy v učebnách" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Záznamy v učebnách
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="tlacitkove-panely/" class="md-nav__link">
+        Tlačítkové panely
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="dotykove-panely/" class="md-nav__link">
+        Dotykové panely
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="mikrofony/" class="md-nav__link">
+        Mikrofony
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="zivy-prenos-live-stream/" class="md-nav__link">
+        Živý přenos (live stream)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="kontakty/" class="md-nav__link">
+        Kontakty
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Obsah">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+<h1 id="navody-pro-tvurce-kurzu-medial">Návody pro tvůrce kurzů: Medial<a class="headerlink" href="#navody-pro-tvurce-kurzu-medial" title="Permanent link">&para;</a></h1>
+<p>Vítejte v nápovědě pro Medial, knihovnu médií provozovanou a spravovanou
+Filozofickou fakultou MU. Naleznete jej na adrese
+<strong><a href="http://medial.phil.muni.cz/" target="_blank">medial.phil.muni.cz</a></strong>. Na těchto
+stránkách se dozvíte, co přesně Medial je, co umožňuje a jak s ním
+pracovat.</p>
+<p><img alt="" src="home/zakladni_prehled.png" /></p>
+<p>Medial si můžete představit jako fakultní verzi portálu Youtube zřízenou
+pro potřeby Filozofcké fakulty MU. Medial slouží jako archiv audio- a
+videonahrávek souvisejících s činností jednotlivých fakultních
+pracovišť, zároveň funguje jako součást <a href="http://elf.phil.muni.cz" target="_blank">e-learningového prostředí FF
+MU</a> (ELF) a je díky tomu úzce provázán se
+systémem pro správu e-kurzů <a href="https://moodle.org/" target="_blank">Moodle</a> a technikou v
+nově vybavených učebnách.</p>
+<ul>
+<li><a href="/medialdocs/co-je-to-medial"><strong>Co je to Medial.</strong></a> Základní představení knihovny médií a jejího účelu.</li>
+<li><a href="/medialdocs/vyuziti-medialu"><strong>Jak lze Medial využívat.</strong></a> Stručný přehled možností využití Medialu a jeho propojení s ostatními systémy.</li>
+<li><a href="/medialdocs/zakladni-orientace-v-medialu"><strong>Základní orientace.</strong></a> Návod pro přihlášení do Medialu, základní orientaci v něm a možnosti vyhledávání konkrétních nahrávek.</li>
+<li><a href="/medialdocs/jak-je-obsah-v-medialu-organizovan"><strong>Organizace obsahu.</strong></a> Návod popisuje systém kategorií a tagů sloužící k organizaci obsahu Medialu.</li>
+<li><a href="/medialdocs/propojeni-s-moodlem"><strong>Propojení s Moodlem.</strong></a> Základní popis propojení Medialu s e-kurzy v Moodlu.</li>
+</ul>
+<hr />
+<p><img alt="" src="home/vkladani_obsahu-01.png" /></p>
+<p>Do Medialu můžete vložit již existující nahrávky nebo vytvořit zcela
+nové, a to jak z <a href="http://medial.phil.muni.cz" target="_blank">webu Medialu</a>, tak z
+<a href="http://elf.phil.muni.cz/" target="_blank">e-kurzů v Moodlu</a>. Celý systém je
+navíc propojený s nahrávací technikou v nově vybavených učebnách: záznamy, které zde pořídíte, budou automaticky odeslány a
+uloženy do Medialu.</p>
+<ul>
+<li><a href="/medialdocs/jak-nahrat-do-medialu-soubor-z-pocitace"><strong>Jak nahrát soubor z počítače.</strong></a> Návod pro vložení souboru z počítače a vyplnění doplňujících informací o nahrávce.</li>
+<li><a href="/medialdocs/jan-nahrat-video-pomoci-webkamery"><strong>Jak pořídit nahrávku pomocí webkamery.</strong></a> Návod pro vytvoření vlastního audio- či videozáznamu v prostředí Medialu.</li>
+<li><a href="/medialdocs/jak-vkladat-obsah-prostrednictvim-moodlu"><strong>Jak nahrát obsah prostřednictvím Moodlu.</strong></a> Popisuje možnosti vložení nového obsahu do Medialu přímo z e-kurzů v Moodlu.</li>
+</ul>
+<hr />
+<p><img alt="" src="home/sprava_obsahu.png" /></p>
+<p>Se svými nahrávkami můžete poměrně volně manipulovat: přejmenovávat je,
+přesouvat mezi kategoriemi, nahradit je za jinou nahrávku nebo je z
+knihovny odstranit. Dodatečně můžete také upravit informace o nahrávce
+nebo k ní nastavit kapitoly.</p>
+<ul>
+<li><a href="/medialdocs/kde-najdu-vsechna-svoje-videa"><strong>Kde najdu všechna svoje videa.</strong></a> Návod pro zpřístupnění soupisu všech nahrávek uživatele a pro základní úpravy a mazání videí.</li>
+<li><a href="/medialdocs/jak-muazu-dodatecne-upravit-metadata"><strong>Jak můžu dodatečně upravit metadata.</strong></a> Návod pro nahrazení souboru s nahrávkou, dodatečnou úpravu doplňujících informací o ní a vytváření kapitol.</li>
+</ul>
+<hr />
+<p><img alt="" src="home/sdileni_obsahu.png" /></p>
+<p>Své nahrávky můžete sdílet přímo v knihovně médií i mimo ni. V rámci
+<a href="http://medial.phil.muni.cz" target="_blank">webového portálu Medialu</a> můžete
+rozhodnout, kdo všechno Vaši nahrávku uvidí, mimo Medial lze nahrávku
+zprostředkovat pomocí odkazu, stáhnout si ji nebo ji umístit na vlastní
+webové stránky. V neposlední řadě můžete nahrávky rychle a pohodlně
+vkládat do svých kurzů v <a href="http://elf.phil.muni.cz" target="_blank">Moodlu</a>.</p>
+<ul>
+<li><a href="/medialdocs/kdo-muaze-videt-muaj-obsah"><strong>Kdo může vidět moje videa.</strong></a> Vysvětlení, jak lze ovlivnit viditelnost nahrávek v rámci Medialu.</li>
+<li><a href="/medialdocs/jak-muazu-sva-videa-sirit"><strong>Jak můžu svá videa šířit.</strong></a> Popis možností šíření videí mimo Medial, včetně rychlého vkládání videí do e-kurzů v Moodlu.</li>
+</ul>
+<hr />
+<p><img alt="" src="home/propojeni_carla_qq.png" /></p>
+<p>Medial je propojený technikou v nově vybavených učebnách FF. V těchto učebnách můžete pomocí zařízení pro automatizovaný záznam jednoduše nahrávat své přednášky, které se následně objeví ve Vaší kategorii v Medialu. Prostřednictvím Medialu můžete přednášky také živě vysílat na internetu.</p>
+<ul>
+<li><a href="/medialdocs/tlacitkove-panely"><strong>Jak pracovat s tlačítkovými ovládacími panely.</strong></a> Návod pro nahrávání přednášek a ovládání techniky v učebnách s tlačítkovými panely.</li>
+<li><a href="/medialdocs/dotykove-panely"><strong>Jak pracovat s dotykovými ovládacími panely.</strong></a> Návod pro nahrávání přednášek a ovládání techniky v učebnách s dotykovými panely.</li>
+<li><a href="/medialdocs/mikrofony"><strong>Jak používat mikrofony.</strong></a> Základní informace k mikrofonům dostupným v učebnách v Carle.</li>
+<li><a href="/medialdocs/zivy-prenos-live-stream"><strong>Jak zajistit živý přenos z učeben.</strong></a> Popisuje, jak funguje živý stream z učeben a co je třeba udělat pro jeho zajištění.</li>
+<li><a href="/medialdocs/kontakty"><strong>Koho kontaktovat v případě potíží.</strong></a> Podrobnější rozpis kontaktů, na které se můžete obracet, pokud potřebujete pomoci s technikou v učebnách.</li>
+</ul>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+      
+        
+        <a href="co-je-to-medial/" class="md-footer__link md-footer__link--next" aria-label="Další: Co je to Medial" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Další
+              </span>
+              Co je to Medial
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.sections"], "translations": {"clipboard.copy": "Kop\u00edrovat do schr\u00e1nky", "clipboard.copied": "Zkop\u00edrov\u00e1no do schr\u00e1nky", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Hledat", "search.result.placeholder": "Pi\u0161te co se m\u00e1 vyhledat", "search.result.none": "Nenalezeny \u017e\u00e1dn\u00e9 dokumenty", "search.result.one": "Nalezen\u00fd dokument: 1", "search.result.other": "Nalezen\u00e9 dokumenty: #", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "assets/javascripts/workers/search.01824240.min.js"}</script>
+    
+    
+      <script src="assets/javascripts/bundle.ff0eccb3.min.js"></script>
+      
+    
+  </body>
+</html>
