@@ -1,4 +1,4 @@
-name: ci # 
+name: github_ci
 on:
   push:
     branches:
@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
+      - name: Deploy
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
