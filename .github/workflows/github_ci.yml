@@ -8,10 +8,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.4.2
+      - uses: actions/checkout@v2
       
       - name: Deploy
-      - uses: actions/setup-python@v2.3.1
+      - uses: actions/setup-python@v2
         with:
           python-version: 3.x
       - run: pip install mkdocs
